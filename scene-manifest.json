@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mth09-ch01-sc001",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p2",
+    "asset": "assets/mth09-ch01-p1-sc001.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 1"
+  },
+  {
+    "id": "mth09-ch01-sc002",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p5",
+    "asset": "assets/mth09-ch01-p1-sc002.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 2"
+  },
+  {
+    "id": "mth09-ch01-sc003",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p6",
+    "asset": "assets/mth09-ch01-p1-sc003.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 3"
+  },
+  {
+    "id": "mth09-ch01-sc004",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p8",
+    "asset": "assets/mth09-ch01-p1-sc004.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 4"
+  },
+  {
+    "id": "mth09-ch01-sc005",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p10",
+    "asset": "assets/mth09-ch01-p1-sc005.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 5"
+  },
+  {
+    "id": "mth09-ch01-sc006",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p12",
+    "asset": "assets/mth09-ch01-p1-sc006.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 6"
+  },
+  {
+    "id": "mth09-ch01-sc007",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p14",
+    "asset": "assets/mth09-ch01-p1-sc007.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 7"
+  },
+  {
+    "id": "mth09-ch01-sc008",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p15",
+    "asset": "assets/mth09-ch01-p1-sc008.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 8"
+  },
+  {
+    "id": "mth09-ch01-sc009",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p16",
+    "asset": "assets/mth09-ch01-p1-sc009.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 9"
+  },
+  {
+    "id": "mth09-ch01-sc010",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p19",
+    "asset": "assets/mth09-ch01-p1-sc010.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 10"
+  },
+  {
+    "id": "mth09-ch01-sc011",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p22",
+    "asset": "assets/mth09-ch01-p1-sc011.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 11"
+  },
+  {
+    "id": "mth09-ch01-sc012",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p25",
+    "asset": "assets/mth09-ch01-p1-sc012.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 12"
+  },
+  {
+    "id": "mth09-ch01-sc013",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p27",
+    "asset": "assets/mth09-ch01-p1-sc013.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 13"
+  },
+  {
+    "id": "mth09-ch01-sc014",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p29",
+    "asset": "assets/mth09-ch01-p1-sc014.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 14"
+  },
+  {
+    "id": "mth09-ch01-sc015",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p30",
+    "asset": "assets/mth09-ch01-p1-sc015.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 15"
+  },
+  {
+    "id": "mth09-ch01-sc016",
+    "chapter": 1,
+    "part": 1,
+    "part_id": "B09_Chapter_01_Part_01",
+    "insert_after_paragraph_id": "part-p31",
+    "asset": "assets/mth09-ch01-p1-sc016.webp",
+    "status": "integrated",
+    "description": "Chapter 1 scene 16"
+  }
+]
