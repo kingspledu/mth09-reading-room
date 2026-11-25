@@ -4921,9 +4921,16 @@
     "source_anchor_text": "She opened the book. She pointed to a picture of the Frog Creek woods.",
     "source_excerpt": "“And here’s the Pennsylvania book,” said Annie. “Let’s go home.”\n\nShe opened the book. She pointed to a picture of the Frog Creek woods.",
     "action": "She opened the book. She pointed to a picture of the Frog Creek woods.",
-    "status": "planned",
+    "status": "integrated",
     "description": "She opened the book. She pointed to a picture of the Frog Creek woods.",
-    "sequence": 92034
+    "sequence": 92034,
+    "asset": "assets/mth09-ch09-sc239-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc240",
@@ -4937,9 +4944,16 @@
     "source_anchor_text": "“I wish we could go there!” she said.",
     "source_excerpt": "“I wish we could go there!” she said.",
     "action": "“I wish we could go there!” she said.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I wish we could go there!” she said.",
-    "sequence": 92035
+    "sequence": 92035,
+    "asset": "assets/mth09-ch09-sc240-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc241",
@@ -4955,9 +4969,16 @@
     "source_anchor_text": "The wind blew harder and harder.",
     "source_excerpt": "The wind started to blow.\n\nThe tree house started to spin.\n\nThe wind blew harder and harder.",
     "action": "The wind blew harder and harder.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The wind blew harder and harder.",
-    "sequence": 92038
+    "sequence": 92038,
+    "asset": "assets/mth09-ch09-sc241-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc242",
@@ -4972,9 +4993,16 @@
     "source_anchor_text": "Absolutely still.",
     "source_excerpt": "Then everything was still.\n\nAbsolutely still.",
     "action": "Absolutely still.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Absolutely still.",
-    "sequence": 92040
+    "sequence": 92040,
+    "asset": "assets/mth09-ch09-sc242-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc243",
@@ -4989,9 +5017,16 @@
     "source_anchor_text": "No time at all had passed since they’d left. Day was breaking.",
     "source_excerpt": "Dawn light slanted into the tree house.\n\nNo time at all had passed since they’d left. Day was breaking.",
     "action": "No time at all had passed since they’d left. Day was breaking.",
-    "status": "planned",
+    "status": "integrated",
     "description": "No time at all had passed since they’d left. Day was breaking.",
-    "sequence": 101002
+    "sequence": 101002,
+    "asset": "assets/mth09-ch10-sc243-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc244",
@@ -5006,9 +5041,16 @@
     "source_anchor_text": "“We solved the first riddle,” he said. “Three more to go.”",
     "source_excerpt": "Jack rolled up the ancient scroll. He tucked it into the corner.\n\n“We solved the first riddle,” he said. “Three more to go.”",
     "action": "“We solved the first riddle,” he said. “Three more to go.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“We solved the first riddle,” he said. “Three more to go.”",
-    "sequence": 101004
+    "sequence": 101004,
+    "asset": "assets/mth09-ch10-sc244-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc245",
@@ -5023,9 +5065,16 @@
     "source_anchor_text": "“That’s okay,” said Jack. “I think I need to rest—and dry out.”",
     "source_excerpt": "“I don’t see another scroll,” said Annie. “Maybe tomorrow we’ll get the next riddle.”\n\n“That’s okay,” said Jack. “I think I need to rest—and dry out.”",
     "action": "“That’s okay,” said Jack. “I think I need to rest—and dry out.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“That’s okay,” said Jack. “I think I need to rest—and dry out.”",
-    "sequence": 101006
+    "sequence": 101006,
+    "asset": "assets/mth09-ch10-sc245-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc246",
@@ -5039,9 +5088,16 @@
     "source_anchor_text": "His T-shirt and shorts were still soaked. His backpack, too. Only his shoes and socks were dry.",
     "source_excerpt": "His T-shirt and shorts were still soaked. His backpack, too. Only his shoes and socks were dry.",
     "action": "His T-shirt and shorts were still soaked. His backpack, too. Only his shoes and socks were dry.",
-    "status": "planned",
+    "status": "integrated",
     "description": "His T-shirt and shorts were still soaked. His backpack, too. Only his shoes and socks were dry.",
-    "sequence": 101007
+    "sequence": 101007,
+    "asset": "assets/mth09-ch10-sc246-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc247",
@@ -5055,9 +5111,16 @@
     "source_anchor_text": "“And this needs to dry out, too,” said Annie. She put the wet ocean book in a patch of sunlight.",
     "source_excerpt": "“And this needs to dry out, too,” said Annie. She put the wet ocean book in a patch of sunlight.",
     "action": "“And this needs to dry out, too,” said Annie. She put the wet ocean book in a patch of sunlight.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“And this needs to dry out, too,” said Annie. She put the wet ocean book in a patch of sunlight.",
-    "sequence": 101008
+    "sequence": 101008,
+    "asset": "assets/mth09-ch10-sc247-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc248",
@@ -5071,9 +5134,16 @@
     "source_anchor_text": "Then Jack and Annie climbed down the ladder.",
     "source_excerpt": "Then Jack and Annie climbed down the ladder.",
     "action": "Then Jack and Annie climbed down the ladder.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Then Jack and Annie climbed down the ladder.",
-    "sequence": 101009
+    "sequence": 101009,
+    "asset": "assets/mth09-ch10-sc248-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc249",
@@ -5088,9 +5158,16 @@
     "source_anchor_text": "They left the woods and started down their street.",
     "source_excerpt": "They walked through the woods, through leafy shadows and golden light.\n\nThey left the woods and started down their street.",
     "action": "They left the woods and started down their street.",
-    "status": "planned",
+    "status": "integrated",
     "description": "They left the woods and started down their street.",
-    "sequence": 101011
+    "sequence": 101011,
+    "asset": "assets/mth09-ch10-sc249-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc250",
@@ -5105,9 +5182,16 @@
     "source_anchor_text": "“I know, but we wouldn’t have had so much fun,” said Annie.",
     "source_excerpt": "“You know, we should have found the answer to the riddle right away,” said Jack. “The oyster was on the reef all along.”\n\n“I know, but we wouldn’t have had so much fun,” said Annie.",
     "action": "“I know, but we wouldn’t have had so much fun,” said Annie.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I know, but we wouldn’t have had so much fun,” said Annie.",
-    "sequence": 101013
+    "sequence": 101013,
+    "asset": "assets/mth09-ch10-sc250-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc251",
@@ -5122,9 +5206,16 @@
     "source_anchor_text": "“Don’t forget the dolphins,” Annie said simply.",
     "source_excerpt": "“Fun?” said Jack. “You call being squeezed by an octopus and chased by a shark fun?”\n\n“Don’t forget the dolphins,” Annie said simply.",
     "action": "“Don’t forget the dolphins,” Annie said simply.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Don’t forget the dolphins,” Annie said simply.",
-    "sequence": 101015
+    "sequence": 101015,
+    "asset": "assets/mth09-ch10-sc251-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc252",
@@ -5138,9 +5229,16 @@
     "source_anchor_text": "Jack smiled. “Right,” he said. The dolphins made up for everything. They were fun.",
     "source_excerpt": "Jack smiled. “Right,” he said. The dolphins made up for everything. They were fun.",
     "action": "Jack smiled. “Right,” he said. The dolphins made up for everything. They were fun.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack smiled. “Right,” he said. The dolphins made up for everything. They were fun.",
-    "sequence": 101016
+    "sequence": 101016,
+    "asset": "assets/mth09-ch10-sc252-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc253",
@@ -5156,9 +5254,16 @@
     "source_anchor_text": "“Sam?” Annie grinned at him. “You’re nuts,” she said.",
     "source_excerpt": "“I guess they were the true pearl in the oyster,” said Annie.\n\n“Yep … ” said Jack. “I wonder what Sam is doing right now.”\n\n“Sam?” Annie grinned at him. “You’re nuts,” she said.",
     "action": "“Sam?” Annie grinned at him. “You’re nuts,” she said.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Sam?” Annie grinned at him. “You’re nuts,” she said.",
-    "sequence": 101019
+    "sequence": 101019,
+    "asset": "assets/mth09-ch10-sc253-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc254",
@@ -5173,9 +5278,16 @@
     "source_anchor_text": "“We’re back!” Annie shouted.",
     "source_excerpt": "They climbed their steps and went into their house.\n\n“We’re back!” Annie shouted.",
     "action": "“We’re back!” Annie shouted.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“We’re back!” Annie shouted.",
-    "sequence": 101021
+    "sequence": 101021,
+    "asset": "assets/mth09-ch10-sc254-b18.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch10-sc255",
