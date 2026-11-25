@@ -158,5 +158,877 @@
   "grabbed": {
     "ko": "재빨리 붙잡았다",
     "definition": "Took hold of something quickly."
+  },
+  "sun": {
+    "ko": "해",
+    "definition": "A word in the story describing sun."
+  },
+  "sky": {
+    "ko": "하늘",
+    "definition": "A word in the story describing sky."
+  },
+  "lighter": {
+    "ko": "더 밝아지는",
+    "definition": "A word in the story describing lighter."
+  },
+  "awake": {
+    "ko": "깨어 있는",
+    "definition": "A word in the story describing awake."
+  },
+  "dream": {
+    "ko": "꿈",
+    "definition": "A word in the story describing dream."
+  },
+  "waiting": {
+    "ko": "기다리는 중인",
+    "definition": "A word in the story describing waiting."
+  },
+  "magic": {
+    "ko": "마법의",
+    "definition": "A word in the story describing magic."
+  },
+  "woods": {
+    "ko": "숲",
+    "definition": "A word in the story describing woods."
+  },
+  "doorway": {
+    "ko": "문간",
+    "definition": "A word in the story describing doorway."
+  },
+  "important": {
+    "ko": "중요한",
+    "definition": "A word in the story describing important."
+  },
+  "feel": {
+    "ko": "느끼다",
+    "definition": "A word in the story describing feel."
+  },
+  "raced": {
+    "ko": "급히 달렸다",
+    "definition": "A word in the story describing raced."
+  },
+  "stairs": {
+    "ko": "계단",
+    "definition": "A word in the story describing stairs."
+  },
+  "quick": {
+    "ko": "빠른",
+    "definition": "A word in the story describing quick."
+  },
+  "pale": {
+    "ko": "창백한",
+    "definition": "A word in the story describing pale."
+  },
+  "air": {
+    "ko": "공기",
+    "definition": "A word in the story describing air."
+  },
+  "quiet": {
+    "ko": "조용한",
+    "definition": "A word in the story describing quiet."
+  },
+  "street": {
+    "ko": "거리",
+    "definition": "A word in the story describing street."
+  },
+  "tallest": {
+    "ko": "가장 높은",
+    "definition": "A word in the story describing tallest."
+  },
+  "oak": {
+    "ko": "참나무",
+    "definition": "A word in the story describing oak."
+  },
+  "treetop": {
+    "ko": "나무 꼭대기",
+    "definition": "A word in the story describing treetop."
+  },
+  "lovely": {
+    "ko": "사랑스러운",
+    "definition": "A word in the story describing lovely."
+  },
+  "velvet": {
+    "ko": "벨벳",
+    "definition": "A word in the story describing velvet."
+  },
+  "robe": {
+    "ko": "긴 겉옷",
+    "definition": "A word in the story describing robe."
+  },
+  "smiling": {
+    "ko": "웃는",
+    "definition": "A word in the story describing smiling."
+  },
+  "help": {
+    "ko": "도움",
+    "definition": "A word in the story describing help."
+  },
+  "tricks": {
+    "ko": "장난",
+    "definition": "A word in the story describing tricks."
+  },
+  "collect": {
+    "ko": "모으다",
+    "definition": "A word in the story describing collect."
+  },
+  "library": {
+    "ko": "도서관",
+    "definition": "A word in the story describing library."
+  },
+  "sadly": {
+    "ko": "슬프게",
+    "definition": "A word in the story describing sadly."
+  },
+  "test": {
+    "ko": "시험",
+    "definition": "A word in the story describing test."
+  },
+  "solving": {
+    "ko": "풀기",
+    "definition": "A word in the story describing solving."
+  },
+  "folds": {
+    "ko": "접힌 부분",
+    "definition": "A word in the story describing folds."
+  },
+  "rolled": {
+    "ko": "돌돌 만",
+    "definition": "A word in the story describing rolled."
+  },
+  "mysteriously": {
+    "ko": "신비롭게",
+    "definition": "A word in the story describing mysteriously."
+  },
+  "wind": {
+    "ko": "바람",
+    "definition": "A word in the story describing wind."
+  },
+  "spin": {
+    "ko": "빙글 돌다",
+    "definition": "A word in the story describing spin."
+  },
+  "faster": {
+    "ko": "더 빠르게",
+    "definition": "A word in the story describing faster."
+  },
+  "still": {
+    "ko": "고요한",
+    "definition": "A word in the story describing still."
+  },
+  "breeze": {
+    "ko": "산들바람",
+    "definition": "A word in the story describing breeze."
+  },
+  "shore": {
+    "ko": "해안",
+    "definition": "A word in the story describing shore."
+  },
+  "rough": {
+    "ko": "거친",
+    "definition": "A word in the story describing rough."
+  },
+  "hidden": {
+    "ko": "숨겨진",
+    "definition": "A word in the story describing hidden."
+  },
+  "beauty": {
+    "ko": "아름다움",
+    "definition": "A word in the story describing beauty."
+  },
+  "ground": {
+    "ko": "땅",
+    "definition": "A word in the story describing ground."
+  },
+  "pink": {
+    "ko": "분홍색",
+    "definition": "A word in the story describing pink."
+  },
+  "island": {
+    "ko": "섬",
+    "definition": "A word in the story describing island."
+  },
+  "surrounded": {
+    "ko": "둘러싸인",
+    "definition": "A word in the story describing surrounded."
+  },
+  "edge": {
+    "ko": "가장자리",
+    "definition": "A word in the story describing edge."
+  },
+  "machine": {
+    "ko": "기계",
+    "definition": "A word in the story describing machine."
+  },
+  "special": {
+    "ko": "특별한",
+    "definition": "A word in the story describing special."
+  },
+  "inside": {
+    "ko": "안쪽",
+    "definition": "A word in the story describing inside."
+  },
+  "careful": {
+    "ko": "조심스러운",
+    "definition": "A word in the story describing careful."
+  },
+  "touch": {
+    "ko": "만지다",
+    "definition": "A word in the story describing touch."
+  },
+  "shoes": {
+    "ko": "신발",
+    "definition": "A word in the story describing shoes."
+  },
+  "socks": {
+    "ko": "양말",
+    "definition": "A word in the story describing socks."
+  },
+  "screen": {
+    "ko": "화면",
+    "definition": "A word in the story describing screen."
+  },
+  "map": {
+    "ko": "지도",
+    "definition": "A word in the story describing map."
+  },
+  "pressed": {
+    "ko": "눌렀다",
+    "definition": "A word in the story describing pressed."
+  },
+  "keys": {
+    "ko": "키",
+    "definition": "A word in the story describing keys."
+  },
+  "command": {
+    "ko": "명령",
+    "definition": "A word in the story describing command."
+  },
+  "underwater": {
+    "ko": "물속의",
+    "definition": "A word in the story describing underwater."
+  },
+  "beautiful": {
+    "ko": "아름다운",
+    "definition": "A word in the story describing beautiful."
+  },
+  "window": {
+    "ko": "창문",
+    "definition": "A word in the story describing window."
+  },
+  "planet": {
+    "ko": "행성",
+    "definition": "A word in the story describing planet."
+  },
+  "creature": {
+    "ko": "생물",
+    "definition": "A word in the story describing creature."
+  },
+  "giant": {
+    "ko": "거대한",
+    "definition": "A word in the story describing giant."
+  },
+  "tail": {
+    "ko": "꼬리",
+    "definition": "A word in the story describing tail."
+  },
+  "list": {
+    "ko": "목록",
+    "definition": "A word in the story describing list."
+  },
+  "bright": {
+    "ko": "밝은",
+    "definition": "A word in the story describing bright."
+  },
+  "studied": {
+    "ko": "자세히 살폈다",
+    "definition": "A word in the story describing studied."
+  },
+  "row": {
+    "ko": "줄",
+    "definition": "A word in the story describing row."
+  },
+  "flashed": {
+    "ko": "번쩍 나타났다",
+    "definition": "A word in the story describing flashed."
+  },
+  "oceanographer": {
+    "ko": "해양학자",
+    "definition": "A word in the story describing oceanographer."
+  },
+  "notes": {
+    "ko": "메모",
+    "definition": "A word in the story describing notes."
+  },
+  "cracks": {
+    "ko": "금",
+    "definition": "A word in the story describing cracks."
+  },
+  "broken": {
+    "ko": "망가진",
+    "definition": "A word in the story describing broken."
+  },
+  "helicopter": {
+    "ko": "헬리콥터",
+    "definition": "A word in the story describing helicopter."
+  },
+  "junkyard": {
+    "ko": "고물상",
+    "definition": "A word in the story describing junkyard."
+  },
+  "gasped": {
+    "ko": "헉 하고 숨을 들이켰다",
+    "definition": "A word in the story describing gasped."
+  },
+  "relief": {
+    "ko": "안도감",
+    "definition": "A word in the story describing relief."
+  },
+  "arm": {
+    "ko": "팔",
+    "definition": "A word in the story describing arm."
+  },
+  "drop": {
+    "ko": "방울",
+    "definition": "A word in the story describing drop."
+  },
+  "ceiling": {
+    "ko": "천장",
+    "definition": "A word in the story describing ceiling."
+  },
+  "dripped": {
+    "ko": "똑똑 떨어졌다",
+    "definition": "A word in the story describing dripped."
+  },
+  "polite": {
+    "ko": "예의 바른",
+    "definition": "A word in the story describing polite."
+  },
+  "yelled": {
+    "ko": "소리쳤다",
+    "definition": "A word in the story describing yelled."
+  },
+  "clear": {
+    "ko": "맑은",
+    "definition": "A word in the story describing clear."
+  },
+  "top": {
+    "ko": "꼭대기",
+    "definition": "A word in the story describing top."
+  },
+  "spurting": {
+    "ko": "세차게 뿜어져 나오는",
+    "definition": "A word in the story describing spurting."
+  },
+  "ankles": {
+    "ko": "발목",
+    "definition": "A word in the story describing ankles."
+  },
+  "knees": {
+    "ko": "무릎",
+    "definition": "A word in the story describing knees."
+  },
+  "steering": {
+    "ko": "조종",
+    "definition": "A word in the story describing steering."
+  },
+  "blank": {
+    "ko": "텅 빈",
+    "definition": "A word in the story describing blank."
+  },
+  "swimming": {
+    "ko": "수영",
+    "definition": "A word in the story describing swimming."
+  },
+  "shark": {
+    "ko": "상어",
+    "definition": "A word in the story describing shark."
+  },
+  "splash": {
+    "ko": "물을 튀기다",
+    "definition": "A word in the story describing splash."
+  },
+  "calmly": {
+    "ko": "침착하게",
+    "definition": "A word in the story describing calmly."
+  },
+  "float": {
+    "ko": "뜨다",
+    "definition": "A word in the story describing float."
+  },
+  "slippery": {
+    "ko": "미끄러운",
+    "definition": "A word in the story describing slippery."
+  },
+  "alive": {
+    "ko": "살아 있는",
+    "definition": "A word in the story describing alive."
+  },
+  "worst": {
+    "ko": "최악",
+    "definition": "A word in the story describing worst."
+  },
+  "nuzzled": {
+    "ko": "코를 비볐다",
+    "definition": "A word in the story describing nuzzled."
+  },
+  "flippers": {
+    "ko": "지느러미발",
+    "definition": "A word in the story describing flippers."
+  },
+  "shallow": {
+    "ko": "얕은",
+    "definition": "A word in the story describing shallow."
+  },
+  "blurry": {
+    "ko": "흐릿한",
+    "definition": "A word in the story describing blurry."
+  },
+  "wonder": {
+    "ko": "경이로움",
+    "definition": "A word in the story describing wonder."
+  },
+  "shell": {
+    "ko": "껍데기",
+    "definition": "A word in the story describing shell."
+  },
+  "ridges": {
+    "ko": "능선",
+    "definition": "A word in the story describing ridges."
+  },
+  "stuck": {
+    "ko": "붙어 버린",
+    "definition": "A word in the story describing stuck."
+  },
+  "oyster": {
+    "ko": "굴",
+    "definition": "A word in the story describing oyster."
+  },
+  "irritate": {
+    "ko": "짜증나게 하다",
+    "definition": "A word in the story describing irritate."
+  },
+  "shimmering": {
+    "ko": "반짝이는",
+    "definition": "A word in the story describing shimmering."
+  },
+  "ancient": {
+    "ko": "고대의",
+    "definition": "A word in the story describing ancient."
+  },
+  "rest": {
+    "ko": "쉬다",
+    "definition": "A word in the story describing rest."
+  },
+  "leafy": {
+    "ko": "나뭇잎이 우거진",
+    "definition": "A word in the story describing leafy."
+  },
+  "golden": {
+    "ko": "황금빛의",
+    "definition": "A word in the story describing golden."
+  },
+  "wet": {
+    "ko": "젖은",
+    "definition": "A word in the story describing wet."
+  },
+  "roughly": {
+    "ko": "거칠게",
+    "definition": "A word in the story describing roughly."
+  },
+  "why": {
+    "ko": "왜",
+    "definition": "An expression used in the story: why."
+  },
+  "yes": {
+    "ko": "응",
+    "definition": "An expression used in the story: yes."
+  },
+  "yeah": {
+    "ko": "응",
+    "definition": "An expression used in the story: yeah."
+  },
+  "oops": {
+    "ko": "이런",
+    "definition": "An expression used in the story: oops."
+  },
+  "wait": {
+    "ko": "잠깐",
+    "definition": "An expression used in the story: wait."
+  },
+  "wow": {
+    "ko": "와",
+    "definition": "An expression used in the story: wow."
+  },
+  "really": {
+    "ko": "정말",
+    "definition": "An expression used in the story: really."
+  },
+  "okay": {
+    "ko": "알겠어",
+    "definition": "An expression used in the story: okay."
+  },
+  "sorry": {
+    "ko": "미안해",
+    "definition": "An expression used in the story: sorry."
+  },
+  "no": {
+    "ko": "아니",
+    "definition": "An expression used in the story: no."
+  },
+  "oh": {
+    "ko": "아",
+    "definition": "An expression used in the story: oh."
+  },
+  "come": {
+    "ko": "오다",
+    "definition": "An expression used in the story: come."
+  },
+  "look": {
+    "ko": "보다",
+    "definition": "An expression used in the story: look."
+  },
+  "go": {
+    "ko": "가다",
+    "definition": "An expression used in the story: go."
+  },
+  "thanks": {
+    "ko": "고마워",
+    "definition": "An expression used in the story: thanks."
+  },
+  "bye": {
+    "ko": "안녕",
+    "definition": "An expression used in the story: bye."
+  },
+  "jack": {
+    "ko": "jack을 뜻하는 말",
+    "definition": "A useful story word: jack."
+  },
+  "asked": {
+    "ko": "asked을 뜻하는 말",
+    "definition": "A useful story word: asked."
+  },
+  "some": {
+    "ko": "some을 뜻하는 말",
+    "definition": "A useful story word: some."
+  },
+  "dreams": {
+    "ko": "dreams을 뜻하는 말",
+    "definition": "A useful story word: dreams."
+  },
+  "aren": {
+    "ko": "aren을 뜻하는 말",
+    "definition": "A useful story word: aren."
+  },
+  "annie": {
+    "ko": "annie을 뜻하는 말",
+    "definition": "A useful story word: annie."
+  },
+  "opened": {
+    "ko": "opened을 뜻하는 말",
+    "definition": "A useful story word: opened."
+  },
+  "door": {
+    "ko": "door을 뜻하는 말",
+    "definition": "A useful story word: door."
+  },
+  "later": {
+    "ko": "later을 뜻하는 말",
+    "definition": "A useful story word: later."
+  },
+  "downstairs": {
+    "ko": "downstairs을 뜻하는 말",
+    "definition": "A useful story word: downstairs."
+  },
+  "going": {
+    "ko": "going을 뜻하는 말",
+    "definition": "A useful story word: going."
+  },
+  "early": {
+    "ko": "early을 뜻하는 말",
+    "definition": "A useful story word: early."
+  },
+  "called": {
+    "ko": "called을 뜻하는 말",
+    "definition": "A useful story word: called."
+  },
+  "know": {
+    "ko": "know을 뜻하는 말",
+    "definition": "A useful story word: know."
+  },
+  "morgan": {
+    "ko": "morgan을 뜻하는 말",
+    "definition": "A useful story word: morgan."
+  },
+  "late": {
+    "ko": "late을 뜻하는 말",
+    "definition": "A useful story word: late."
+  },
+  "dove": {
+    "ko": "dove을 뜻하는 말",
+    "definition": "A useful story word: dove."
+  },
+  "silently": {
+    "ko": "silently을 뜻하는 말",
+    "definition": "A useful story word: silently."
+  },
+  "deep": {
+    "ko": "deep을 뜻하는 말",
+    "definition": "A useful story word: deep."
+  },
+  "nodded": {
+    "ko": "nodded을 뜻하는 말",
+    "definition": "A useful story word: nodded."
+  },
+  "slowly": {
+    "ko": "slowly을 뜻하는 말",
+    "definition": "A useful story word: slowly."
+  },
+  "might": {
+    "ko": "might을 뜻하는 말",
+    "definition": "A useful story word: might."
+  },
+  "right": {
+    "ko": "right을 뜻하는 말",
+    "definition": "A useful story word: right."
+  },
+  "thought": {
+    "ko": "thought을 뜻하는 말",
+    "definition": "A useful story word: thought."
+  },
+  "besides": {
+    "ko": "besides을 뜻하는 말",
+    "definition": "A useful story word: besides."
+  },
+  "ever": {
+    "ko": "ever을 뜻하는 말",
+    "definition": "A useful story word: ever."
+  },
+  "visit": {
+    "ko": "visit을 뜻하는 말",
+    "definition": "A useful story word: visit."
+  },
+  "place": {
+    "ko": "place을 뜻하는 말",
+    "definition": "A useful story word: place."
+  },
+  "like": {
+    "ko": "like을 뜻하는 말",
+    "definition": "A useful story word: like."
+  },
+  "again": {
+    "ko": "again을 뜻하는 말",
+    "definition": "A useful story word: again."
+  },
+  "there": {
+    "ko": "there을 뜻하는 말",
+    "definition": "A useful story word: there."
+  },
+  "fish": {
+    "ko": "fish을 뜻하는 말",
+    "definition": "A useful story word: fish."
+  },
+  "everywhere": {
+    "ko": "everywhere을 뜻하는 말",
+    "definition": "A useful story word: everywhere."
+  },
+  "floating": {
+    "ko": "floating을 뜻하는 말",
+    "definition": "A useful story word: floating."
+  },
+  "swaying": {
+    "ko": "swaying을 뜻하는 말",
+    "definition": "A useful story word: swaying."
+  },
+  "grass": {
+    "ko": "grass을 뜻하는 말",
+    "definition": "A useful story word: grass."
+  },
+  "eating": {
+    "ko": "eating을 뜻하는 말",
+    "definition": "A useful story word: eating."
+  },
+  "white": {
+    "ko": "white을 뜻하는 말",
+    "definition": "A useful story word: white."
+  },
+  "sandy": {
+    "ko": "sandy을 뜻하는 말",
+    "definition": "A useful story word: sandy."
+  },
+  "bottom": {
+    "ko": "bottom을 뜻하는 말",
+    "definition": "A useful story word: bottom."
+  },
+  "peeping": {
+    "ko": "peeping을 뜻하는 말",
+    "definition": "A useful story word: peeping."
+  },
+  "caves": {
+    "ko": "caves을 뜻하는 말",
+    "definition": "A useful story word: caves."
+  },
+  "starfish": {
+    "ko": "starfish을 뜻하는 말",
+    "definition": "A useful story word: starfish."
+  },
+  "jellyfish": {
+    "ko": "jellyfish을 뜻하는 말",
+    "definition": "A useful story word: jellyfish."
+  },
+  "horses": {
+    "ko": "horses을 뜻하는 말",
+    "definition": "A useful story word: horses."
+  },
+  "looked": {
+    "ko": "looked을 뜻하는 말",
+    "definition": "A useful story word: looked."
+  },
+  "around": {
+    "ko": "around을 뜻하는 말",
+    "definition": "A useful story word: around."
+  },
+  "tiny": {
+    "ko": "tiny을 뜻하는 말",
+    "definition": "A useful story word: tiny."
+  },
+  "space": {
+    "ko": "space을 뜻하는 말",
+    "definition": "A useful story word: space."
+  },
+  "monday": {
+    "ko": "monday을 뜻하는 말",
+    "definition": "A useful story word: monday."
+  },
+  "july": {
+    "ko": "july을 뜻하는 말",
+    "definition": "A useful story word: july."
+  },
+  "cannot": {
+    "ko": "cannot을 뜻하는 말",
+    "definition": "A useful story word: cannot."
+  },
+  "fixed": {
+    "ko": "fixed을 뜻하는 말",
+    "definition": "A useful story word: fixed."
+  },
+  "defective": {
+    "ko": "defective을 뜻하는 말",
+    "definition": "A useful story word: defective."
+  },
+  "another": {
+    "ko": "another을 뜻하는 말",
+    "definition": "A useful story word: another."
+  },
+  "please": {
+    "ko": "please을 뜻하는 말",
+    "definition": "A useful story word: please."
+  },
+  "shouted": {
+    "ko": "shouted을 뜻하는 말",
+    "definition": "A useful story word: shouted."
+  },
+  "read": {
+    "ko": "read을 뜻하는 말",
+    "definition": "A useful story word: read."
+  },
+  "aloud": {
+    "ko": "aloud을 뜻하는 말",
+    "definition": "A useful story word: aloud."
+  },
+  "dark": {
+    "ko": "dark을 뜻하는 말",
+    "definition": "A useful story word: dark."
+  },
+  "zigzagging": {
+    "ko": "zigzagging을 뜻하는 말",
+    "definition": "A useful story word: zigzagging."
+  },
+  "through": {
+    "ko": "through을 뜻하는 말",
+    "definition": "A useful story word: through."
+  },
+  "water": {
+    "ko": "water을 뜻하는 말",
+    "definition": "A useful story word: water."
+  },
+  "heading": {
+    "ko": "heading을 뜻하는 말",
+    "definition": "A useful story word: heading."
+  },
+  "toward": {
+    "ko": "toward을 뜻하는 말",
+    "definition": "A useful story word: toward."
+  },
+  "took": {
+    "ko": "took을 뜻하는 말",
+    "definition": "A useful story word: took."
+  },
+  "forever": {
+    "ko": "forever을 뜻하는 말",
+    "definition": "A useful story word: forever."
+  },
+  "tree": {
+    "ko": "tree을 뜻하는 말",
+    "definition": "A useful story word: tree."
+  },
+  "house": {
+    "ko": "house을 뜻하는 말",
+    "definition": "A useful story word: house."
+  },
+  "little": {
+    "ko": "little을 뜻하는 말",
+    "definition": "A useful story word: little."
+  },
+  "closer": {
+    "ko": "closer을 뜻하는 말",
+    "definition": "A useful story word: closer."
+  },
+  "felt": {
+    "ko": "felt을 뜻하는 말",
+    "definition": "A useful story word: felt."
+  },
+  "something": {
+    "ko": "something을 뜻하는 말",
+    "definition": "A useful story word: something."
+  },
+  "open": {
+    "ko": "open을 뜻하는 말",
+    "definition": "A useful story word: open."
+  },
+  "time": {
+    "ko": "time을 뜻하는 말",
+    "definition": "A useful story word: time."
+  },
+  "passed": {
+    "ko": "passed을 뜻하는 말",
+    "definition": "A useful story word: passed."
+  },
+  "since": {
+    "ko": "since을 뜻하는 말",
+    "definition": "A useful story word: since."
+  },
+  "left": {
+    "ko": "left을 뜻하는 말",
+    "definition": "A useful story word: left."
+  },
+  "breaking": {
+    "ko": "breaking을 뜻하는 말",
+    "definition": "A useful story word: breaking."
+  },
+  "won’t": {
+    "ko": "하지 않을 것이다",
+    "definition": "A contraction meaning will not."
+  },
+  "do": {
+    "ko": "하다",
+    "definition": "A verb used to ask whether something is true."
+  },
+  "what": {
+    "ko": "무엇",
+    "definition": "A question word asking about a thing."
+  },
+  "too": {
+    "ko": "또한",
+    "definition": "A word meaning also or as well."
   }
 }
