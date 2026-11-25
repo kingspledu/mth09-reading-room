@@ -1591,9 +1591,16 @@
     "source_anchor_text": "“Their names are Sukie and Sam,” said Annie. “Sister and brother.”",
     "source_excerpt": "“Their names are Sukie and Sam,” said Annie. “Sister and brother.”",
     "action": "“Their names are Sukie and Sam,” said Annie. “Sister and brother.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Their names are Sukie and Sam,” said Annie. “Sister and brother.”",
-    "sequence": 41025
+    "sequence": 41025,
+    "asset": "assets/mth09-ch04-sc105-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc106",
@@ -1608,9 +1615,16 @@
     "source_anchor_text": "“Here’s a kiss for you, Sukie,” Annie said. She pressed her lips to the glass as if she were kissing the dolphin’s nose.",
     "source_excerpt": "“You’re nuts,” said Jack.\n\n“Here’s a kiss for you, Sukie,” Annie said. She pressed her lips to the glass as if she were kissing the dolphin’s nose.",
     "action": "“Here’s a kiss for you, Sukie,” Annie said. She pressed her lips to the glass as if she were kissing the dolphin’s nose.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Here’s a kiss for you, Sukie,” Annie said. She pressed her lips to the glass as if she were kissing the dolphin’s nose.",
-    "sequence": 41027
+    "sequence": 41027,
+    "asset": "assets/mth09-ch04-sc106-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc107",
@@ -1625,9 +1639,16 @@
     "source_anchor_text": "But the dolphin opened her mouth and tossed her head. She seemed to be laughing.",
     "source_excerpt": "“Oh, brother,” said Jack.\n\nBut the dolphin opened her mouth and tossed her head. She seemed to be laughing.",
     "action": "But the dolphin opened her mouth and tossed her head. She seemed to be laughing.",
-    "status": "planned",
+    "status": "integrated",
     "description": "But the dolphin opened her mouth and tossed her head. She seemed to be laughing.",
-    "sequence": 41029
+    "sequence": 41029,
+    "asset": "assets/mth09-ch04-sc107-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc108",
@@ -1641,9 +1662,16 @@
     "source_anchor_text": "“Hey, I know the answer to the riddle—dolphins!” said Annie. “They’re gray and plain. But they have great beauty inside.”",
     "source_excerpt": "“Hey, I know the answer to the riddle—dolphins!” said Annie. “They’re gray and plain. But they have great beauty inside.”",
     "action": "“Hey, I know the answer to the riddle—dolphins!” said Annie. “They’re gray and plain. But they have great beauty inside.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Hey, I know the answer to the riddle—dolphins!” said Annie. “They’re gray and plain. But they have great beauty inside.”",
-    "sequence": 41030
+    "sequence": 41030,
+    "asset": "assets/mth09-ch04-sc108-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc109",
@@ -1658,9 +1686,16 @@
     "source_anchor_text": "“Oh, right,” said Annie.",
     "source_excerpt": "“You forgot the ‘rough as a rock’ part,” said Jack. “Dolphin skin looks smooth and slippery.”\n\n“Oh, right,” said Annie.",
     "action": "“Oh, right,” said Annie.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Oh, right,” said Annie.",
-    "sequence": 41032
+    "sequence": 41032,
+    "asset": "assets/mth09-ch04-sc109-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc110",
@@ -1674,9 +1709,16 @@
     "source_anchor_text": "The dolphins flipped their tails. They swam off into the light blue water.",
     "source_excerpt": "The dolphins flipped their tails. They swam off into the light blue water.",
     "action": "The dolphins flipped their tails. They swam off into the light blue water.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The dolphins flipped their tails. They swam off into the light blue water.",
-    "sequence": 41033
+    "sequence": 41033,
+    "asset": "assets/mth09-ch04-sc110-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc111",
@@ -1691,9 +1733,16 @@
     "source_anchor_text": "But the dolphins were gone.",
     "source_excerpt": "“Wait! Don’t go!” called Annie. “Sukie!”\n\nBut the dolphins were gone.",
     "action": "But the dolphins were gone.",
-    "status": "planned",
+    "status": "integrated",
     "description": "But the dolphins were gone.",
-    "sequence": 41035
+    "sequence": 41035,
+    "asset": "assets/mth09-ch04-sc111-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc112",
@@ -1708,9 +1757,16 @@
     "source_anchor_text": "“But we haven’t solved the riddle,” said Annie.",
     "source_excerpt": "“It’s time for us to go, too,” said Jack. He was afraid someone might be looking for the mini-sub.\n\n“But we haven’t solved the riddle,” said Annie.",
     "action": "“But we haven’t solved the riddle,” said Annie.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“But we haven’t solved the riddle,” said Annie.",
-    "sequence": 41037
+    "sequence": 41037,
+    "asset": "assets/mth09-ch04-sc112-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc113",
@@ -1725,9 +1781,16 @@
     "source_anchor_text": "“I don’t see the answer,” he said. “There’s nothing plain at all out there.”",
     "source_excerpt": "Jack studied the bright underwater world.\n\n“I don’t see the answer,” he said. “There’s nothing plain at all out there.”",
     "action": "“I don’t see the answer,” he said. “There’s nothing plain at all out there.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I don’t see the answer,” he said. “There’s nothing plain at all out there.”",
-    "sequence": 41039
+    "sequence": 41039,
+    "asset": "assets/mth09-ch04-sc113-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc114",
@@ -1742,9 +1805,17 @@
     "source_anchor_text": "They looked around the tiny space.",
     "source_excerpt": "“Then maybe the answer’s in the mini-sub,” said Annie.\n\nThey looked around the tiny space.",
     "action": "They looked around the tiny space.",
-    "status": "planned",
+    "status": "review_required",
     "description": "They looked around the tiny space.",
-    "sequence": 41041
+    "sequence": 41041,
+    "asset": "assets/mth09-ch04-sc114-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Invented cabinet search or preexisting notebook warning diagram not in source"
   },
   {
     "id": "mth09-ch04-sc115",
@@ -1759,9 +1830,16 @@
     "source_anchor_text": "He pressed the book picture.",
     "source_excerpt": "“I’ll check the computer,” said Jack. He studied the row of pictures at the top of the screen.\n\nHe pressed the book picture.",
     "action": "He pressed the book picture.",
-    "status": "planned",
+    "status": "integrated",
     "description": "He pressed the book picture.",
-    "sequence": 41043
+    "sequence": 41043,
+    "asset": "assets/mth09-ch04-sc115-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch04-sc116",
@@ -1775,9 +1853,16 @@
     "source_anchor_text": "The words SHIP’S LOG flashed onto the screen.",
     "source_excerpt": "The words SHIP’S LOG flashed onto the screen.",
     "action": "The words SHIP’S LOG flashed onto the screen.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The words SHIP’S LOG flashed onto the screen.",
-    "sequence": 41044
+    "sequence": 41044,
+    "asset": "assets/mth09-ch04-sc116-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc117",
@@ -1792,9 +1877,16 @@
     "source_anchor_text": "“It’s a diary of an ocean trip,” said Jack.",
     "source_excerpt": "“What’s a ship’s log?” said Annie.\n\n“It’s a diary of an ocean trip,” said Jack.",
     "action": "“It’s a diary of an ocean trip,” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“It’s a diary of an ocean trip,” said Jack.",
-    "sequence": 51002
+    "sequence": 51002,
+    "asset": "assets/mth09-ch05-sc117-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc118",
@@ -1809,9 +1901,16 @@
     "source_anchor_text": "MONDAY, JULY 5",
     "source_excerpt": "He peered at the computer screen and read a log entry:\n\nMONDAY, JULY 5",
     "action": "MONDAY, JULY 5",
-    "status": "planned",
+    "status": "integrated",
     "description": "MONDAY, JULY 5",
-    "sequence": 51004
+    "sequence": 51004,
+    "asset": "assets/mth09-ch05-sc118-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc119",
@@ -1828,9 +1927,16 @@
     "source_anchor_text": "FOUND TINY CRACK IN HULL",
     "source_excerpt": "“Hey, that was just last week,” said Jack. He read further:\n\nCOLLECTED ROCK AND SHELL SAMPLES\n\nMAPPED OCEAN FLOOR\n\nFOUND TINY CRACK IN HULL",
     "action": "FOUND TINY CRACK IN HULL",
-    "status": "planned",
+    "status": "integrated",
     "description": "FOUND TINY CRACK IN HULL",
-    "sequence": 51008
+    "sequence": 51008,
+    "asset": "assets/mth09-ch05-sc119-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc120",
@@ -1845,9 +1951,17 @@
     "source_anchor_text": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
     "source_excerpt": "“This is like your notebook,” said Annie.\n\n“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
     "action": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
-    "status": "planned",
+    "status": "review_required",
     "description": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
-    "sequence": 51010
+    "sequence": 51010,
+    "asset": "assets/mth09-ch05-sc120-b08.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Invented cabinet search or preexisting notebook warning diagram not in source"
   },
   {
     "id": "mth09-ch05-sc121",

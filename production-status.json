@@ -6,7 +6,7 @@
   "text_verified": true,
   "vocabulary_entries": 40,
   "vocabulary_buttons": 231,
-  "integrated_scenes": 101,
+  "integrated_scenes": 115,
   "scene_plan_status": "fixed_source_anchored_inventory",
   "preliminary_body_batches": [
     15,
@@ -22,11 +22,11 @@
   "chapter_source_pages": 10,
   "browser_visual_qa": "unavailable_browser_access_host",
   "source_files_verified": 20,
-  "completed_body_batches": 2,
+  "completed_body_batches": null,
   "remaining_batch_estimate": "fixed_scene_count",
-  "review_required_scenes": 3,
-  "generated_body_batches": 7,
+  "review_required_scenes": 5,
+  "generated_body_batches": 8,
   "total_planned_scenes": 255,
-  "pending_scenes": 154,
-  "remaining_batches": 10
+  "pending_scenes": 140,
+  "remaining_batches": 9
 }
