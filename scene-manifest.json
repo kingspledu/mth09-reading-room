@@ -2646,9 +2646,16 @@
     "source_anchor_text": "“The octopus better let go! Before the whole ceiling breaks!” said Jack.",
     "source_excerpt": "“We found the cracks,” said Annie.\n\n“The octopus better let go! Before the whole ceiling breaks!” said Jack.",
     "action": "“The octopus better let go! Before the whole ceiling breaks!” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“The octopus better let go! Before the whole ceiling breaks!” said Jack.",
-    "sequence": 61018
+    "sequence": 61018,
+    "asset": "assets/mth09-ch06-sc148-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc149",
@@ -2663,9 +2670,16 @@
     "source_anchor_text": "The creature blinked, as if trying to understand her.",
     "source_excerpt": "“Let go, please. Please!” Annie shouted at the octopus.\n\nThe creature blinked, as if trying to understand her.",
     "action": "The creature blinked, as if trying to understand her.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The creature blinked, as if trying to understand her.",
-    "sequence": 61020
+    "sequence": 61020,
+    "asset": "assets/mth09-ch06-sc149-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc150",
@@ -2679,9 +2693,16 @@
     "source_anchor_text": "“Please! Please! Please!” she shouted.",
     "source_excerpt": "“Please! Please! Please!” she shouted.",
     "action": "“Please! Please! Please!” she shouted.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Please! Please! Please!” she shouted.",
-    "sequence": 61021
+    "sequence": 61021,
+    "asset": "assets/mth09-ch06-sc150-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc151",
@@ -2696,9 +2717,16 @@
     "source_anchor_text": "The octopus blinked at Jack.",
     "source_excerpt": "“Come on, Annie,” said Jack. “It doesn’t care if you’re polite.”\n\nThe octopus blinked at Jack.",
     "action": "The octopus blinked at Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The octopus blinked at Jack.",
-    "sequence": 61023
+    "sequence": 61023,
+    "asset": "assets/mth09-ch06-sc151-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc152",
@@ -2712,9 +2740,16 @@
     "source_anchor_text": "“Get out of here!” Jack yelled at it. “Now! Beat it! Scram! Go!”",
     "source_excerpt": "“Get out of here!” Jack yelled at it. “Now! Beat it! Scram! Go!”",
     "action": "“Get out of here!” Jack yelled at it. “Now! Beat it! Scram! Go!”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Get out of here!” Jack yelled at it. “Now! Beat it! Scram! Go!”",
-    "sequence": 61024
+    "sequence": 61024,
+    "asset": "assets/mth09-ch06-sc152-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc153",
@@ -2728,9 +2763,16 @@
     "source_anchor_text": "The octopus shot a cloud of black liquid into the water and disappeared into the dark cloud. Its long tentacles trailed through the water.",
     "source_excerpt": "The octopus shot a cloud of black liquid into the water and disappeared into the dark cloud. Its long tentacles trailed through the water.",
     "action": "The octopus shot a cloud of black liquid into the water and disappeared into the dark cloud. Its long tentacles trailed through the water.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The octopus shot a cloud of black liquid into the water and disappeared into the dark cloud. Its long tentacles trailed through the water.",
-    "sequence": 61025
+    "sequence": 61025,
+    "asset": "assets/mth09-ch06-sc153-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc154",
@@ -2744,9 +2786,16 @@
     "source_anchor_text": "The mini-sub started to rise slowly again.",
     "source_excerpt": "The mini-sub started to rise slowly again.",
     "action": "The mini-sub started to rise slowly again.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The mini-sub started to rise slowly again.",
-    "sequence": 61026
+    "sequence": 61026,
+    "asset": "assets/mth09-ch06-sc154-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc155",
@@ -2761,9 +2810,16 @@
     "source_anchor_text": "“I don’t think so … ” Something bothered Jack.",
     "source_excerpt": "“You hurt his feelings,” Annie said.\n\n“I don’t think so … ” Something bothered Jack.",
     "action": "“I don’t think so … ” Something bothered Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I don’t think so … ” Something bothered Jack.",
-    "sequence": 61028
+    "sequence": 61028,
+    "asset": "assets/mth09-ch06-sc155-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc156",
@@ -2778,9 +2834,16 @@
     "source_anchor_text": "The octopus squirts black ink to escape its enemies. One of its main enemies is the shark.",
     "source_excerpt": "He looked back at the ocean book. He read to himself:\n\nThe octopus squirts black ink to escape its enemies. One of its main enemies is the shark.",
     "action": "The octopus squirts black ink to escape its enemies. One of its main enemies is the shark.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The octopus squirts black ink to escape its enemies. One of its main enemies is the shark.",
-    "sequence": 61030
+    "sequence": 61030,
+    "asset": "assets/mth09-ch06-sc156-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc157",
@@ -2795,9 +2858,16 @@
     "source_anchor_text": "“What’s wrong?” asked Annie.",
     "source_excerpt": "“Oh, no,” said Jack.\n\n“What’s wrong?” asked Annie.",
     "action": "“What’s wrong?” asked Annie.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“What’s wrong?” asked Annie.",
-    "sequence": 61032
+    "sequence": 61032,
+    "asset": "assets/mth09-ch06-sc157-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc158",
@@ -2812,9 +2882,16 @@
     "source_anchor_text": "A shadowy figure moved toward the mini-sub.",
     "source_excerpt": "Jack looked out the window. The water was growing clear again.\n\nA shadowy figure moved toward the mini-sub.",
     "action": "A shadowy figure moved toward the mini-sub.",
-    "status": "planned",
+    "status": "integrated",
     "description": "A shadowy figure moved toward the mini-sub.",
-    "sequence": 61034
+    "sequence": 61034,
+    "asset": "assets/mth09-ch06-sc158-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc159",
@@ -2829,9 +2906,16 @@
     "source_anchor_text": "The fish was way bigger than the dolphins. And it had a very weird head.",
     "source_excerpt": "“What is that?” whispered Annie.\n\nThe fish was way bigger than the dolphins. And it had a very weird head.",
     "action": "The fish was way bigger than the dolphins. And it had a very weird head.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The fish was way bigger than the dolphins. And it had a very weird head.",
-    "sequence": 61036
+    "sequence": 61036,
+    "asset": "assets/mth09-ch06-sc159-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc160",
@@ -2846,9 +2930,16 @@
     "source_anchor_text": "“A hammerhead shark,” he breathed. “We’re really in trouble now.”",
     "source_excerpt": "Jack could feel his heart nearly stop.\n\n“A hammerhead shark,” he breathed. “We’re really in trouble now.”",
     "action": "“A hammerhead shark,” he breathed. “We’re really in trouble now.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“A hammerhead shark,” he breathed. “We’re really in trouble now.”",
-    "sequence": 61038
+    "sequence": 61038,
+    "asset": "assets/mth09-ch06-sc160-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc161",
@@ -2863,9 +2954,16 @@
     "source_anchor_text": "“Where did it go?” said Annie, peering out the window.",
     "source_excerpt": "The shark swam behind the coral.\n\n“Where did it go?” said Annie, peering out the window.",
     "action": "“Where did it go?” said Annie, peering out the window.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Where did it go?” said Annie, peering out the window.",
-    "sequence": 71002
+    "sequence": 71002,
+    "asset": "assets/mth09-ch07-sc161-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc162",
@@ -2879,9 +2977,16 @@
     "source_anchor_text": "“It doesn’t matter,” said Jack. “We have to get to the top.”",
     "source_excerpt": "“It doesn’t matter,” said Jack. “We have to get to the top.”",
     "action": "“It doesn’t matter,” said Jack. “We have to get to the top.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“It doesn’t matter,” said Jack. “We have to get to the top.”",
-    "sequence": 71003
+    "sequence": 71003,
+    "asset": "assets/mth09-ch07-sc162-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc163",
@@ -2896,9 +3001,16 @@
     "source_anchor_text": "“Yeah, I know. Come on … come on … faster!” Jack ordered the mini-sub.",
     "source_excerpt": "“More water’s coming in,” said Annie.\n\n“Yeah, I know. Come on … come on … faster!” Jack ordered the mini-sub.",
     "action": "“Yeah, I know. Come on … come on … faster!” Jack ordered the mini-sub.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Yeah, I know. Come on … come on … faster!” Jack ordered the mini-sub.",
-    "sequence": 71005
+    "sequence": 71005,
+    "asset": "assets/mth09-ch07-sc163-b11.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc164",
