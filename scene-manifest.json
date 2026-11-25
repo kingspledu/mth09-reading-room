@@ -4466,9 +4466,16 @@
     "source_anchor_text": "“And plain as plain can be!” whispered Jack. They had found the answer.",
     "source_excerpt": "“Yeah, this … ” She picked up a large gray shell. “Boy, is it rough. Rough and gray as a rock—”\n\n“And plain as plain can be!” whispered Jack. They had found the answer.",
     "action": "“And plain as plain can be!” whispered Jack. They had found the answer.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“And plain as plain can be!” whispered Jack. They had found the answer.",
-    "sequence": 92004
+    "sequence": 92004,
+    "asset": "assets/mth09-ch09-sc223-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc224",
@@ -4483,9 +4490,16 @@
     "source_anchor_text": "“How could this ugly shell be the answer to the riddle?” said Annie. “What about the part that says, ‘There’s great beauty in me’?”",
     "source_excerpt": "The shell looked like a clamshell—only bigger and with more ridges.\n\n“How could this ugly shell be the answer to the riddle?” said Annie. “What about the part that says, ‘There’s great beauty in me’?”",
     "action": "“How could this ugly shell be the answer to the riddle?” said Annie. “What about the part that says, ‘There’s great beauty in me’?”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“How could this ugly shell be the answer to the riddle?” said Annie. “What about the part that says, ‘There’s great beauty in me’?”",
-    "sequence": 92006
+    "sequence": 92006,
+    "asset": "assets/mth09-ch09-sc224-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc225",
@@ -4500,9 +4514,16 @@
     "source_anchor_text": "The pages were stuck together. But he was able to turn a few.",
     "source_excerpt": "“Wait—research,” said Jack. He opened the soaked ocean book.\n\nThe pages were stuck together. But he was able to turn a few.",
     "action": "The pages were stuck together. But he was able to turn a few.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The pages were stuck together. But he was able to turn a few.",
-    "sequence": 92008
+    "sequence": 92008,
+    "asset": "assets/mth09-ch09-sc225-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc226",
@@ -4517,9 +4538,16 @@
     "source_anchor_text": "Divers search for oysters in deep water. But sometimes oysters wash up on reefs or beaches. Inside some oysters you can find a pearl. The pearl’s natural beauty makes it a treasure.",
     "source_excerpt": "He found a picture of the gray shell. He read:\n\nDivers search for oysters in deep water. But sometimes oysters wash up on reefs or beaches. Inside some oysters you can find a pearl. The pearl’s natural beauty makes it a treasure.",
     "action": "Divers search for oysters in deep water. But sometimes oysters wash up on reefs or beaches. Inside some oysters you can find a pearl. The pearl’s natural beauty makes it a treasure.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Divers search for oysters in deep water. But sometimes oysters wash up on reefs or beaches. Inside some oysters you can find a pearl. The pearl’s natural beauty makes it a treasure.",
-    "sequence": 92010
+    "sequence": 92010,
+    "asset": "assets/mth09-ch09-sc226-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc227",
@@ -4534,9 +4562,16 @@
     "source_anchor_text": "Annie peered into the crack between the two halves of the shell. “I can’t see anything,” she said. “How does a pearl get in there, anyway?”",
     "source_excerpt": "“It must have a pearl inside it!” said Jack.\n\nAnnie peered into the crack between the two halves of the shell. “I can’t see anything,” she said. “How does a pearl get in there, anyway?”",
     "action": "Annie peered into the crack between the two halves of the shell. “I can’t see anything,” she said. “How does a pearl get in there, anyway?”",
-    "status": "planned",
+    "status": "integrated",
     "description": "Annie peered into the crack between the two halves of the shell. “I can’t see anything,” she said. “How does a pearl get in there, anyway?”",
-    "sequence": 92012
+    "sequence": 92012,
+    "asset": "assets/mth09-ch09-sc227-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc228",
@@ -4551,9 +4586,16 @@
     "source_anchor_text": "Sometimes a grain of sand will get between the oyster’s shell and its skin. This irritates the oyster. So it makes a pearly material to surround the grain of sand. In this way, over a few years, a pearl is formed.",
     "source_excerpt": "Jack read aloud from the wet page:\n\nSometimes a grain of sand will get between the oyster’s shell and its skin. This irritates the oyster. So it makes a pearly material to surround the grain of sand. In this way, over a few years, a pearl is formed.",
     "action": "Sometimes a grain of sand will get between the oyster’s shell and its skin. This irritates the oyster. So it makes a pearly material to surround the grain of sand. In this way, over a few years, a pearl is formed.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Sometimes a grain of sand will get between the oyster’s shell and its skin. This irritates the oyster. So it makes a pearly material to surround the grain of sand. In this way, over a few years, a pearl is formed.",
-    "sequence": 92014
+    "sequence": 92014,
+    "asset": "assets/mth09-ch09-sc228-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc229",
@@ -4567,9 +4609,16 @@
     "source_anchor_text": "“I can’t tell if there’s a pearl in there or not,” said Annie.",
     "source_excerpt": "“I can’t tell if there’s a pearl in there or not,” said Annie.",
     "action": "“I can’t tell if there’s a pearl in there or not,” said Annie.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I can’t tell if there’s a pearl in there or not,” said Annie.",
-    "sequence": 92015
+    "sequence": 92015,
+    "asset": "assets/mth09-ch09-sc229-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc230",
@@ -4585,9 +4634,16 @@
     "source_anchor_text": "“Yeah.”",
     "source_excerpt": "“Maybe we should bang it against a rock,” said Jack.\n\n“Now that would really irritate the oyster,” said Annie.\n\n“Yeah.”",
     "action": "“Yeah.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Yeah.”",
-    "sequence": 92018
+    "sequence": 92018,
+    "asset": "assets/mth09-ch09-sc230-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc231",
@@ -4602,9 +4658,16 @@
     "source_anchor_text": "She gently put the oyster back in the water.",
     "source_excerpt": "“Maybe we should just leave it alone,” said Annie.\n\nShe gently put the oyster back in the water.",
     "action": "She gently put the oyster back in the water.",
-    "status": "planned",
+    "status": "integrated",
     "description": "She gently put the oyster back in the water.",
-    "sequence": 92020
+    "sequence": 92020,
+    "asset": "assets/mth09-ch09-sc231-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc232",
@@ -4619,9 +4682,16 @@
     "source_anchor_text": "“Morgan said we’ll know,” said Annie. “Come on.”",
     "source_excerpt": "“But how will we know if oyster is the right answer to the riddle?” said Jack.\n\n“Morgan said we’ll know,” said Annie. “Come on.”",
     "action": "“Morgan said we’ll know,” said Annie. “Come on.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Morgan said we’ll know,” said Annie. “Come on.”",
-    "sequence": 92022
+    "sequence": 92022,
+    "asset": "assets/mth09-ch09-sc232-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc233",
@@ -4635,9 +4705,16 @@
     "source_anchor_text": "Jack pushed his glasses into place. Then he and Annie picked up their shoes and socks.",
     "source_excerpt": "Jack pushed his glasses into place. Then he and Annie picked up their shoes and socks.",
     "action": "Jack pushed his glasses into place. Then he and Annie picked up their shoes and socks.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack pushed his glasses into place. Then he and Annie picked up their shoes and socks.",
-    "sequence": 92023
+    "sequence": 92023,
+    "asset": "assets/mth09-ch09-sc233-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc234",
@@ -4651,9 +4728,16 @@
     "source_anchor_text": "They climbed through the window of the tree house.",
     "source_excerpt": "They climbed through the window of the tree house.",
     "action": "They climbed through the window of the tree house.",
-    "status": "planned",
+    "status": "integrated",
     "description": "They climbed through the window of the tree house.",
-    "sequence": 92024
+    "sequence": 92024,
+    "asset": "assets/mth09-ch09-sc234-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc235",
@@ -4668,9 +4752,16 @@
     "source_anchor_text": "It was open.",
     "source_excerpt": "Morgan’s scroll was lying on the floor.\n\nIt was open.",
     "action": "It was open.",
-    "status": "planned",
+    "status": "integrated",
     "description": "It was open.",
-    "sequence": 92026
+    "sequence": 92026,
+    "asset": "assets/mth09-ch09-sc235-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc236",
@@ -4685,9 +4776,16 @@
     "source_anchor_text": "She and Jack stared at the scroll. The riddle had faded away.",
     "source_excerpt": "“Look!” said Annie.\n\nShe and Jack stared at the scroll. The riddle had faded away.",
     "action": "She and Jack stared at the scroll. The riddle had faded away.",
-    "status": "planned",
+    "status": "integrated",
     "description": "She and Jack stared at the scroll. The riddle had faded away.",
-    "sequence": 92028
+    "sequence": 92028,
+    "asset": "assets/mth09-ch09-sc236-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc237",
@@ -4702,9 +4800,16 @@
     "source_anchor_text": "OYSTER",
     "source_excerpt": "In its place was one shimmering silver word:\n\nOYSTER",
     "action": "OYSTER",
-    "status": "planned",
+    "status": "integrated",
     "description": "OYSTER",
-    "sequence": 92030
+    "sequence": 92030,
+    "asset": "assets/mth09-ch09-sc237-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc238",
@@ -4719,9 +4824,16 @@
     "source_anchor_text": "Jack let out a huge sigh. “We got it right,” he said.",
     "source_excerpt": "“Morgan’s magic,” whispered Annie.\n\nJack let out a huge sigh. “We got it right,” he said.",
     "action": "Jack let out a huge sigh. “We got it right,” he said.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack let out a huge sigh. “We got it right,” he said.",
-    "sequence": 92032
+    "sequence": 92032,
+    "asset": "assets/mth09-ch09-sc238-b17.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc239",

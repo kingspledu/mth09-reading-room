@@ -6,7 +6,7 @@
   "text_verified": true,
   "vocabulary_entries": 40,
   "vocabulary_buttons": 231,
-  "integrated_scenes": 206,
+  "integrated_scenes": 222,
   "scene_plan_status": "fixed_source_anchored_inventory",
   "preliminary_body_batches": [
     15,
@@ -25,8 +25,8 @@
   "completed_body_batches": null,
   "remaining_batch_estimate": "fixed_scene_count",
   "review_required_scenes": 13,
-  "generated_body_batches": 15,
+  "generated_body_batches": 17,
   "total_planned_scenes": 255,
-  "pending_scenes": 49,
-  "remaining_batches": 4
+  "pending_scenes": 33,
+  "remaining_batches": 3
 }
