@@ -993,8 +993,8 @@
     "part": 2,
     "paragraph": 30,
     "action": "Treehouse now still",
-    "status": "review_required",
-    "asset": "assets/mth09-ch01-sc073-b07.webp",
+    "status": "integrated",
+    "asset": "assets/mth09-ch01-sc073-b09.webp",
     "insert_after_paragraph_id": "part-p30",
     "description": "Treehouse now still",
     "sequence": 12030,
@@ -1004,6 +1004,10 @@
       {
         "asset": "assets/mth09-ch01-sc073-b05.webp",
         "reason": "Forest visible after ocean arrival; requires scenery correction"
+      },
+      {
+        "asset": "assets/mth09-ch01-sc073-b07.webp",
+        "reason": "Treehouse incorrectly underwater and barefoot before shoe removal"
       }
     ],
     "source_anchor_text": "Then everything was still."
@@ -1014,8 +1018,8 @@
     "part": 2,
     "paragraph": 32,
     "action": "Jack opens eyes",
-    "status": "review_required",
-    "asset": "assets/mth09-ch01-sc074-b07.webp",
+    "status": "integrated",
+    "asset": "assets/mth09-ch01-sc074-b09.webp",
     "insert_after_paragraph_id": "part-p32",
     "description": "Jack opens eyes",
     "sequence": 12032,
@@ -1025,6 +1029,10 @@
       {
         "asset": "assets/mth09-ch01-sc074-b05.webp",
         "reason": "Forest visible after ocean arrival; requires scenery correction"
+      },
+      {
+        "asset": "assets/mth09-ch01-sc074-b07.webp",
+        "reason": "Treehouse incorrectly underwater and barefoot before shoe removal"
       }
     ],
     "source_anchor_text": "Jack opened his eyes."
@@ -1035,8 +1043,8 @@
     "part": 2,
     "paragraph": 33,
     "action": "Children find Morgan absent",
-    "status": "review_required",
-    "asset": "assets/mth09-ch01-sc075-b07.webp",
+    "status": "integrated",
+    "asset": "assets/mth09-ch01-sc075-b09.webp",
     "insert_after_paragraph_id": "part-p33",
     "description": "Children find Morgan absent",
     "sequence": 12033,
@@ -1046,6 +1054,10 @@
       {
         "asset": "assets/mth09-ch01-sc075-b05.webp",
         "reason": "Forest visible after ocean arrival; requires scenery correction"
+      },
+      {
+        "asset": "assets/mth09-ch01-sc075-b07.webp",
+        "reason": "Treehouse incorrectly underwater and barefoot before shoe removal"
       }
     ],
     "source_anchor_text": "Morgan le Fay was gone."
@@ -1805,14 +1817,18 @@
     "source_anchor_text": "They looked around the tiny space.",
     "source_excerpt": "“Then maybe the answer’s in the mini-sub,” said Annie.\n\nThey looked around the tiny space.",
     "action": "They looked around the tiny space.",
-    "status": "review_required",
+    "status": "integrated",
     "description": "They looked around the tiny space.",
     "sequence": 41041,
-    "asset": "assets/mth09-ch04-sc114-b08.webp",
+    "asset": "assets/mth09-ch04-sc114-b09.webp",
     "revisions": [
       {
         "asset": null,
         "reason": "source correction"
+      },
+      {
+        "asset": "assets/mth09-ch04-sc114-b08.webp",
+        "reason": "Invented cabinet search or preexisting notebook warning diagram not in source"
       }
     ],
     "review_reason": "Invented cabinet search or preexisting notebook warning diagram not in source"
@@ -1951,14 +1967,18 @@
     "source_anchor_text": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
     "source_excerpt": "“This is like your notebook,” said Annie.\n\n“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
     "action": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
-    "status": "review_required",
+    "status": "integrated",
     "description": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
     "sequence": 51010,
-    "asset": "assets/mth09-ch05-sc120-b08.webp",
+    "asset": "assets/mth09-ch05-sc120-b09.webp",
     "revisions": [
       {
         "asset": null,
         "reason": "source correction"
+      },
+      {
+        "asset": "assets/mth09-ch05-sc120-b08.webp",
+        "reason": "Invented cabinet search or preexisting notebook warning diagram not in source"
       }
     ],
     "review_reason": "Invented cabinet search or preexisting notebook warning diagram not in source"
@@ -1978,9 +1998,16 @@
     "source_anchor_text": "MUST RETURN TO REEF SOON",
     "source_excerpt": "Jack and Annie read further:\n\nTUESDAY, JULY 6\n\nCRACK HAS WIDENED\n\nMUST RETURN TO REEF SOON",
     "action": "MUST RETURN TO REEF SOON",
-    "status": "planned",
+    "status": "integrated",
     "description": "MUST RETURN TO REEF SOON",
-    "sequence": 51014
+    "sequence": 51014,
+    "asset": "assets/mth09-ch05-sc121-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc122",
@@ -1995,9 +2022,16 @@
     "source_anchor_text": "“I don’t know,” said Jack. He read further:",
     "source_excerpt": "“A crack where?” said Annie.\n\n“I don’t know,” said Jack. He read further:",
     "action": "“I don’t know,” said Jack. He read further:",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I don’t know,” said Jack. He read further:",
-    "sequence": 51016
+    "sequence": 51016,
+    "asset": "assets/mth09-ch05-sc122-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc123",
@@ -2014,9 +2048,16 @@
     "source_anchor_text": "HEADING BACK TO REEF TODAY",
     "source_excerpt": "WEDNESDAY, JULY 7\n\nMORE TINY CRACKS\n\nCANNOT BE FIXED\n\nHEADING BACK TO REEF TODAY",
     "action": "HEADING BACK TO REEF TODAY",
-    "status": "planned",
+    "status": "integrated",
     "description": "HEADING BACK TO REEF TODAY",
-    "sequence": 51020
+    "sequence": 51020,
+    "asset": "assets/mth09-ch05-sc123-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc124",
@@ -2030,9 +2071,16 @@
     "source_anchor_text": "“Uh-oh. This doesn’t sound good,” said Jack. He read further:",
     "source_excerpt": "“Uh-oh. This doesn’t sound good,” said Jack. He read further:",
     "action": "“Uh-oh. This doesn’t sound good,” said Jack. He read further:",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Uh-oh. This doesn’t sound good,” said Jack. He read further:",
-    "sequence": 51021
+    "sequence": 51021,
+    "asset": "assets/mth09-ch05-sc124-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc125",
@@ -2050,9 +2098,16 @@
     "source_anchor_text": "TO JUNKYARD",
     "source_excerpt": "THURSDAY, JULY 8\n\nDEFECTIVE SUB\n\nRETURN TO REEF\n\nLEAVE FOR HELICOPTER TO TRANSPORT\n\nTO JUNKYARD",
     "action": "TO JUNKYARD",
-    "status": "planned",
+    "status": "integrated",
     "description": "TO JUNKYARD",
-    "sequence": 51026
+    "sequence": 51026,
+    "asset": "assets/mth09-ch05-sc125-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc126",
@@ -2067,9 +2122,16 @@
     "source_anchor_text": "“Yep,” said Jack.",
     "source_excerpt": "“ ‘Defective’ means broken, right?” said Annie.\n\n“Yep,” said Jack.",
     "action": "“Yep,” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Yep,” said Jack.",
-    "sequence": 51028
+    "sequence": 51028,
+    "asset": "assets/mth09-ch05-sc126-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc127",
@@ -2084,9 +2146,16 @@
     "source_anchor_text": "“Yep,” said Jack. “And it was waiting to be taken away by a helicopter. To a junkyard.”",
     "source_excerpt": "“So this sub is broken, right?” said Annie.\n\n“Yep,” said Jack. “And it was waiting to be taken away by a helicopter. To a junkyard.”",
     "action": "“Yep,” said Jack. “And it was waiting to be taken away by a helicopter. To a junkyard.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Yep,” said Jack. “And it was waiting to be taken away by a helicopter. To a junkyard.”",
-    "sequence": 51030
+    "sequence": 51030,
+    "asset": "assets/mth09-ch05-sc127-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc128",
@@ -2101,9 +2170,16 @@
     "source_anchor_text": "“Now we really have to get back,” said Jack.",
     "source_excerpt": "“Yikes,” said Annie.\n\n“Now we really have to get back,” said Jack.",
     "action": "“Now we really have to get back,” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Now we really have to get back,” said Jack.",
-    "sequence": 51032
+    "sequence": 51032,
+    "asset": "assets/mth09-ch05-sc128-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc129",
@@ -2118,9 +2194,16 @@
     "source_anchor_text": "She pressed the waves picture on the computer screen.",
     "source_excerpt": "“Let’s try pressing the waves picture,” said Annie.\n\nShe pressed the waves picture on the computer screen.",
     "action": "She pressed the waves picture on the computer screen.",
-    "status": "planned",
+    "status": "integrated",
     "description": "She pressed the waves picture on the computer screen.",
-    "sequence": 51034
+    "sequence": 51034,
+    "asset": "assets/mth09-ch05-sc129-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc130",
@@ -2135,9 +2218,16 @@
     "source_anchor_text": "“Oh, good,” said Jack.",
     "source_excerpt": "The mini-sub began to rise slowly.\n\n“Oh, good,” said Jack.",
     "action": "“Oh, good,” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Oh, good,” said Jack.",
-    "sequence": 51036
+    "sequence": 51036,
+    "asset": "assets/mth09-ch05-sc130-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc131",
@@ -2151,9 +2241,16 @@
     "source_anchor_text": "The sub went past a small coral mountain. It went past schools of fish and waving plants.",
     "source_excerpt": "The sub went past a small coral mountain. It went past schools of fish and waving plants.",
     "action": "The sub went past a small coral mountain. It went past schools of fish and waving plants.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The sub went past a small coral mountain. It went past schools of fish and waving plants.",
-    "sequence": 51037
+    "sequence": 51037,
+    "asset": "assets/mth09-ch05-sc131-b09.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc132",
