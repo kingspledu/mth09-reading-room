@@ -8,7 +8,8 @@
     "asset": "assets/mth09-ch01-p1-sc001.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 1",
-    "source_anchor_text": "The sun was not up yet. But the sky was growing lighter."
+    "source_anchor_text": "The sun was not up yet. But the sky was growing lighter.",
+    "sequence": 11002
   },
   {
     "id": "mth09-ch01-sc002",
@@ -19,7 +20,8 @@
     "asset": "assets/mth09-ch01-p1-sc002.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 2",
-    "source_anchor_text": "Jack wished that dreams were real. He missed Morgan’s magic tree house."
+    "source_anchor_text": "Jack wished that dreams were real. He missed Morgan’s magic tree house.",
+    "sequence": 11005
   },
   {
     "id": "mth09-ch01-sc003",
@@ -30,7 +32,8 @@
     "asset": "assets/mth09-ch01-p1-sc003.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 3",
-    "source_anchor_text": "“Jack!” His little sister Annie appeared in the doorway. “We have to go to the woods now!” she said."
+    "source_anchor_text": "“Jack!” His little sister Annie appeared in the doorway. “We have to go to the woods now!” she said.",
+    "sequence": 11006
   },
   {
     "id": "mth09-ch01-sc004",
@@ -41,7 +44,8 @@
     "asset": "assets/mth09-ch01-p1-sc004.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 4",
-    "source_anchor_text": "“I had a dream about Morgan!” exclaimed Annie. “She said the tree house is back and she’s waiting for us!”"
+    "source_anchor_text": "“I had a dream about Morgan!” exclaimed Annie. “She said the tree house is back and she’s waiting for us!”",
+    "sequence": 11008
   },
   {
     "id": "mth09-ch01-sc005",
@@ -52,7 +56,8 @@
     "asset": "assets/mth09-ch01-p1-sc005.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 5",
-    "source_anchor_text": "“Oh, wow,” said Annie. “She told you, too? So it must be important.”"
+    "source_anchor_text": "“Oh, wow,” said Annie. “She told you, too? So it must be important.”",
+    "sequence": 11010
   },
   {
     "id": "mth09-ch01-sc006",
@@ -63,7 +68,8 @@
     "asset": "assets/mth09-ch01-p1-sc006.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 6",
-    "source_anchor_text": "“Some dreams aren’t. But this one is,” said Annie. “I can just feel it.” She opened the back door. “I’ll see you later!”"
+    "source_anchor_text": "“Some dreams aren’t. But this one is,” said Annie. “I can just feel it.” She opened the back door. “I’ll see you later!”",
+    "sequence": 11012
   },
   {
     "id": "mth09-ch01-sc007",
@@ -74,7 +80,8 @@
     "asset": "assets/mth09-ch01-p1-sc007.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 7",
-    "source_anchor_text": "He raced up the stairs. Having the same dream must mean something, he thought."
+    "source_anchor_text": "He raced up the stairs. Having the same dream must mean something, he thought.",
+    "sequence": 11014
   },
   {
     "id": "mth09-ch01-sc008",
@@ -85,7 +92,8 @@
     "asset": "assets/mth09-ch01-p1-sc008.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 8",
-    "source_anchor_text": "He grabbed his backpack and threw his notebook and pencil into it."
+    "source_anchor_text": "He grabbed his backpack and threw his notebook and pencil into it.",
+    "sequence": 11015
   },
   {
     "id": "mth09-ch01-sc009",
@@ -96,7 +104,8 @@
     "asset": "assets/mth09-ch01-p1-sc009.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 9",
-    "source_anchor_text": "Then he ran downstairs."
+    "source_anchor_text": "Then he ran downstairs.",
+    "sequence": 11016
   },
   {
     "id": "mth09-ch01-sc010",
@@ -107,7 +116,8 @@
     "asset": "assets/mth09-ch01-p1-sc010.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 10",
-    "source_anchor_text": "“Just for a quick walk!” said Jack."
+    "source_anchor_text": "“Just for a quick walk!” said Jack.",
+    "sequence": 11019
   },
   {
     "id": "mth09-ch01-sc011",
@@ -118,7 +128,8 @@
     "asset": "assets/mth09-ch01-p1-sc011.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 11",
-    "source_anchor_text": "Jack slipped out the door. Annie was waiting for him."
+    "source_anchor_text": "Jack slipped out the door. Annie was waiting for him.",
+    "sequence": 11022
   },
   {
     "id": "mth09-ch01-sc012",
@@ -129,7 +140,8 @@
     "asset": "assets/mth09-ch01-p1-sc012.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 12",
-    "source_anchor_text": "Jack and Annie ran up their quiet street to the Frog Creek woods."
+    "source_anchor_text": "Jack and Annie ran up their quiet street to the Frog Creek woods.",
+    "sequence": 11025
   },
   {
     "id": "mth09-ch01-sc013",
@@ -140,7 +152,8 @@
     "asset": "assets/mth09-ch01-p1-sc013.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 13",
-    "source_anchor_text": "“It is back!” whispered Jack."
+    "source_anchor_text": "“It is back!” whispered Jack.",
+    "sequence": 11027
   },
   {
     "id": "mth09-ch01-sc014",
@@ -151,7 +164,8 @@
     "asset": "assets/mth09-ch01-p1-sc014.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 14",
-    "source_anchor_text": "“Come up,” called the magical librarian."
+    "source_anchor_text": "“Come up,” called the magical librarian.",
+    "sequence": 11029
   },
   {
     "id": "mth09-ch01-sc015",
@@ -162,7 +176,8 @@
     "asset": "assets/mth09-ch01-p1-sc015.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 15",
-    "source_anchor_text": "Jack and Annie climbed up the rope ladder and into the tree house."
+    "source_anchor_text": "Jack and Annie climbed up the rope ladder and into the tree house.",
+    "sequence": 11030
   },
   {
     "id": "mth09-ch01-sc016",
@@ -173,7 +188,8 @@
     "asset": "assets/mth09-ch01-p1-sc016.webp",
     "status": "integrated",
     "description": "Chapter 1 scene 16",
-    "source_anchor_text": "In the dawn light, they stared at Morgan le Fay."
+    "source_anchor_text": "In the dawn light, they stared at Morgan le Fay.",
+    "sequence": 11031
   },
   {
     "id": "mth09-ch01-sc017",
@@ -184,7 +200,8 @@
     "asset": "assets/mth09-ch01-p2-sc017.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 17",
-    "source_anchor_text": "She looked beautiful in a red velvet robe."
+    "source_anchor_text": "She looked beautiful in a red velvet robe.",
+    "sequence": 12001
   },
   {
     "id": "mth09-ch01-sc018",
@@ -195,7 +212,8 @@
     "asset": "assets/mth09-ch01-p2-sc018.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 18",
-    "source_anchor_text": "Jack pushed his glasses into place. He couldn’t stop smiling."
+    "source_anchor_text": "Jack pushed his glasses into place. He couldn’t stop smiling.",
+    "sequence": 12002
   },
   {
     "id": "mth09-ch01-sc019",
@@ -206,7 +224,8 @@
     "asset": "assets/mth09-ch01-p2-sc019.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 19",
-    "source_anchor_text": "“We both had dreams about you!” said Annie."
+    "source_anchor_text": "“We both had dreams about you!” said Annie.",
+    "sequence": 12003
   },
   {
     "id": "mth09-ch01-sc020",
@@ -217,7 +236,8 @@
     "asset": "assets/mth09-ch01-p2-sc020.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 20",
-    "source_anchor_text": "“I know,” said Morgan."
+    "source_anchor_text": "“I know,” said Morgan.",
+    "sequence": 12004
   },
   {
     "id": "mth09-ch01-sc021",
@@ -228,7 +248,8 @@
     "asset": "assets/mth09-ch01-p2-sc021.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 21",
-    "source_anchor_text": "“You do?”"
+    "source_anchor_text": "“You do?”",
+    "sequence": 12005
   },
   {
     "id": "mth09-ch01-sc022",
@@ -239,7 +260,8 @@
     "asset": "assets/mth09-ch01-p2-sc022.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 22",
-    "source_anchor_text": "“Merlin the Magician has been up to his tricks again,” said Morgan. “So I haven’t had any time to collect books for Camelot’s library.”"
+    "source_anchor_text": "“Merlin the Magician has been up to his tricks again,” said Morgan. “So I haven’t had any time to collect books for Camelot’s library.”",
+    "sequence": 12008
   },
   {
     "id": "mth09-ch01-sc023",
@@ -250,7 +272,8 @@
     "asset": "assets/mth09-ch01-p2-sc023.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 23",
-    "source_anchor_text": "“Can we collect them for you?” asked Annie."
+    "source_anchor_text": "“Can we collect them for you?” asked Annie.",
+    "sequence": 12009
   },
   {
     "id": "mth09-ch01-sc024",
@@ -261,7 +284,8 @@
     "asset": "assets/mth09-ch01-p2-sc024.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 24",
-    "source_anchor_text": "“Yes, but in order to gather books through time you must be Master Librarians,” said Morgan."
+    "source_anchor_text": "“Yes, but in order to gather books through time you must be Master Librarians,” said Morgan.",
+    "sequence": 12010
   },
   {
     "id": "mth09-ch01-sc025",
@@ -272,7 +296,8 @@
     "asset": "assets/mth09-ch01-p2-sc025.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 25",
-    "source_anchor_text": "“Oh, well,” Annie said sadly."
+    "source_anchor_text": "“Oh, well,” Annie said sadly.",
+    "sequence": 12011
   },
   {
     "id": "mth09-ch01-sc026",
@@ -283,7 +308,8 @@
     "asset": "assets/mth09-ch01-p2-sc026.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 26",
-    "source_anchor_text": "“But you can become Master Librarians,” said Morgan, “if you pass the test.”"
+    "source_anchor_text": "“But you can become Master Librarians,” said Morgan, “if you pass the test.”",
+    "sequence": 12012
   },
   {
     "id": "mth09-ch01-sc027",
@@ -294,7 +320,8 @@
     "asset": "assets/mth09-ch01-p2-sc027.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 27",
-    "source_anchor_text": "“Really?” said Annie."
+    "source_anchor_text": "“Really?” said Annie.",
+    "sequence": 12013
   },
   {
     "id": "mth09-ch01-sc028",
@@ -305,7 +332,8 @@
     "asset": "assets/mth09-ch01-p2-sc028.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 28",
-    "source_anchor_text": "“What kind of test?” Jack asked."
+    "source_anchor_text": "“What kind of test?” Jack asked.",
+    "sequence": 12014
   },
   {
     "id": "mth09-ch01-sc029",
@@ -316,7 +344,8 @@
     "asset": "assets/mth09-ch01-p2-sc029.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 29",
-    "source_anchor_text": "“By solving four riddles,” said Morgan. She reached into the folds of her robe and pulled out a rolled-up paper."
+    "source_anchor_text": "“By solving four riddles,” said Morgan. She reached into the folds of her robe and pulled out a rolled-up paper.",
+    "sequence": 12017
   },
   {
     "id": "mth09-ch01-sc030",
@@ -327,7 +356,8 @@
     "asset": "assets/mth09-ch01-p2-sc030.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 30",
-    "source_anchor_text": "“The first riddle is written on this ancient scroll,” she said. “This book will help you find the answer.”"
+    "source_anchor_text": "“The first riddle is written on this ancient scroll,” she said. “This book will help you find the answer.”",
+    "sequence": 12018
   },
   {
     "id": "mth09-ch01-sc031",
@@ -338,7 +368,8 @@
     "asset": "assets/mth09-ch01-p2-sc031.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 31",
-    "source_anchor_text": "“This is where you have to go,” said Morgan."
+    "source_anchor_text": "“This is where you have to go,” said Morgan.",
+    "sequence": 12020
   },
   {
     "id": "mth09-ch01-sc032",
@@ -349,7 +380,8 @@
     "asset": "assets/mth09-ch01-p2-sc032.webp",
     "status": "integrated",
     "description": "Chapter 1 Part 2 scene 32",
-    "source_anchor_text": "“The ocean! Oh, boy!” said Annie. She pointed at the cover. “I wish we—”"
+    "source_anchor_text": "“The ocean! Oh, boy!” said Annie. She pointed at the cover. “I wish we—”",
+    "sequence": 12021
   },
   {
     "id": "mth09-ch02-sc033",
@@ -360,7 +392,8 @@
     "asset": "assets/mth09-ch02-p1-sc033.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 33",
-    "source_anchor_text": "A breeze blew through the window. Sea gulls cried. Waves lapped the shore."
+    "source_anchor_text": "A breeze blew through the window. Sea gulls cried. Waves lapped the shore.",
+    "sequence": 21001
   },
   {
     "id": "mth09-ch02-sc034",
@@ -371,7 +404,8 @@
     "asset": "assets/mth09-ch02-p1-sc034.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 34",
-    "source_anchor_text": "Annie picked up the riddle scroll. She unrolled it. Together she and Jack read the riddle:"
+    "source_anchor_text": "Annie picked up the riddle scroll. She unrolled it. Together she and Jack read the riddle:",
+    "sequence": 21002
   },
   {
     "id": "mth09-ch02-sc035",
@@ -382,7 +416,8 @@
     "asset": "assets/mth09-ch02-p1-sc035.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 35",
-    "source_anchor_text": "Rough and gray as rock,\nI’m plain as plain can be.\nBut hidden deep inside\nThere’s great beauty in me.\nWhat am I?"
+    "source_anchor_text": "Rough and gray as rock,\nI’m plain as plain can be.\nBut hidden deep inside\nThere’s great beauty in me.\nWhat am I?",
+    "sequence": 21003
   },
   {
     "id": "mth09-ch02-sc036",
@@ -393,7 +428,8 @@
     "asset": "assets/mth09-ch02-p1-sc036.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 36",
-    "source_anchor_text": "“Let’s go find the answer,” said Annie."
+    "source_anchor_text": "“Let’s go find the answer,” said Annie.",
+    "sequence": 21004
   },
   {
     "id": "mth09-ch02-sc037",
@@ -448,7 +484,8 @@
     "asset": "assets/mth09-ch02-p1-sc039.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 39",
-    "source_anchor_text": "Annie climbed out of the tree house."
+    "source_anchor_text": "Annie climbed out of the tree house.",
+    "sequence": 21009
   },
   {
     "id": "mth09-ch02-sc040",
@@ -459,7 +496,8 @@
     "asset": "assets/mth09-ch02-p1-sc040.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 40",
-    "source_anchor_text": "“I’m going to do a little research first,” said Jack."
+    "source_anchor_text": "“I’m going to do a little research first,” said Jack.",
+    "sequence": 21008
   },
   {
     "id": "mth09-ch02-sc041",
@@ -470,7 +508,8 @@
     "asset": "assets/mth09-ch02-p1-sc041.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 41",
-    "source_anchor_text": "Annie climbed out of the tree house."
+    "source_anchor_text": "Annie climbed out of the tree house.",
+    "sequence": 21009
   },
   {
     "id": "mth09-ch02-sc042",
@@ -481,7 +520,8 @@
     "asset": "assets/mth09-ch02-p1-sc042.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 42",
-    "source_anchor_text": "Jack picked up the ocean book and flipped through it."
+    "source_anchor_text": "Jack picked up the ocean book and flipped through it.",
+    "sequence": 21010
   },
   {
     "id": "mth09-ch02-sc043",
@@ -492,7 +532,8 @@
     "asset": "assets/mth09-ch02-p1-sc043.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 43",
-    "source_anchor_text": "He found a picture of a pink island surrounded by water. He read:"
+    "source_anchor_text": "He found a picture of a pink island surrounded by water. He read:",
+    "sequence": 21011
   },
   {
     "id": "mth09-ch02-sc044",
@@ -503,7 +544,8 @@
     "asset": "assets/mth09-ch02-p1-sc044.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 44",
-    "source_anchor_text": "This is a coral reef. Corals are tiny sea animals. After they die, their skeletons remain. Over time, the reef builds up from stacks of coral skeletons."
+    "source_anchor_text": "This is a coral reef. Corals are tiny sea animals. After they die, their skeletons remain. Over time, the reef builds up from stacks of coral skeletons.",
+    "sequence": 21012
   },
   {
     "id": "mth09-ch02-sc045",
@@ -514,7 +556,8 @@
     "asset": "assets/mth09-ch02-p1-sc045.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 45",
-    "source_anchor_text": "“Oh, man, tiny skeletons,” said Jack. He pulled out his notebook and wrote:"
+    "source_anchor_text": "“Oh, man, tiny skeletons,” said Jack. He pulled out his notebook and wrote:",
+    "sequence": 21013
   },
   {
     "id": "mth09-ch02-sc046",
@@ -525,7 +568,8 @@
     "asset": "assets/mth09-ch02-p1-sc046.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 46",
-    "source_anchor_text": "Millions of Coral Skeletons"
+    "source_anchor_text": "Millions of Coral Skeletons",
+    "sequence": 21014
   },
   {
     "id": "mth09-ch02-sc047",
@@ -536,7 +580,8 @@
     "asset": "assets/mth09-ch02-p1-sc047.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 47",
-    "source_anchor_text": "“I don’t know. But you’ll love it!” she said."
+    "source_anchor_text": "“I don’t know. But you’ll love it!” she said.",
+    "sequence": 21017
   },
   {
     "id": "mth09-ch02-sc048",
@@ -547,7 +592,8 @@
     "asset": "assets/mth09-ch02-p1-sc048.webp",
     "status": "integrated",
     "description": "Chapter 2 Part 1 scene 48",
-    "source_anchor_text": "Jack threw his notebook and the ocean book into his pack. He climbed out the window."
+    "source_anchor_text": "Jack threw his notebook and the ocean book into his pack. He climbed out the window.",
+    "sequence": 21018
   },
   {
     "id": "mth09-ch02-sc049",
@@ -563,7 +609,7 @@
     "asset": "assets/mth09-ch02-sc049.webp",
     "insert_after_paragraph_id": "part-p2",
     "description": "Jack identifies sub beside Annie",
-    "sequence": 49,
+    "sequence": 22002,
     "source_anchor_text": "“It’s a mini-sub,” said Jack. He pulled out his notebook."
   },
   {
@@ -580,7 +626,7 @@
     "asset": "assets/mth09-ch02-sc050.webp",
     "insert_after_paragraph_id": "part-p4",
     "description": "Jack hesitates to enter",
-    "sequence": 50,
+    "sequence": 22004,
     "source_anchor_text": "“No!” said Jack. Actually, he did want to see what the sub looked like inside. But he shook his head. “We can’t. It’s not ours.”"
   },
   {
@@ -597,7 +643,7 @@
     "asset": "assets/mth09-ch02-sc051.webp",
     "insert_after_paragraph_id": "part-p6",
     "description": "Jack warns Annie to touch nothing",
-    "sequence": 51,
+    "sequence": 22006,
     "source_anchor_text": "Jack sighed. “Okay. But we have to be careful. Don’t touch anything,” he said."
   },
   {
@@ -639,7 +685,7 @@
     "asset": "assets/mth09-ch02-sc053.webp",
     "insert_after_paragraph_id": "part-p10",
     "description": "Barefoot children cross coral",
-    "sequence": 53,
+    "sequence": 22010,
     "source_anchor_text": "Then they stepped carefully over the sharp coral."
   },
   {
@@ -656,7 +702,7 @@
     "asset": "assets/mth09-ch02-sc054.webp",
     "insert_after_paragraph_id": "part-p11",
     "description": "Annie turns hatch handle",
-    "sequence": 54,
+    "sequence": 22011,
     "source_anchor_text": "Annie turned the handle on the hatch of the mini-sub. It opened."
   },
   {
@@ -673,7 +719,7 @@
     "asset": "assets/mth09-ch02-sc055.webp",
     "insert_after_paragraph_id": "part-p12",
     "description": "Children climb inside and hatch closes",
-    "sequence": 55,
+    "sequence": 22012,
     "source_anchor_text": "She and Jack climbed inside. The hatch slammed shut."
   },
   {
@@ -715,7 +761,7 @@
     "asset": "assets/mth09-ch02-sc057.webp",
     "insert_after_paragraph_id": "part-p14",
     "description": "Annie sits down",
-    "sequence": 57,
+    "sequence": 22014,
     "source_anchor_text": "Annie sat down."
   },
   {
@@ -732,7 +778,7 @@
     "asset": "assets/mth09-ch02-sc058.webp",
     "insert_after_paragraph_id": "part-p16",
     "description": "Jack reads ocean book",
-    "sequence": 58,
+    "sequence": 22016,
     "source_anchor_text": "Mini-subs have strong hulls to keep air in and protect those aboard from water pressure. Computers are used to guide the mini-sub through the ocean."
   },
   {
@@ -749,7 +795,7 @@
     "asset": "assets/mth09-ch02-sc059.webp",
     "insert_after_paragraph_id": "part-p19",
     "description": "Annie sees map appear",
-    "sequence": 59,
+    "sequence": 22019,
     "source_anchor_text": "Annie was waving her hands in front of the computer. Now the screen showed a map."
   },
   {
@@ -766,7 +812,7 @@
     "asset": "assets/mth09-ch02-sc060.webp",
     "insert_after_paragraph_id": "part-p22",
     "description": "Jack reacts to touched keys",
-    "sequence": 60,
+    "sequence": 22022,
     "source_anchor_text": "“What? I said not to touch anything!” said Jack."
   },
   {
@@ -783,7 +829,7 @@
     "asset": "assets/mth09-ch02-sc061.webp",
     "insert_after_paragraph_id": "part-p23",
     "description": "Sub jerks backward",
-    "sequence": 61,
+    "sequence": 22023,
     "source_anchor_text": "An air blower came on. The mini-sub jerked backward."
   },
   {
@@ -800,7 +846,7 @@
     "asset": "assets/mth09-ch02-sc062.webp",
     "insert_after_paragraph_id": "part-p25",
     "description": "Jack grabs hatch handle",
-    "sequence": 62,
+    "sequence": 22025,
     "source_anchor_text": "He and Annie scrambled for the hatch. Jack grabbed the handle."
   },
   {
@@ -817,7 +863,7 @@
     "asset": "assets/mth09-ch02-sc063.webp",
     "insert_after_paragraph_id": "part-p27",
     "description": "Sub slides off reef",
-    "sequence": 63,
+    "sequence": 22027,
     "source_anchor_text": "The mini-sub slid off the reef."
   },
   {
@@ -834,7 +880,7 @@
     "asset": "assets/mth09-ch02-sc064.webp",
     "insert_after_paragraph_id": "part-p28",
     "description": "Sealed sub descends",
-    "sequence": 64,
+    "sequence": 22028,
     "source_anchor_text": "Then it dove silently down into the deep."
   },
   {
@@ -948,11 +994,19 @@
     "paragraph": 30,
     "action": "Treehouse now still",
     "status": "review_required",
-    "asset": "assets/mth09-ch01-sc073-b05.webp",
+    "asset": "assets/mth09-ch01-sc073-b07.webp",
     "insert_after_paragraph_id": "part-p30",
     "description": "Treehouse now still",
     "sequence": 12030,
-    "review_reason": "Forest visible after ocean arrival; requires scenery correction"
+    "review_reason": "Treehouse incorrectly underwater and barefoot before shoe removal",
+    "revision": 2,
+    "revisions": [
+      {
+        "asset": "assets/mth09-ch01-sc073-b05.webp",
+        "reason": "Forest visible after ocean arrival; requires scenery correction"
+      }
+    ],
+    "source_anchor_text": "Then everything was still."
   },
   {
     "id": "mth09-ch01-sc074",
@@ -961,11 +1015,19 @@
     "paragraph": 32,
     "action": "Jack opens eyes",
     "status": "review_required",
-    "asset": "assets/mth09-ch01-sc074-b05.webp",
+    "asset": "assets/mth09-ch01-sc074-b07.webp",
     "insert_after_paragraph_id": "part-p32",
     "description": "Jack opens eyes",
     "sequence": 12032,
-    "review_reason": "Forest visible after ocean arrival; requires scenery correction"
+    "review_reason": "Treehouse incorrectly underwater and barefoot before shoe removal",
+    "revision": 2,
+    "revisions": [
+      {
+        "asset": "assets/mth09-ch01-sc074-b05.webp",
+        "reason": "Forest visible after ocean arrival; requires scenery correction"
+      }
+    ],
+    "source_anchor_text": "Jack opened his eyes."
   },
   {
     "id": "mth09-ch01-sc075",
@@ -974,11 +1036,19 @@
     "paragraph": 33,
     "action": "Children find Morgan absent",
     "status": "review_required",
-    "asset": "assets/mth09-ch01-sc075-b05.webp",
+    "asset": "assets/mth09-ch01-sc075-b07.webp",
     "insert_after_paragraph_id": "part-p33",
     "description": "Children find Morgan absent",
     "sequence": 12033,
-    "review_reason": "Forest visible after ocean arrival; requires scenery correction"
+    "review_reason": "Treehouse incorrectly underwater and barefoot before shoe removal",
+    "revision": 2,
+    "revisions": [
+      {
+        "asset": "assets/mth09-ch01-sc075-b05.webp",
+        "reason": "Forest visible after ocean arrival; requires scenery correction"
+      }
+    ],
+    "source_anchor_text": "Morgan le Fay was gone."
   },
   {
     "id": "mth09-ch01-sc076",
@@ -1077,13 +1147,20 @@
     "part": 1,
     "paragraph": 10,
     "action": "Annie confidently plans steering",
-    "status": "review_required",
-    "asset": "assets/mth09-ch03-sc083-b06.webp",
+    "status": "integrated",
+    "asset": "assets/mth09-ch03-sc083-b07.webp",
     "insert_after_paragraph_id": "part-p10",
     "description": "Annie confidently plans steering",
     "sequence": 31010,
     "source_anchor_text": "“It’s like a video game,” said Annie. “I bet I know what to do.”",
-    "review_reason": "Invented joystick inconsistent with arrow-key steering"
+    "review_reason": "Invented joystick inconsistent with arrow-key steering",
+    "revision": 2,
+    "revisions": [
+      {
+        "asset": "assets/mth09-ch03-sc083-b06.webp",
+        "reason": "Invented joystick inconsistent with arrow-key steering"
+      }
+    ]
   },
   {
     "id": "mth09-ch03-sc084",
@@ -1201,5 +1278,2859 @@
     "description": "Jack nods in wonder",
     "sequence": 31021,
     "source_anchor_text": "Jack nodded slowly. She might be right, he thought. Besides, when would they ever get to visit a place like this again?"
+  },
+  {
+    "id": "mth09-ch04-sc093",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 1,
+    "insert_after_paragraph_id": "part-p1",
+    "source_paragraph_ids": [
+      "part-p1"
+    ],
+    "source_anchor_text": "There were fish everywhere: floating over the swaying sea grass, eating on the white sandy bottom, peeping out of coral caves.",
+    "source_excerpt": "There were fish everywhere: floating over the swaying sea grass, eating on the white sandy bottom, peeping out of coral caves.",
+    "action": "There were fish everywhere: floating over the swaying sea grass, eating on the white sandy bottom, peeping out of coral caves.",
+    "status": "integrated",
+    "description": "There were fish everywhere: floating over the swaying sea grass, eating on the white sandy bottom, peeping out of coral caves.",
+    "sequence": 41001,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc093-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc094",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 2,
+    "insert_after_paragraph_id": "part-p2",
+    "source_paragraph_ids": [
+      "part-p2"
+    ],
+    "source_anchor_text": "Some kinds of coral looked like blue fingers or lacy fans. Others looked like deer antlers or lettuce leaves or mushrooms or trees.",
+    "source_excerpt": "Some kinds of coral looked like blue fingers or lacy fans. Others looked like deer antlers or lettuce leaves or mushrooms or trees.",
+    "action": "Some kinds of coral looked like blue fingers or lacy fans. Others looked like deer antlers or lettuce leaves or mushrooms or trees.",
+    "status": "integrated",
+    "description": "Some kinds of coral looked like blue fingers or lacy fans. Others looked like deer antlers or lettuce leaves or mushrooms or trees.",
+    "sequence": 41002,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc094-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc095",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 4,
+    "insert_after_paragraph_id": "part-p4",
+    "source_paragraph_ids": [
+      "part-p3",
+      "part-p4"
+    ],
+    "source_anchor_text": "Coral reefs are only found in warm, tropical waters. Nearly 5,000 different species of fish live around coral reefs in the Indian and Pacific Oceans.",
+    "source_excerpt": "Jack read in the book:\n\nCoral reefs are only found in warm, tropical waters. Nearly 5,000 different species of fish live around coral reefs in the Indian and Pacific Oceans.",
+    "action": "Coral reefs are only found in warm, tropical waters. Nearly 5,000 different species of fish live around coral reefs in the Indian and Pacific Oceans.",
+    "status": "integrated",
+    "description": "Coral reefs are only found in warm, tropical waters. Nearly 5,000 different species of fish live around coral reefs in the Indian and Pacific Oceans.",
+    "sequence": 41004,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc095-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc096",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 7,
+    "insert_after_paragraph_id": "part-p7",
+    "source_paragraph_ids": [
+      "part-p5",
+      "part-p6",
+      "part-p7"
+    ],
+    "source_anchor_text": "Coral Reef Research\nwarm water\nover 5,000 kinds of fish",
+    "source_excerpt": "Jack pulled out his pencil and notebook.\n\nHe started to write a list.\n\nCoral Reef Research\nwarm water\nover 5,000 kinds of fish",
+    "action": "Coral Reef Research\nwarm water\nover 5,000 kinds of fish",
+    "status": "integrated",
+    "description": "Coral Reef Research\nwarm water\nover 5,000 kinds of fish",
+    "sequence": 41007,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc096-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc097",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 9,
+    "insert_after_paragraph_id": "part-p9",
+    "source_paragraph_ids": [
+      "part-p8",
+      "part-p9"
+    ],
+    "source_anchor_text": "The sub floated past a huge starfish. Then a pink jellyfish. Then a blue sea horse.",
+    "source_excerpt": "“Look!” said Annie.\n\nThe sub floated past a huge starfish. Then a pink jellyfish. Then a blue sea horse.",
+    "action": "The sub floated past a huge starfish. Then a pink jellyfish. Then a blue sea horse.",
+    "status": "integrated",
+    "description": "The sub floated past a huge starfish. Then a pink jellyfish. Then a blue sea horse.",
+    "sequence": 41009,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc097-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc098",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 11,
+    "insert_after_paragraph_id": "part-p11",
+    "source_paragraph_ids": [
+      "part-p10",
+      "part-p11"
+    ],
+    "source_anchor_text": "starfish\njellyfish\nsea horses",
+    "source_excerpt": "Jack added to his list:\n\nstarfish\njellyfish\nsea horses",
+    "action": "starfish\njellyfish\nsea horses",
+    "status": "integrated",
+    "description": "starfish\njellyfish\nsea horses",
+    "sequence": 41011,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc098-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc099",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 14,
+    "insert_after_paragraph_id": "part-p14",
+    "source_paragraph_ids": [
+      "part-p12",
+      "part-p13",
+      "part-p14"
+    ],
+    "source_anchor_text": "“A stingray!” said Jack. He put that on his list as well.",
+    "source_excerpt": "“What is that?” said Annie.\n\nJack saw a creature that looked like a giant pancake with a long tail.\n\n“A stingray!” said Jack. He put that on his list as well.",
+    "action": "“A stingray!” said Jack. He put that on his list as well.",
+    "status": "integrated",
+    "description": "“A stingray!” said Jack. He put that on his list as well.",
+    "sequence": 41014,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc099-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc100",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 16,
+    "insert_after_paragraph_id": "part-p16",
+    "source_paragraph_ids": [
+      "part-p15",
+      "part-p16"
+    ],
+    "source_anchor_text": "She pointed at the biggest shell Jack had ever seen. It was as big as a footstool.",
+    "source_excerpt": "“And that?” said Annie.\n\nShe pointed at the biggest shell Jack had ever seen. It was as big as a footstool.",
+    "action": "She pointed at the biggest shell Jack had ever seen. It was as big as a footstool.",
+    "status": "integrated",
+    "description": "She pointed at the biggest shell Jack had ever seen. It was as big as a footstool.",
+    "sequence": 41016,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc100-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc101",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 18,
+    "insert_after_paragraph_id": "part-p18",
+    "source_paragraph_ids": [
+      "part-p17",
+      "part-p18"
+    ],
+    "source_anchor_text": "The giant clam of the coral reef is three feet wide and weighs up to 200 pounds.",
+    "source_excerpt": "“I’ll have to check on that one,” said Jack. He turned the pages of the ocean book. When he got to the page about clams, he read aloud:\n\nThe giant clam of the coral reef is three feet wide and weighs up to 200 pounds.",
+    "action": "The giant clam of the coral reef is three feet wide and weighs up to 200 pounds.",
+    "status": "integrated",
+    "description": "The giant clam of the coral reef is three feet wide and weighs up to 200 pounds.",
+    "sequence": 41018,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc101-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc102",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 20,
+    "insert_after_paragraph_id": "part-p20",
+    "source_paragraph_ids": [
+      "part-p19",
+      "part-p20"
+    ],
+    "source_anchor_text": "“No kidding,” said Jack. He added “giant clam” to his list.",
+    "source_excerpt": "“Wow,” said Annie.\n\n“No kidding,” said Jack. He added “giant clam” to his list.",
+    "action": "“No kidding,” said Jack. He added “giant clam” to his list.",
+    "status": "integrated",
+    "description": "“No kidding,” said Jack. He added “giant clam” to his list.",
+    "sequence": 41020,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc102-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc103",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 22,
+    "insert_after_paragraph_id": "part-p22",
+    "source_paragraph_ids": [
+      "part-p21",
+      "part-p22"
+    ],
+    "source_anchor_text": "Jack looked up. Two dolphins were peering in the window. They tapped their noses against the glass.",
+    "source_excerpt": "“Dolphins!” cried Annie.\n\nJack looked up. Two dolphins were peering in the window. They tapped their noses against the glass.",
+    "action": "Jack looked up. Two dolphins were peering in the window. They tapped their noses against the glass.",
+    "status": "integrated",
+    "description": "Jack looked up. Two dolphins were peering in the window. They tapped their noses against the glass.",
+    "sequence": 41022,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc103-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc104",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 24,
+    "insert_after_paragraph_id": "part-p24",
+    "source_paragraph_ids": [
+      "part-p23",
+      "part-p24"
+    ],
+    "source_anchor_text": "Jack laughed. “It’s like we’re in a fish tank—and they’re looking at us,” he said.",
+    "source_excerpt": "Their eyes were bright. They seemed to be smiling.\n\nJack laughed. “It’s like we’re in a fish tank—and they’re looking at us,” he said.",
+    "action": "Jack laughed. “It’s like we’re in a fish tank—and they’re looking at us,” he said.",
+    "status": "integrated",
+    "description": "Jack laughed. “It’s like we’re in a fish tank—and they’re looking at us,” he said.",
+    "sequence": 41024,
+    "revision": 1,
+    "asset": "assets/mth09-ch04-sc104-b07.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
+  },
+  {
+    "id": "mth09-ch04-sc105",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 25,
+    "insert_after_paragraph_id": "part-p25",
+    "source_paragraph_ids": [
+      "part-p25"
+    ],
+    "source_anchor_text": "“Their names are Sukie and Sam,” said Annie. “Sister and brother.”",
+    "source_excerpt": "“Their names are Sukie and Sam,” said Annie. “Sister and brother.”",
+    "action": "“Their names are Sukie and Sam,” said Annie. “Sister and brother.”",
+    "status": "planned",
+    "description": "“Their names are Sukie and Sam,” said Annie. “Sister and brother.”",
+    "sequence": 41025
+  },
+  {
+    "id": "mth09-ch04-sc106",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 27,
+    "insert_after_paragraph_id": "part-p27",
+    "source_paragraph_ids": [
+      "part-p26",
+      "part-p27"
+    ],
+    "source_anchor_text": "“Here’s a kiss for you, Sukie,” Annie said. She pressed her lips to the glass as if she were kissing the dolphin’s nose.",
+    "source_excerpt": "“You’re nuts,” said Jack.\n\n“Here’s a kiss for you, Sukie,” Annie said. She pressed her lips to the glass as if she were kissing the dolphin’s nose.",
+    "action": "“Here’s a kiss for you, Sukie,” Annie said. She pressed her lips to the glass as if she were kissing the dolphin’s nose.",
+    "status": "planned",
+    "description": "“Here’s a kiss for you, Sukie,” Annie said. She pressed her lips to the glass as if she were kissing the dolphin’s nose.",
+    "sequence": 41027
+  },
+  {
+    "id": "mth09-ch04-sc107",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 29,
+    "insert_after_paragraph_id": "part-p29",
+    "source_paragraph_ids": [
+      "part-p28",
+      "part-p29"
+    ],
+    "source_anchor_text": "But the dolphin opened her mouth and tossed her head. She seemed to be laughing.",
+    "source_excerpt": "“Oh, brother,” said Jack.\n\nBut the dolphin opened her mouth and tossed her head. She seemed to be laughing.",
+    "action": "But the dolphin opened her mouth and tossed her head. She seemed to be laughing.",
+    "status": "planned",
+    "description": "But the dolphin opened her mouth and tossed her head. She seemed to be laughing.",
+    "sequence": 41029
+  },
+  {
+    "id": "mth09-ch04-sc108",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 30,
+    "insert_after_paragraph_id": "part-p30",
+    "source_paragraph_ids": [
+      "part-p30"
+    ],
+    "source_anchor_text": "“Hey, I know the answer to the riddle—dolphins!” said Annie. “They’re gray and plain. But they have great beauty inside.”",
+    "source_excerpt": "“Hey, I know the answer to the riddle—dolphins!” said Annie. “They’re gray and plain. But they have great beauty inside.”",
+    "action": "“Hey, I know the answer to the riddle—dolphins!” said Annie. “They’re gray and plain. But they have great beauty inside.”",
+    "status": "planned",
+    "description": "“Hey, I know the answer to the riddle—dolphins!” said Annie. “They’re gray and plain. But they have great beauty inside.”",
+    "sequence": 41030
+  },
+  {
+    "id": "mth09-ch04-sc109",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 32,
+    "insert_after_paragraph_id": "part-p32",
+    "source_paragraph_ids": [
+      "part-p31",
+      "part-p32"
+    ],
+    "source_anchor_text": "“Oh, right,” said Annie.",
+    "source_excerpt": "“You forgot the ‘rough as a rock’ part,” said Jack. “Dolphin skin looks smooth and slippery.”\n\n“Oh, right,” said Annie.",
+    "action": "“Oh, right,” said Annie.",
+    "status": "planned",
+    "description": "“Oh, right,” said Annie.",
+    "sequence": 41032
+  },
+  {
+    "id": "mth09-ch04-sc110",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 33,
+    "insert_after_paragraph_id": "part-p33",
+    "source_paragraph_ids": [
+      "part-p33"
+    ],
+    "source_anchor_text": "The dolphins flipped their tails. They swam off into the light blue water.",
+    "source_excerpt": "The dolphins flipped their tails. They swam off into the light blue water.",
+    "action": "The dolphins flipped their tails. They swam off into the light blue water.",
+    "status": "planned",
+    "description": "The dolphins flipped their tails. They swam off into the light blue water.",
+    "sequence": 41033
+  },
+  {
+    "id": "mth09-ch04-sc111",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 35,
+    "insert_after_paragraph_id": "part-p35",
+    "source_paragraph_ids": [
+      "part-p34",
+      "part-p35"
+    ],
+    "source_anchor_text": "But the dolphins were gone.",
+    "source_excerpt": "“Wait! Don’t go!” called Annie. “Sukie!”\n\nBut the dolphins were gone.",
+    "action": "But the dolphins were gone.",
+    "status": "planned",
+    "description": "But the dolphins were gone.",
+    "sequence": 41035
+  },
+  {
+    "id": "mth09-ch04-sc112",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 37,
+    "insert_after_paragraph_id": "part-p37",
+    "source_paragraph_ids": [
+      "part-p36",
+      "part-p37"
+    ],
+    "source_anchor_text": "“But we haven’t solved the riddle,” said Annie.",
+    "source_excerpt": "“It’s time for us to go, too,” said Jack. He was afraid someone might be looking for the mini-sub.\n\n“But we haven’t solved the riddle,” said Annie.",
+    "action": "“But we haven’t solved the riddle,” said Annie.",
+    "status": "planned",
+    "description": "“But we haven’t solved the riddle,” said Annie.",
+    "sequence": 41037
+  },
+  {
+    "id": "mth09-ch04-sc113",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 39,
+    "insert_after_paragraph_id": "part-p39",
+    "source_paragraph_ids": [
+      "part-p38",
+      "part-p39"
+    ],
+    "source_anchor_text": "“I don’t see the answer,” he said. “There’s nothing plain at all out there.”",
+    "source_excerpt": "Jack studied the bright underwater world.\n\n“I don’t see the answer,” he said. “There’s nothing plain at all out there.”",
+    "action": "“I don’t see the answer,” he said. “There’s nothing plain at all out there.”",
+    "status": "planned",
+    "description": "“I don’t see the answer,” he said. “There’s nothing plain at all out there.”",
+    "sequence": 41039
+  },
+  {
+    "id": "mth09-ch04-sc114",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 41,
+    "insert_after_paragraph_id": "part-p41",
+    "source_paragraph_ids": [
+      "part-p40",
+      "part-p41"
+    ],
+    "source_anchor_text": "They looked around the tiny space.",
+    "source_excerpt": "“Then maybe the answer’s in the mini-sub,” said Annie.\n\nThey looked around the tiny space.",
+    "action": "They looked around the tiny space.",
+    "status": "planned",
+    "description": "They looked around the tiny space.",
+    "sequence": 41041
+  },
+  {
+    "id": "mth09-ch04-sc115",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 43,
+    "insert_after_paragraph_id": "part-p43",
+    "source_paragraph_ids": [
+      "part-p42",
+      "part-p43"
+    ],
+    "source_anchor_text": "He pressed the book picture.",
+    "source_excerpt": "“I’ll check the computer,” said Jack. He studied the row of pictures at the top of the screen.\n\nHe pressed the book picture.",
+    "action": "He pressed the book picture.",
+    "status": "planned",
+    "description": "He pressed the book picture.",
+    "sequence": 41043
+  },
+  {
+    "id": "mth09-ch04-sc116",
+    "chapter": 4,
+    "part": 1,
+    "paragraph": 44,
+    "insert_after_paragraph_id": "part-p44",
+    "source_paragraph_ids": [
+      "part-p44"
+    ],
+    "source_anchor_text": "The words SHIP’S LOG flashed onto the screen.",
+    "source_excerpt": "The words SHIP’S LOG flashed onto the screen.",
+    "action": "The words SHIP’S LOG flashed onto the screen.",
+    "status": "planned",
+    "description": "The words SHIP’S LOG flashed onto the screen.",
+    "sequence": 41044
+  },
+  {
+    "id": "mth09-ch05-sc117",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 2,
+    "insert_after_paragraph_id": "part-p2",
+    "source_paragraph_ids": [
+      "part-p1",
+      "part-p2"
+    ],
+    "source_anchor_text": "“It’s a diary of an ocean trip,” said Jack.",
+    "source_excerpt": "“What’s a ship’s log?” said Annie.\n\n“It’s a diary of an ocean trip,” said Jack.",
+    "action": "“It’s a diary of an ocean trip,” said Jack.",
+    "status": "planned",
+    "description": "“It’s a diary of an ocean trip,” said Jack.",
+    "sequence": 51002
+  },
+  {
+    "id": "mth09-ch05-sc118",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 4,
+    "insert_after_paragraph_id": "part-p4",
+    "source_paragraph_ids": [
+      "part-p3",
+      "part-p4"
+    ],
+    "source_anchor_text": "MONDAY, JULY 5",
+    "source_excerpt": "He peered at the computer screen and read a log entry:\n\nMONDAY, JULY 5",
+    "action": "MONDAY, JULY 5",
+    "status": "planned",
+    "description": "MONDAY, JULY 5",
+    "sequence": 51004
+  },
+  {
+    "id": "mth09-ch05-sc119",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 8,
+    "insert_after_paragraph_id": "part-p8",
+    "source_paragraph_ids": [
+      "part-p5",
+      "part-p6",
+      "part-p7",
+      "part-p8"
+    ],
+    "source_anchor_text": "FOUND TINY CRACK IN HULL",
+    "source_excerpt": "“Hey, that was just last week,” said Jack. He read further:\n\nCOLLECTED ROCK AND SHELL SAMPLES\n\nMAPPED OCEAN FLOOR\n\nFOUND TINY CRACK IN HULL",
+    "action": "FOUND TINY CRACK IN HULL",
+    "status": "planned",
+    "description": "FOUND TINY CRACK IN HULL",
+    "sequence": 51008
+  },
+  {
+    "id": "mth09-ch05-sc120",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 10,
+    "insert_after_paragraph_id": "part-p10",
+    "source_paragraph_ids": [
+      "part-p9",
+      "part-p10"
+    ],
+    "source_anchor_text": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
+    "source_excerpt": "“This is like your notebook,” said Annie.\n\n“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
+    "action": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
+    "status": "planned",
+    "description": "“Yeah, the oceanographer was writing notes on the computer,” said Jack.",
+    "sequence": 51010
+  },
+  {
+    "id": "mth09-ch05-sc121",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 14,
+    "insert_after_paragraph_id": "part-p14",
+    "source_paragraph_ids": [
+      "part-p11",
+      "part-p12",
+      "part-p13",
+      "part-p14"
+    ],
+    "source_anchor_text": "MUST RETURN TO REEF SOON",
+    "source_excerpt": "Jack and Annie read further:\n\nTUESDAY, JULY 6\n\nCRACK HAS WIDENED\n\nMUST RETURN TO REEF SOON",
+    "action": "MUST RETURN TO REEF SOON",
+    "status": "planned",
+    "description": "MUST RETURN TO REEF SOON",
+    "sequence": 51014
+  },
+  {
+    "id": "mth09-ch05-sc122",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 16,
+    "insert_after_paragraph_id": "part-p16",
+    "source_paragraph_ids": [
+      "part-p15",
+      "part-p16"
+    ],
+    "source_anchor_text": "“I don’t know,” said Jack. He read further:",
+    "source_excerpt": "“A crack where?” said Annie.\n\n“I don’t know,” said Jack. He read further:",
+    "action": "“I don’t know,” said Jack. He read further:",
+    "status": "planned",
+    "description": "“I don’t know,” said Jack. He read further:",
+    "sequence": 51016
+  },
+  {
+    "id": "mth09-ch05-sc123",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 20,
+    "insert_after_paragraph_id": "part-p20",
+    "source_paragraph_ids": [
+      "part-p17",
+      "part-p18",
+      "part-p19",
+      "part-p20"
+    ],
+    "source_anchor_text": "HEADING BACK TO REEF TODAY",
+    "source_excerpt": "WEDNESDAY, JULY 7\n\nMORE TINY CRACKS\n\nCANNOT BE FIXED\n\nHEADING BACK TO REEF TODAY",
+    "action": "HEADING BACK TO REEF TODAY",
+    "status": "planned",
+    "description": "HEADING BACK TO REEF TODAY",
+    "sequence": 51020
+  },
+  {
+    "id": "mth09-ch05-sc124",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 21,
+    "insert_after_paragraph_id": "part-p21",
+    "source_paragraph_ids": [
+      "part-p21"
+    ],
+    "source_anchor_text": "“Uh-oh. This doesn’t sound good,” said Jack. He read further:",
+    "source_excerpt": "“Uh-oh. This doesn’t sound good,” said Jack. He read further:",
+    "action": "“Uh-oh. This doesn’t sound good,” said Jack. He read further:",
+    "status": "planned",
+    "description": "“Uh-oh. This doesn’t sound good,” said Jack. He read further:",
+    "sequence": 51021
+  },
+  {
+    "id": "mth09-ch05-sc125",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 26,
+    "insert_after_paragraph_id": "part-p26",
+    "source_paragraph_ids": [
+      "part-p22",
+      "part-p23",
+      "part-p24",
+      "part-p25",
+      "part-p26"
+    ],
+    "source_anchor_text": "TO JUNKYARD",
+    "source_excerpt": "THURSDAY, JULY 8\n\nDEFECTIVE SUB\n\nRETURN TO REEF\n\nLEAVE FOR HELICOPTER TO TRANSPORT\n\nTO JUNKYARD",
+    "action": "TO JUNKYARD",
+    "status": "planned",
+    "description": "TO JUNKYARD",
+    "sequence": 51026
+  },
+  {
+    "id": "mth09-ch05-sc126",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 28,
+    "insert_after_paragraph_id": "part-p28",
+    "source_paragraph_ids": [
+      "part-p27",
+      "part-p28"
+    ],
+    "source_anchor_text": "“Yep,” said Jack.",
+    "source_excerpt": "“ ‘Defective’ means broken, right?” said Annie.\n\n“Yep,” said Jack.",
+    "action": "“Yep,” said Jack.",
+    "status": "planned",
+    "description": "“Yep,” said Jack.",
+    "sequence": 51028
+  },
+  {
+    "id": "mth09-ch05-sc127",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 30,
+    "insert_after_paragraph_id": "part-p30",
+    "source_paragraph_ids": [
+      "part-p29",
+      "part-p30"
+    ],
+    "source_anchor_text": "“Yep,” said Jack. “And it was waiting to be taken away by a helicopter. To a junkyard.”",
+    "source_excerpt": "“So this sub is broken, right?” said Annie.\n\n“Yep,” said Jack. “And it was waiting to be taken away by a helicopter. To a junkyard.”",
+    "action": "“Yep,” said Jack. “And it was waiting to be taken away by a helicopter. To a junkyard.”",
+    "status": "planned",
+    "description": "“Yep,” said Jack. “And it was waiting to be taken away by a helicopter. To a junkyard.”",
+    "sequence": 51030
+  },
+  {
+    "id": "mth09-ch05-sc128",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 32,
+    "insert_after_paragraph_id": "part-p32",
+    "source_paragraph_ids": [
+      "part-p31",
+      "part-p32"
+    ],
+    "source_anchor_text": "“Now we really have to get back,” said Jack.",
+    "source_excerpt": "“Yikes,” said Annie.\n\n“Now we really have to get back,” said Jack.",
+    "action": "“Now we really have to get back,” said Jack.",
+    "status": "planned",
+    "description": "“Now we really have to get back,” said Jack.",
+    "sequence": 51032
+  },
+  {
+    "id": "mth09-ch05-sc129",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 34,
+    "insert_after_paragraph_id": "part-p34",
+    "source_paragraph_ids": [
+      "part-p33",
+      "part-p34"
+    ],
+    "source_anchor_text": "She pressed the waves picture on the computer screen.",
+    "source_excerpt": "“Let’s try pressing the waves picture,” said Annie.\n\nShe pressed the waves picture on the computer screen.",
+    "action": "She pressed the waves picture on the computer screen.",
+    "status": "planned",
+    "description": "She pressed the waves picture on the computer screen.",
+    "sequence": 51034
+  },
+  {
+    "id": "mth09-ch05-sc130",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 36,
+    "insert_after_paragraph_id": "part-p36",
+    "source_paragraph_ids": [
+      "part-p35",
+      "part-p36"
+    ],
+    "source_anchor_text": "“Oh, good,” said Jack.",
+    "source_excerpt": "The mini-sub began to rise slowly.\n\n“Oh, good,” said Jack.",
+    "action": "“Oh, good,” said Jack.",
+    "status": "planned",
+    "description": "“Oh, good,” said Jack.",
+    "sequence": 51036
+  },
+  {
+    "id": "mth09-ch05-sc131",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 37,
+    "insert_after_paragraph_id": "part-p37",
+    "source_paragraph_ids": [
+      "part-p37"
+    ],
+    "source_anchor_text": "The sub went past a small coral mountain. It went past schools of fish and waving plants.",
+    "source_excerpt": "The sub went past a small coral mountain. It went past schools of fish and waving plants.",
+    "action": "The sub went past a small coral mountain. It went past schools of fish and waving plants.",
+    "status": "planned",
+    "description": "The sub went past a small coral mountain. It went past schools of fish and waving plants.",
+    "sequence": 51037
+  },
+  {
+    "id": "mth09-ch05-sc132",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 40,
+    "insert_after_paragraph_id": "part-p40",
+    "source_paragraph_ids": [
+      "part-p38",
+      "part-p39",
+      "part-p40"
+    ],
+    "source_anchor_text": "Two eyes were staring out from behind a giant sea plant. They looked human—except they were as big as golf balls.",
+    "source_excerpt": "“Oh!” gasped Annie.\n\nJack gasped, too.\n\nTwo eyes were staring out from behind a giant sea plant. They looked human—except they were as big as golf balls.",
+    "action": "Two eyes were staring out from behind a giant sea plant. They looked human—except they were as big as golf balls.",
+    "status": "planned",
+    "description": "Two eyes were staring out from behind a giant sea plant. They looked human—except they were as big as golf balls.",
+    "sequence": 51040
+  },
+  {
+    "id": "mth09-ch05-sc133",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 41,
+    "insert_after_paragraph_id": "part-p41",
+    "source_paragraph_ids": [
+      "part-p41"
+    ],
+    "source_anchor_text": "The sub moved past the giant plant. Jack breathed a sigh of relief.",
+    "source_excerpt": "The sub moved past the giant plant. Jack breathed a sigh of relief.",
+    "action": "The sub moved past the giant plant. Jack breathed a sigh of relief.",
+    "status": "planned",
+    "description": "The sub moved past the giant plant. Jack breathed a sigh of relief.",
+    "sequence": 51041
+  },
+  {
+    "id": "mth09-ch05-sc134",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 44,
+    "insert_after_paragraph_id": "part-p44",
+    "source_paragraph_ids": [
+      "part-p42",
+      "part-p43",
+      "part-p44"
+    ],
+    "source_anchor_text": "They stared back at the plant.",
+    "source_excerpt": "“What—? Whose—?” sputtered Annie.\n\n“Don’t ask,” said Jack.\n\nThey stared back at the plant.",
+    "action": "They stared back at the plant.",
+    "status": "planned",
+    "description": "They stared back at the plant.",
+    "sequence": 51044
+  },
+  {
+    "id": "mth09-ch05-sc135",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 47,
+    "insert_after_paragraph_id": "part-p47",
+    "source_paragraph_ids": [
+      "part-p45",
+      "part-p46",
+      "part-p47"
+    ],
+    "source_anchor_text": "Then another—and another—and another—and another—and another—and another!",
+    "source_excerpt": "Just then, a long arm came out from behind it.\n\nThen another arm came out.\n\nThen another—and another—and another—and another—and another—and another!",
+    "action": "Then another—and another—and another—and another—and another—and another!",
+    "status": "planned",
+    "description": "Then another—and another—and another—and another—and another—and another!",
+    "sequence": 51047
+  },
+  {
+    "id": "mth09-ch05-sc136",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 48,
+    "insert_after_paragraph_id": "part-p48",
+    "source_paragraph_ids": [
+      "part-p48"
+    ],
+    "source_anchor_text": "Jack and Annie stared in horror at a giant octopus.",
+    "source_excerpt": "Jack and Annie stared in horror at a giant octopus.",
+    "action": "Jack and Annie stared in horror at a giant octopus.",
+    "status": "planned",
+    "description": "Jack and Annie stared in horror at a giant octopus.",
+    "sequence": 51048
+  },
+  {
+    "id": "mth09-ch05-sc137",
+    "chapter": 5,
+    "part": 1,
+    "paragraph": 50,
+    "insert_after_paragraph_id": "part-p50",
+    "source_paragraph_ids": [
+      "part-p49",
+      "part-p50"
+    ],
+    "source_anchor_text": "Slowly, the octopus crept through the water. Its eight arms reached for the mini-sub.",
+    "source_excerpt": "“It’s coming after us,” said Annie.\n\nSlowly, the octopus crept through the water. Its eight arms reached for the mini-sub.",
+    "action": "Slowly, the octopus crept through the water. Its eight arms reached for the mini-sub.",
+    "status": "planned",
+    "description": "Slowly, the octopus crept through the water. Its eight arms reached for the mini-sub.",
+    "sequence": 51050
+  },
+  {
+    "id": "mth09-ch06-sc138",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 1,
+    "insert_after_paragraph_id": "part-p1",
+    "source_paragraph_ids": [
+      "part-p1"
+    ],
+    "source_anchor_text": "The octopus hugged the mini-sub. Each of its eight arms had two rows of suckers. The suckers stuck to the window.",
+    "source_excerpt": "The octopus hugged the mini-sub. Each of its eight arms had two rows of suckers. The suckers stuck to the window.",
+    "action": "The octopus hugged the mini-sub. Each of its eight arms had two rows of suckers. The suckers stuck to the window.",
+    "status": "planned",
+    "description": "The octopus hugged the mini-sub. Each of its eight arms had two rows of suckers. The suckers stuck to the window.",
+    "sequence": 61001
+  },
+  {
+    "id": "mth09-ch06-sc139",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 3,
+    "insert_after_paragraph_id": "part-p3",
+    "source_paragraph_ids": [
+      "part-p2",
+      "part-p3"
+    ],
+    "source_anchor_text": "The octopus stared at Jack and Annie with huge, human-like eyes.",
+    "source_excerpt": "The mini-sub stopped.\n\nThe octopus stared at Jack and Annie with huge, human-like eyes.",
+    "action": "The octopus stared at Jack and Annie with huge, human-like eyes.",
+    "status": "planned",
+    "description": "The octopus stared at Jack and Annie with huge, human-like eyes.",
+    "sequence": 61003
+  },
+  {
+    "id": "mth09-ch06-sc140",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 4,
+    "insert_after_paragraph_id": "part-p4",
+    "source_paragraph_ids": [
+      "part-p4"
+    ],
+    "source_anchor_text": "“I don’t think it wants to hurt us,” whispered Annie. “It’s just curious.”",
+    "source_excerpt": "“I don’t think it wants to hurt us,” whispered Annie. “It’s just curious.”",
+    "action": "“I don’t think it wants to hurt us,” whispered Annie. “It’s just curious.”",
+    "status": "planned",
+    "description": "“I don’t think it wants to hurt us,” whispered Annie. “It’s just curious.”",
+    "sequence": 61004
+  },
+  {
+    "id": "mth09-ch06-sc141",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 6,
+    "insert_after_paragraph_id": "part-p6",
+    "source_paragraph_ids": [
+      "part-p5",
+      "part-p6"
+    ],
+    "source_anchor_text": "His hands shook as he flipped through the pages of the ocean book.",
+    "source_excerpt": "“I—I’m going to research it,” said Jack.\n\nHis hands shook as he flipped through the pages of the ocean book.",
+    "action": "His hands shook as he flipped through the pages of the ocean book.",
+    "status": "planned",
+    "description": "His hands shook as he flipped through the pages of the ocean book.",
+    "sequence": 61006
+  },
+  {
+    "id": "mth09-ch06-sc142",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 8,
+    "insert_after_paragraph_id": "part-p8",
+    "source_paragraph_ids": [
+      "part-p7",
+      "part-p8"
+    ],
+    "source_anchor_text": "The octopus tends to be a gentle, shy creature. Sometimes, though, curiosity gets the best of it and it comes out of hiding.",
+    "source_excerpt": "He found a picture of an octopus and read aloud:\n\nThe octopus tends to be a gentle, shy creature. Sometimes, though, curiosity gets the best of it and it comes out of hiding.",
+    "action": "The octopus tends to be a gentle, shy creature. Sometimes, though, curiosity gets the best of it and it comes out of hiding.",
+    "status": "planned",
+    "description": "The octopus tends to be a gentle, shy creature. Sometimes, though, curiosity gets the best of it and it comes out of hiding.",
+    "sequence": 61008
+  },
+  {
+    "id": "mth09-ch06-sc143",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 9,
+    "insert_after_paragraph_id": "part-p9",
+    "source_paragraph_ids": [
+      "part-p9"
+    ],
+    "source_anchor_text": "“Aw. See, I told you, he’s shy,” said Annie. She yelled to the octopus, “Hi! I’m Annie! He’s Jack!”",
+    "source_excerpt": "“Aw. See, I told you, he’s shy,” said Annie. She yelled to the octopus, “Hi! I’m Annie! He’s Jack!”",
+    "action": "“Aw. See, I told you, he’s shy,” said Annie. She yelled to the octopus, “Hi! I’m Annie! He’s Jack!”",
+    "status": "planned",
+    "description": "“Aw. See, I told you, he’s shy,” said Annie. She yelled to the octopus, “Hi! I’m Annie! He’s Jack!”",
+    "sequence": 61009
+  },
+  {
+    "id": "mth09-ch06-sc144",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 11,
+    "insert_after_paragraph_id": "part-p11",
+    "source_paragraph_ids": [
+      "part-p10",
+      "part-p11"
+    ],
+    "source_anchor_text": "But the octopus has huge strength. Each of its arms, or tentacles, has many suckers, which act like rubber suction cups. It is nearly impossible to free an object from their grasp.",
+    "source_excerpt": "“Oh, brother,” moaned Jack. He read further:\n\nBut the octopus has huge strength. Each of its arms, or tentacles, has many suckers, which act like rubber suction cups. It is nearly impossible to free an object from their grasp.",
+    "action": "But the octopus has huge strength. Each of its arms, or tentacles, has many suckers, which act like rubber suction cups. It is nearly impossible to free an object from their grasp.",
+    "status": "planned",
+    "description": "But the octopus has huge strength. Each of its arms, or tentacles, has many suckers, which act like rubber suction cups. It is nearly impossible to free an object from their grasp.",
+    "sequence": 61011
+  },
+  {
+    "id": "mth09-ch06-sc145",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 12,
+    "insert_after_paragraph_id": "part-p12",
+    "source_paragraph_ids": [
+      "part-p12"
+    ],
+    "source_anchor_text": "“Oh, great,” said Jack. “We’ll never get rid of this thing.”",
+    "source_excerpt": "“Oh, great,” said Jack. “We’ll never get rid of this thing.”",
+    "action": "“Oh, great,” said Jack. “We’ll never get rid of this thing.”",
+    "status": "planned",
+    "description": "“Oh, great,” said Jack. “We’ll never get rid of this thing.”",
+    "sequence": 61012
+  },
+  {
+    "id": "mth09-ch06-sc146",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 13,
+    "insert_after_paragraph_id": "part-p13",
+    "source_paragraph_ids": [
+      "part-p13"
+    ],
+    "source_anchor_text": "Just then, Jack felt a drop hit his arm. Water. He looked up at the ceiling.",
+    "source_excerpt": "Just then, Jack felt a drop hit his arm. Water. He looked up at the ceiling.",
+    "action": "Just then, Jack felt a drop hit his arm. Water. He looked up at the ceiling.",
+    "status": "planned",
+    "description": "Just then, Jack felt a drop hit his arm. Water. He looked up at the ceiling.",
+    "sequence": 61013
+  },
+  {
+    "id": "mth09-ch06-sc147",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 16,
+    "insert_after_paragraph_id": "part-p16",
+    "source_paragraph_ids": [
+      "part-p14",
+      "part-p15",
+      "part-p16"
+    ],
+    "source_anchor_text": "Water dripped from the cracks.",
+    "source_excerpt": "“Uh-oh,” said Annie.\n\nA thin crack ran along the ceiling. Smaller cracks branched out from it.\n\nWater dripped from the cracks.",
+    "action": "Water dripped from the cracks.",
+    "status": "planned",
+    "description": "Water dripped from the cracks.",
+    "sequence": 61016
+  },
+  {
+    "id": "mth09-ch06-sc148",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 18,
+    "insert_after_paragraph_id": "part-p18",
+    "source_paragraph_ids": [
+      "part-p17",
+      "part-p18"
+    ],
+    "source_anchor_text": "“The octopus better let go! Before the whole ceiling breaks!” said Jack.",
+    "source_excerpt": "“We found the cracks,” said Annie.\n\n“The octopus better let go! Before the whole ceiling breaks!” said Jack.",
+    "action": "“The octopus better let go! Before the whole ceiling breaks!” said Jack.",
+    "status": "planned",
+    "description": "“The octopus better let go! Before the whole ceiling breaks!” said Jack.",
+    "sequence": 61018
+  },
+  {
+    "id": "mth09-ch06-sc149",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 20,
+    "insert_after_paragraph_id": "part-p20",
+    "source_paragraph_ids": [
+      "part-p19",
+      "part-p20"
+    ],
+    "source_anchor_text": "The creature blinked, as if trying to understand her.",
+    "source_excerpt": "“Let go, please. Please!” Annie shouted at the octopus.\n\nThe creature blinked, as if trying to understand her.",
+    "action": "The creature blinked, as if trying to understand her.",
+    "status": "planned",
+    "description": "The creature blinked, as if trying to understand her.",
+    "sequence": 61020
+  },
+  {
+    "id": "mth09-ch06-sc150",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 21,
+    "insert_after_paragraph_id": "part-p21",
+    "source_paragraph_ids": [
+      "part-p21"
+    ],
+    "source_anchor_text": "“Please! Please! Please!” she shouted.",
+    "source_excerpt": "“Please! Please! Please!” she shouted.",
+    "action": "“Please! Please! Please!” she shouted.",
+    "status": "planned",
+    "description": "“Please! Please! Please!” she shouted.",
+    "sequence": 61021
+  },
+  {
+    "id": "mth09-ch06-sc151",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 23,
+    "insert_after_paragraph_id": "part-p23",
+    "source_paragraph_ids": [
+      "part-p22",
+      "part-p23"
+    ],
+    "source_anchor_text": "The octopus blinked at Jack.",
+    "source_excerpt": "“Come on, Annie,” said Jack. “It doesn’t care if you’re polite.”\n\nThe octopus blinked at Jack.",
+    "action": "The octopus blinked at Jack.",
+    "status": "planned",
+    "description": "The octopus blinked at Jack.",
+    "sequence": 61023
+  },
+  {
+    "id": "mth09-ch06-sc152",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 24,
+    "insert_after_paragraph_id": "part-p24",
+    "source_paragraph_ids": [
+      "part-p24"
+    ],
+    "source_anchor_text": "“Get out of here!” Jack yelled at it. “Now! Beat it! Scram! Go!”",
+    "source_excerpt": "“Get out of here!” Jack yelled at it. “Now! Beat it! Scram! Go!”",
+    "action": "“Get out of here!” Jack yelled at it. “Now! Beat it! Scram! Go!”",
+    "status": "planned",
+    "description": "“Get out of here!” Jack yelled at it. “Now! Beat it! Scram! Go!”",
+    "sequence": 61024
+  },
+  {
+    "id": "mth09-ch06-sc153",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 25,
+    "insert_after_paragraph_id": "part-p25",
+    "source_paragraph_ids": [
+      "part-p25"
+    ],
+    "source_anchor_text": "The octopus shot a cloud of black liquid into the water and disappeared into the dark cloud. Its long tentacles trailed through the water.",
+    "source_excerpt": "The octopus shot a cloud of black liquid into the water and disappeared into the dark cloud. Its long tentacles trailed through the water.",
+    "action": "The octopus shot a cloud of black liquid into the water and disappeared into the dark cloud. Its long tentacles trailed through the water.",
+    "status": "planned",
+    "description": "The octopus shot a cloud of black liquid into the water and disappeared into the dark cloud. Its long tentacles trailed through the water.",
+    "sequence": 61025
+  },
+  {
+    "id": "mth09-ch06-sc154",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 26,
+    "insert_after_paragraph_id": "part-p26",
+    "source_paragraph_ids": [
+      "part-p26"
+    ],
+    "source_anchor_text": "The mini-sub started to rise slowly again.",
+    "source_excerpt": "The mini-sub started to rise slowly again.",
+    "action": "The mini-sub started to rise slowly again.",
+    "status": "planned",
+    "description": "The mini-sub started to rise slowly again.",
+    "sequence": 61026
+  },
+  {
+    "id": "mth09-ch06-sc155",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 28,
+    "insert_after_paragraph_id": "part-p28",
+    "source_paragraph_ids": [
+      "part-p27",
+      "part-p28"
+    ],
+    "source_anchor_text": "“I don’t think so … ” Something bothered Jack.",
+    "source_excerpt": "“You hurt his feelings,” Annie said.\n\n“I don’t think so … ” Something bothered Jack.",
+    "action": "“I don’t think so … ” Something bothered Jack.",
+    "status": "planned",
+    "description": "“I don’t think so … ” Something bothered Jack.",
+    "sequence": 61028
+  },
+  {
+    "id": "mth09-ch06-sc156",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 30,
+    "insert_after_paragraph_id": "part-p30",
+    "source_paragraph_ids": [
+      "part-p29",
+      "part-p30"
+    ],
+    "source_anchor_text": "The octopus squirts black ink to escape its enemies. One of its main enemies is the shark.",
+    "source_excerpt": "He looked back at the ocean book. He read to himself:\n\nThe octopus squirts black ink to escape its enemies. One of its main enemies is the shark.",
+    "action": "The octopus squirts black ink to escape its enemies. One of its main enemies is the shark.",
+    "status": "planned",
+    "description": "The octopus squirts black ink to escape its enemies. One of its main enemies is the shark.",
+    "sequence": 61030
+  },
+  {
+    "id": "mth09-ch06-sc157",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 32,
+    "insert_after_paragraph_id": "part-p32",
+    "source_paragraph_ids": [
+      "part-p31",
+      "part-p32"
+    ],
+    "source_anchor_text": "“What’s wrong?” asked Annie.",
+    "source_excerpt": "“Oh, no,” said Jack.\n\n“What’s wrong?” asked Annie.",
+    "action": "“What’s wrong?” asked Annie.",
+    "status": "planned",
+    "description": "“What’s wrong?” asked Annie.",
+    "sequence": 61032
+  },
+  {
+    "id": "mth09-ch06-sc158",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 34,
+    "insert_after_paragraph_id": "part-p34",
+    "source_paragraph_ids": [
+      "part-p33",
+      "part-p34"
+    ],
+    "source_anchor_text": "A shadowy figure moved toward the mini-sub.",
+    "source_excerpt": "Jack looked out the window. The water was growing clear again.\n\nA shadowy figure moved toward the mini-sub.",
+    "action": "A shadowy figure moved toward the mini-sub.",
+    "status": "planned",
+    "description": "A shadowy figure moved toward the mini-sub.",
+    "sequence": 61034
+  },
+  {
+    "id": "mth09-ch06-sc159",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 36,
+    "insert_after_paragraph_id": "part-p36",
+    "source_paragraph_ids": [
+      "part-p35",
+      "part-p36"
+    ],
+    "source_anchor_text": "The fish was way bigger than the dolphins. And it had a very weird head.",
+    "source_excerpt": "“What is that?” whispered Annie.\n\nThe fish was way bigger than the dolphins. And it had a very weird head.",
+    "action": "The fish was way bigger than the dolphins. And it had a very weird head.",
+    "status": "planned",
+    "description": "The fish was way bigger than the dolphins. And it had a very weird head.",
+    "sequence": 61036
+  },
+  {
+    "id": "mth09-ch06-sc160",
+    "chapter": 6,
+    "part": 1,
+    "paragraph": 38,
+    "insert_after_paragraph_id": "part-p38",
+    "source_paragraph_ids": [
+      "part-p37",
+      "part-p38"
+    ],
+    "source_anchor_text": "“A hammerhead shark,” he breathed. “We’re really in trouble now.”",
+    "source_excerpt": "Jack could feel his heart nearly stop.\n\n“A hammerhead shark,” he breathed. “We’re really in trouble now.”",
+    "action": "“A hammerhead shark,” he breathed. “We’re really in trouble now.”",
+    "status": "planned",
+    "description": "“A hammerhead shark,” he breathed. “We’re really in trouble now.”",
+    "sequence": 61038
+  },
+  {
+    "id": "mth09-ch07-sc161",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 2,
+    "insert_after_paragraph_id": "part-p2",
+    "source_paragraph_ids": [
+      "part-p1",
+      "part-p2"
+    ],
+    "source_anchor_text": "“Where did it go?” said Annie, peering out the window.",
+    "source_excerpt": "The shark swam behind the coral.\n\n“Where did it go?” said Annie, peering out the window.",
+    "action": "“Where did it go?” said Annie, peering out the window.",
+    "status": "planned",
+    "description": "“Where did it go?” said Annie, peering out the window.",
+    "sequence": 71002
+  },
+  {
+    "id": "mth09-ch07-sc162",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 3,
+    "insert_after_paragraph_id": "part-p3",
+    "source_paragraph_ids": [
+      "part-p3"
+    ],
+    "source_anchor_text": "“It doesn’t matter,” said Jack. “We have to get to the top.”",
+    "source_excerpt": "“It doesn’t matter,” said Jack. “We have to get to the top.”",
+    "action": "“It doesn’t matter,” said Jack. “We have to get to the top.”",
+    "status": "planned",
+    "description": "“It doesn’t matter,” said Jack. “We have to get to the top.”",
+    "sequence": 71003
+  },
+  {
+    "id": "mth09-ch07-sc163",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 5,
+    "insert_after_paragraph_id": "part-p5",
+    "source_paragraph_ids": [
+      "part-p4",
+      "part-p5"
+    ],
+    "source_anchor_text": "“Yeah, I know. Come on … come on … faster!” Jack ordered the mini-sub.",
+    "source_excerpt": "“More water’s coming in,” said Annie.\n\n“Yeah, I know. Come on … come on … faster!” Jack ordered the mini-sub.",
+    "action": "“Yeah, I know. Come on … come on … faster!” Jack ordered the mini-sub.",
+    "status": "planned",
+    "description": "“Yeah, I know. Come on … come on … faster!” Jack ordered the mini-sub.",
+    "sequence": 71005
+  },
+  {
+    "id": "mth09-ch07-sc164",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 7,
+    "insert_after_paragraph_id": "part-p7",
+    "source_paragraph_ids": [
+      "part-p6",
+      "part-p7"
+    ],
+    "source_anchor_text": "Jack looked up. The water wasn’t dripping now—it was spurting.",
+    "source_excerpt": "“Even more water’s coming in,” said Annie, “lots more!”\n\nJack looked up. The water wasn’t dripping now—it was spurting.",
+    "action": "Jack looked up. The water wasn’t dripping now—it was spurting.",
+    "status": "planned",
+    "description": "Jack looked up. The water wasn’t dripping now—it was spurting.",
+    "sequence": 71007
+  },
+  {
+    "id": "mth09-ch07-sc165",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 9,
+    "insert_after_paragraph_id": "part-p9",
+    "source_paragraph_ids": [
+      "part-p8",
+      "part-p9"
+    ],
+    "source_anchor_text": "Suddenly, the mini-sub burst out of the water. It bobbed on the waves like a cork. The ocean sparkled all around it.",
+    "source_excerpt": "“A few seconds, a few seconds,” said Jack.\n\nSuddenly, the mini-sub burst out of the water. It bobbed on the waves like a cork. The ocean sparkled all around it.",
+    "action": "Suddenly, the mini-sub burst out of the water. It bobbed on the waves like a cork. The ocean sparkled all around it.",
+    "status": "planned",
+    "description": "Suddenly, the mini-sub burst out of the water. It bobbed on the waves like a cork. The ocean sparkled all around it.",
+    "sequence": 71009
+  },
+  {
+    "id": "mth09-ch07-sc166",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 10,
+    "insert_after_paragraph_id": "part-p10",
+    "source_paragraph_ids": [
+      "part-p10"
+    ],
+    "source_anchor_text": "“Safe!” shouted Annie.",
+    "source_excerpt": "“Safe!” shouted Annie.",
+    "action": "“Safe!” shouted Annie.",
+    "status": "planned",
+    "description": "“Safe!” shouted Annie.",
+    "sequence": 71010
+  },
+  {
+    "id": "mth09-ch07-sc167",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 12,
+    "insert_after_paragraph_id": "part-p12",
+    "source_paragraph_ids": [
+      "part-p11",
+      "part-p12"
+    ],
+    "source_anchor_text": "“Uh—not really … ” he said.",
+    "source_excerpt": "Jack felt the water rising around his bare feet.\n\n“Uh—not really … ” he said.",
+    "action": "“Uh—not really … ” he said.",
+    "status": "planned",
+    "description": "“Uh—not really … ” he said.",
+    "sequence": 71012
+  },
+  {
+    "id": "mth09-ch07-sc168",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 14,
+    "insert_after_paragraph_id": "part-p14",
+    "source_paragraph_ids": [
+      "part-p13",
+      "part-p14"
+    ],
+    "source_anchor_text": "The water was up to their ankles now.",
+    "source_excerpt": "“Oops,” said Annie. “The octopus must have made cracks in the bottom, too.”\n\nThe water was up to their ankles now.",
+    "action": "The water was up to their ankles now.",
+    "status": "planned",
+    "description": "The water was up to their ankles now.",
+    "sequence": 71014
+  },
+  {
+    "id": "mth09-ch07-sc169",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 16,
+    "insert_after_paragraph_id": "part-p16",
+    "source_paragraph_ids": [
+      "part-p15",
+      "part-p16"
+    ],
+    "source_anchor_text": "“The sub can make it. It doesn’t look that far,” he said.",
+    "source_excerpt": "Jack looked out. He saw the reef in the distance.\n\n“The sub can make it. It doesn’t look that far,” he said.",
+    "action": "“The sub can make it. It doesn’t look that far,” he said.",
+    "status": "planned",
+    "description": "“The sub can make it. It doesn’t look that far,” he said.",
+    "sequence": 71016
+  },
+  {
+    "id": "mth09-ch07-sc170",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 18,
+    "insert_after_paragraph_id": "part-p18",
+    "source_paragraph_ids": [
+      "part-p17",
+      "part-p18"
+    ],
+    "source_anchor_text": "She pressed one of the steering keys.",
+    "source_excerpt": "“Go, go, go,” said Annie.\n\nShe pressed one of the steering keys.",
+    "action": "She pressed one of the steering keys.",
+    "status": "planned",
+    "description": "She pressed one of the steering keys.",
+    "sequence": 71018
+  },
+  {
+    "id": "mth09-ch07-sc171",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 19,
+    "insert_after_paragraph_id": "part-p19",
+    "source_paragraph_ids": [
+      "part-p19"
+    ],
+    "source_anchor_text": "Suddenly, the screen went blank.",
+    "source_excerpt": "Suddenly, the screen went blank.",
+    "action": "Suddenly, the screen went blank.",
+    "status": "planned",
+    "description": "Suddenly, the screen went blank.",
+    "sequence": 71019
+  },
+  {
+    "id": "mth09-ch07-sc172",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 21,
+    "insert_after_paragraph_id": "part-p21",
+    "source_paragraph_ids": [
+      "part-p20",
+      "part-p21"
+    ],
+    "source_anchor_text": "Annie pressed the key again. Then Jack pressed the other pictures. Nothing happened.",
+    "source_excerpt": "“What’s happening?” said Jack.\n\nAnnie pressed the key again. Then Jack pressed the other pictures. Nothing happened.",
+    "action": "Annie pressed the key again. Then Jack pressed the other pictures. Nothing happened.",
+    "status": "planned",
+    "description": "Annie pressed the key again. Then Jack pressed the other pictures. Nothing happened.",
+    "sequence": 71021
+  },
+  {
+    "id": "mth09-ch07-sc173",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 23,
+    "insert_after_paragraph_id": "part-p23",
+    "source_paragraph_ids": [
+      "part-p22",
+      "part-p23"
+    ],
+    "source_anchor_text": "“Oh, great,” said Jack.",
+    "source_excerpt": "“It’s dead,” said Annie.\n\n“Oh, great,” said Jack.",
+    "action": "“Oh, great,” said Jack.",
+    "status": "planned",
+    "description": "“Oh, great,” said Jack.",
+    "sequence": 71023
+  },
+  {
+    "id": "mth09-ch07-sc174",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 24,
+    "insert_after_paragraph_id": "part-p24",
+    "source_paragraph_ids": [
+      "part-p24"
+    ],
+    "source_anchor_text": "Now the water was up to their knees.",
+    "source_excerpt": "Now the water was up to their knees.",
+    "action": "Now the water was up to their knees.",
+    "status": "planned",
+    "description": "Now the water was up to their knees.",
+    "sequence": 71024
+  },
+  {
+    "id": "mth09-ch07-sc175",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 27,
+    "insert_after_paragraph_id": "part-p27",
+    "source_paragraph_ids": [
+      "part-p25",
+      "part-p26",
+      "part-p27"
+    ],
+    "source_anchor_text": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
+    "source_excerpt": "“I guess we’ll have to swim,” said Jack. He took a deep breath.\n\n“Right,” said Annie. “It’s a good thing we had swimming lessons this summer.”\n\n“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
+    "action": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
+    "status": "planned",
+    "description": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
+    "sequence": 71027
+  },
+  {
+    "id": "mth09-ch07-sc176",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 30,
+    "insert_after_paragraph_id": "part-p30",
+    "source_paragraph_ids": [
+      "part-p28",
+      "part-p29",
+      "part-p30"
+    ],
+    "source_anchor_text": "If you ever see a shark in the water, don’t splash. Swim calmly away.",
+    "source_excerpt": "Jack quickly found the picture of the shark in the book.\n\nHe read aloud:\n\nIf you ever see a shark in the water, don’t splash. Swim calmly away.",
+    "action": "If you ever see a shark in the water, don’t splash. Swim calmly away.",
+    "status": "planned",
+    "description": "If you ever see a shark in the water, don’t splash. Swim calmly away.",
+    "sequence": 71030
+  },
+  {
+    "id": "mth09-ch07-sc177",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 32,
+    "insert_after_paragraph_id": "part-p32",
+    "source_paragraph_ids": [
+      "part-p31",
+      "part-p32"
+    ],
+    "source_anchor_text": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
+    "source_excerpt": "Jack closed the book.\n\n“We better do the breast stroke,” said Annie. “So we won’t splash.”",
+    "action": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
+    "status": "planned",
+    "description": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
+    "sequence": 71032
+  },
+  {
+    "id": "mth09-ch07-sc178",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 34,
+    "insert_after_paragraph_id": "part-p34",
+    "source_paragraph_ids": [
+      "part-p33",
+      "part-p34"
+    ],
+    "source_anchor_text": "“Very close,” said Annie. Her eyes were wide. But she seemed very calm.",
+    "source_excerpt": "“Yep, and stay close,” said Jack.\n\n“Very close,” said Annie. Her eyes were wide. But she seemed very calm.",
+    "action": "“Very close,” said Annie. Her eyes were wide. But she seemed very calm.",
+    "status": "planned",
+    "description": "“Very close,” said Annie. Her eyes were wide. But she seemed very calm.",
+    "sequence": 71034
+  },
+  {
+    "id": "mth09-ch07-sc179",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 35,
+    "insert_after_paragraph_id": "part-p35",
+    "source_paragraph_ids": [
+      "part-p35"
+    ],
+    "source_anchor_text": "Jack took a deep breath. He tried to be calm, too. He calmly took off his glasses. He calmly put them and the book into his pack. He calmly put his pack on his back.",
+    "source_excerpt": "Jack took a deep breath. He tried to be calm, too. He calmly took off his glasses. He calmly put them and the book into his pack. He calmly put his pack on his back.",
+    "action": "Jack took a deep breath. He tried to be calm, too. He calmly took off his glasses. He calmly put them and the book into his pack. He calmly put his pack on his back.",
+    "status": "planned",
+    "description": "Jack took a deep breath. He tried to be calm, too. He calmly took off his glasses. He calmly put them and the book into his pack. He calmly put his pack on his back.",
+    "sequence": 71035
+  },
+  {
+    "id": "mth09-ch07-sc180",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 36,
+    "insert_after_paragraph_id": "part-p36",
+    "source_paragraph_ids": [
+      "part-p36"
+    ],
+    "source_anchor_text": "Annie opened the hatch.",
+    "source_excerpt": "Annie opened the hatch.",
+    "action": "Annie opened the hatch.",
+    "status": "planned",
+    "description": "Annie opened the hatch.",
+    "sequence": 71036
+  },
+  {
+    "id": "mth09-ch07-sc181",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 37,
+    "insert_after_paragraph_id": "part-p37",
+    "source_paragraph_ids": [
+      "part-p37"
+    ],
+    "source_anchor_text": "“Be calm,” Annie said. She slipped out of the mini-sub.",
+    "source_excerpt": "“Be calm,” Annie said. She slipped out of the mini-sub.",
+    "action": "“Be calm,” Annie said. She slipped out of the mini-sub.",
+    "status": "planned",
+    "description": "“Be calm,” Annie said. She slipped out of the mini-sub.",
+    "sequence": 71037
+  },
+  {
+    "id": "mth09-ch07-sc182",
+    "chapter": 7,
+    "part": 1,
+    "paragraph": 39,
+    "insert_after_paragraph_id": "part-p39",
+    "source_paragraph_ids": [
+      "part-p38",
+      "part-p39"
+    ],
+    "source_anchor_text": "Then he calmly lowered himself into the ocean.",
+    "source_excerpt": "“Help,” Jack said calmly. He held his nose.\n\nThen he calmly lowered himself into the ocean.",
+    "action": "Then he calmly lowered himself into the ocean.",
+    "status": "planned",
+    "description": "Then he calmly lowered himself into the ocean.",
+    "sequence": 71039
+  },
+  {
+    "id": "mth09-ch08-sc183",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 1,
+    "insert_after_paragraph_id": "part-p1",
+    "source_paragraph_ids": [
+      "part-p1"
+    ],
+    "source_anchor_text": "Jack moved his arms slowly. He moved his legs slowly. He gently pushed the water out of his way as he did the breast stroke.",
+    "source_excerpt": "Jack moved his arms slowly. He moved his legs slowly. He gently pushed the water out of his way as he did the breast stroke.",
+    "action": "Jack moved his arms slowly. He moved his legs slowly. He gently pushed the water out of his way as he did the breast stroke.",
+    "status": "planned",
+    "description": "Jack moved his arms slowly. He moved his legs slowly. He gently pushed the water out of his way as he did the breast stroke.",
+    "sequence": 81001
+  },
+  {
+    "id": "mth09-ch08-sc184",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 4,
+    "insert_after_paragraph_id": "part-p4",
+    "source_paragraph_ids": [
+      "part-p2",
+      "part-p3",
+      "part-p4"
+    ],
+    "source_anchor_text": "All was calm.",
+    "source_excerpt": "Calm, calm, he told himself.\n\nAnnie swam beside him. They headed for the reef.\n\nAll was calm.",
+    "action": "All was calm.",
+    "status": "planned",
+    "description": "All was calm.",
+    "sequence": 81004
+  },
+  {
+    "id": "mth09-ch08-sc185",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 6,
+    "insert_after_paragraph_id": "part-p6",
+    "source_paragraph_ids": [
+      "part-p5",
+      "part-p6"
+    ],
+    "source_anchor_text": "A dark fin was zigzagging through the water. It was heading toward them.",
+    "source_excerpt": "Then Jack saw something out of the corner of his eye.\n\nA dark fin was zigzagging through the water. It was heading toward them.",
+    "action": "A dark fin was zigzagging through the water. It was heading toward them.",
+    "status": "planned",
+    "description": "A dark fin was zigzagging through the water. It was heading toward them.",
+    "sequence": 81006
+  },
+  {
+    "id": "mth09-ch08-sc186",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 8,
+    "insert_after_paragraph_id": "part-p8",
+    "source_paragraph_ids": [
+      "part-p7",
+      "part-p8"
+    ],
+    "source_anchor_text": "I better not tell Annie, he thought. She’ll stay calmer if she doesn’t know.",
+    "source_excerpt": "Jack wanted to splash. He wanted to yell. But he remembered: calm.\n\nI better not tell Annie, he thought. She’ll stay calmer if she doesn’t know.",
+    "action": "I better not tell Annie, he thought. She’ll stay calmer if she doesn’t know.",
+    "status": "planned",
+    "description": "I better not tell Annie, he thought. She’ll stay calmer if she doesn’t know.",
+    "sequence": 81008
+  },
+  {
+    "id": "mth09-ch08-sc187",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 10,
+    "insert_after_paragraph_id": "part-p10",
+    "source_paragraph_ids": [
+      "part-p9",
+      "part-p10"
+    ],
+    "source_anchor_text": "They both swam as fast, and as calmly, as they could.",
+    "source_excerpt": "He began to swim faster—then faster. Annie went faster, too.\n\nThey both swam as fast, and as calmly, as they could.",
+    "action": "They both swam as fast, and as calmly, as they could.",
+    "status": "planned",
+    "description": "They both swam as fast, and as calmly, as they could.",
+    "sequence": 81010
+  },
+  {
+    "id": "mth09-ch08-sc188",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 12,
+    "insert_after_paragraph_id": "part-p12",
+    "source_paragraph_ids": [
+      "part-p11",
+      "part-p12"
+    ],
+    "source_anchor_text": "Jack was so scared that he wasn’t tired at all. He was swimming for his life—and for Annie’s life, too.",
+    "source_excerpt": "Sometimes Annie went even faster than Jack, which made him swim faster. And faster.\n\nJack was so scared that he wasn’t tired at all. He was swimming for his life—and for Annie’s life, too.",
+    "action": "Jack was so scared that he wasn’t tired at all. He was swimming for his life—and for Annie’s life, too.",
+    "status": "planned",
+    "description": "Jack was so scared that he wasn’t tired at all. He was swimming for his life—and for Annie’s life, too.",
+    "sequence": 81012
+  },
+  {
+    "id": "mth09-ch08-sc189",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 14,
+    "insert_after_paragraph_id": "part-p14",
+    "source_paragraph_ids": [
+      "part-p13",
+      "part-p14"
+    ],
+    "source_anchor_text": "He just kept his eye on the tree house in the distance. And he kept swimming.",
+    "source_excerpt": "He didn’t look back to see if the shark was still there. He didn’t want to know.\n\nHe just kept his eye on the tree house in the distance. And he kept swimming.",
+    "action": "He just kept his eye on the tree house in the distance. And he kept swimming.",
+    "status": "planned",
+    "description": "He just kept his eye on the tree house in the distance. And he kept swimming.",
+    "sequence": 81014
+  },
+  {
+    "id": "mth09-ch08-sc190",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 17,
+    "insert_after_paragraph_id": "part-p17",
+    "source_paragraph_ids": [
+      "part-p15",
+      "part-p16",
+      "part-p17"
+    ],
+    "source_anchor_text": "Jack realized the reef was farther away than he had thought.",
+    "source_excerpt": "Jack and Annie swam and swam and swam.\n\nIt took forever for the tree house to get just a little closer.\n\nJack realized the reef was farther away than he had thought.",
+    "action": "Jack realized the reef was farther away than he had thought.",
+    "status": "planned",
+    "description": "Jack realized the reef was farther away than he had thought.",
+    "sequence": 81017
+  },
+  {
+    "id": "mth09-ch08-sc191",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 19,
+    "insert_after_paragraph_id": "part-p19",
+    "source_paragraph_ids": [
+      "part-p18",
+      "part-p19"
+    ],
+    "source_anchor_text": "Annie was struggling, too.",
+    "source_excerpt": "He kept swimming, but his arms and legs felt heavy.\n\nAnnie was struggling, too.",
+    "action": "Annie was struggling, too.",
+    "status": "planned",
+    "description": "Annie was struggling, too.",
+    "sequence": 81019
+  },
+  {
+    "id": "mth09-ch08-sc192",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 21,
+    "insert_after_paragraph_id": "part-p21",
+    "source_paragraph_ids": [
+      "part-p20",
+      "part-p21"
+    ],
+    "source_anchor_text": "Jack and Annie turned onto their backs. They floated the way they had learned in swimming class.",
+    "source_excerpt": "“Float!” she said. “Float!”\n\nJack and Annie turned onto their backs. They floated the way they had learned in swimming class.",
+    "action": "Jack and Annie turned onto their backs. They floated the way they had learned in swimming class.",
+    "status": "planned",
+    "description": "Jack and Annie turned onto their backs. They floated the way they had learned in swimming class.",
+    "sequence": 81021
+  },
+  {
+    "id": "mth09-ch08-sc193",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 23,
+    "insert_after_paragraph_id": "part-p23",
+    "source_paragraph_ids": [
+      "part-p22",
+      "part-p23"
+    ],
+    "source_anchor_text": "But the more Jack floated, the more tired he felt. Soon he was too tired even to float. He started to sink.",
+    "source_excerpt": "We’ll just rest for a minute, Jack thought. Then we’ll keep going.\n\nBut the more Jack floated, the more tired he felt. Soon he was too tired even to float. He started to sink.",
+    "action": "But the more Jack floated, the more tired he felt. Soon he was too tired even to float. He started to sink.",
+    "status": "planned",
+    "description": "But the more Jack floated, the more tired he felt. Soon he was too tired even to float. He started to sink.",
+    "sequence": 81023
+  },
+  {
+    "id": "mth09-ch08-sc194",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 26,
+    "insert_after_paragraph_id": "part-p26",
+    "source_paragraph_ids": [
+      "part-p24",
+      "part-p25",
+      "part-p26"
+    ],
+    "source_anchor_text": "It was slippery and alive.",
+    "source_excerpt": "Then he felt something.\n\nHis heart stopped. Something pushed at him in the water.\n\nIt was slippery and alive.",
+    "action": "It was slippery and alive.",
+    "status": "planned",
+    "description": "It was slippery and alive.",
+    "sequence": 81026
+  },
+  {
+    "id": "mth09-ch08-sc195",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 28,
+    "insert_after_paragraph_id": "part-p28",
+    "source_paragraph_ids": [
+      "part-p27",
+      "part-p28"
+    ],
+    "source_anchor_text": "Jack shut his eyes and waited for the worst. He waited and waited. Finally, he opened his eyes.",
+    "source_excerpt": "Had the hammerhead caught up with them?\n\nJack shut his eyes and waited for the worst. He waited and waited. Finally, he opened his eyes.",
+    "action": "Jack shut his eyes and waited for the worst. He waited and waited. Finally, he opened his eyes.",
+    "status": "planned",
+    "description": "Jack shut his eyes and waited for the worst. He waited and waited. Finally, he opened his eyes.",
+    "sequence": 81028
+  },
+  {
+    "id": "mth09-ch08-sc196",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 30,
+    "insert_after_paragraph_id": "part-p30",
+    "source_paragraph_ids": [
+      "part-p29",
+      "part-p30"
+    ],
+    "source_anchor_text": "The dolphin pushed Jack with its nose. It made happy clicking sounds.",
+    "source_excerpt": "In front of him was a shiny gray head—a dolphin’s head!\n\nThe dolphin pushed Jack with its nose. It made happy clicking sounds.",
+    "action": "The dolphin pushed Jack with its nose. It made happy clicking sounds.",
+    "status": "planned",
+    "description": "The dolphin pushed Jack with its nose. It made happy clicking sounds.",
+    "sequence": 81030
+  },
+  {
+    "id": "mth09-ch08-sc197",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 33,
+    "insert_after_paragraph_id": "part-p33",
+    "source_paragraph_ids": [
+      "part-p31",
+      "part-p32",
+      "part-p33"
+    ],
+    "source_anchor_text": "She was clinging to the fin of another dolphin! Her dolphin was moving through the water.",
+    "source_excerpt": "“Hooray!” cried Annie.\n\nJack looked over at her.\n\nShe was clinging to the fin of another dolphin! Her dolphin was moving through the water.",
+    "action": "She was clinging to the fin of another dolphin! Her dolphin was moving through the water.",
+    "status": "planned",
+    "description": "She was clinging to the fin of another dolphin! Her dolphin was moving through the water.",
+    "sequence": 81033
+  },
+  {
+    "id": "mth09-ch08-sc198",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 34,
+    "insert_after_paragraph_id": "part-p34",
+    "source_paragraph_ids": [
+      "part-p34"
+    ],
+    "source_anchor_text": "Jack grabbed the fin of his dolphin.",
+    "source_excerpt": "Jack grabbed the fin of his dolphin.",
+    "action": "Jack grabbed the fin of his dolphin.",
+    "status": "planned",
+    "description": "Jack grabbed the fin of his dolphin.",
+    "sequence": 81034
+  },
+  {
+    "id": "mth09-ch08-sc199",
+    "chapter": 8,
+    "part": 1,
+    "paragraph": 35,
+    "insert_after_paragraph_id": "part-p35",
+    "source_paragraph_ids": [
+      "part-p35"
+    ],
+    "source_anchor_text": "Then the two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+    "source_excerpt": "Then the two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+    "action": "Then the two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+    "status": "planned",
+    "description": "Then the two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+    "sequence": 81035
+  },
+  {
+    "id": "mth09-ch09-sc200",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 3,
+    "insert_after_paragraph_id": "part-p3",
+    "source_paragraph_ids": [
+      "part-p1",
+      "part-p2",
+      "part-p3"
+    ],
+    "source_anchor_text": "The dolphins slowed down as they neared the reef.",
+    "source_excerpt": "The sun shone on the ocean. It sparkled like a diamond.\n\nJack felt safe now. His dolphin was taking good care of him.\n\nThe dolphins slowed down as they neared the reef.",
+    "action": "The dolphins slowed down as they neared the reef.",
+    "status": "planned",
+    "description": "The dolphins slowed down as they neared the reef.",
+    "sequence": 91003
+  },
+  {
+    "id": "mth09-ch09-sc201",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 5,
+    "insert_after_paragraph_id": "part-p5",
+    "source_paragraph_ids": [
+      "part-p4",
+      "part-p5"
+    ],
+    "source_anchor_text": "Annie stood, too.",
+    "source_excerpt": "Jack lowered his feet. He felt the bumpy coral. He let go of the dolphin’s fin and stood up in the water.\n\nAnnie stood, too.",
+    "action": "Annie stood, too.",
+    "status": "planned",
+    "description": "Annie stood, too.",
+    "sequence": 91005
+  },
+  {
+    "id": "mth09-ch09-sc202",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 7,
+    "insert_after_paragraph_id": "part-p7",
+    "source_paragraph_ids": [
+      "part-p6",
+      "part-p7"
+    ],
+    "source_anchor_text": "“Thank you, Sukie!” she cried. And she kissed the dolphin’s nose.",
+    "source_excerpt": "Then she threw her arms around her dolphin and gave her a big hug.\n\n“Thank you, Sukie!” she cried. And she kissed the dolphin’s nose.",
+    "action": "“Thank you, Sukie!” she cried. And she kissed the dolphin’s nose.",
+    "status": "planned",
+    "description": "“Thank you, Sukie!” she cried. And she kissed the dolphin’s nose.",
+    "sequence": 91007
+  },
+  {
+    "id": "mth09-ch09-sc203",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 8,
+    "insert_after_paragraph_id": "part-p8",
+    "source_paragraph_ids": [
+      "part-p8"
+    ],
+    "source_anchor_text": "Sukie tossed her head and clicked at Annie.",
+    "source_excerpt": "Sukie tossed her head and clicked at Annie.",
+    "action": "Sukie tossed her head and clicked at Annie.",
+    "status": "planned",
+    "description": "Sukie tossed her head and clicked at Annie.",
+    "sequence": 91008
+  },
+  {
+    "id": "mth09-ch09-sc204",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 10,
+    "insert_after_paragraph_id": "part-p10",
+    "source_paragraph_ids": [
+      "part-p9",
+      "part-p10"
+    ],
+    "source_anchor_text": "“You’re nuts,” said Jack.",
+    "source_excerpt": "“Kiss Sam now!” Annie said to Jack.\n\n“You’re nuts,” said Jack.",
+    "action": "“You’re nuts,” said Jack.",
+    "status": "planned",
+    "description": "“You’re nuts,” said Jack.",
+    "sequence": 91010
+  },
+  {
+    "id": "mth09-ch09-sc205",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 12,
+    "insert_after_paragraph_id": "part-p12",
+    "source_paragraph_ids": [
+      "part-p11",
+      "part-p12"
+    ],
+    "source_anchor_text": "Jack couldn’t resist. He threw his arms around the dolphin and gave him a quick kiss.",
+    "source_excerpt": "But Sam nuzzled Jack’s head. Then he put his flippers around Jack’s neck.\n\nJack couldn’t resist. He threw his arms around the dolphin and gave him a quick kiss.",
+    "action": "Jack couldn’t resist. He threw his arms around the dolphin and gave him a quick kiss.",
+    "status": "planned",
+    "description": "Jack couldn’t resist. He threw his arms around the dolphin and gave him a quick kiss.",
+    "sequence": 91012
+  },
+  {
+    "id": "mth09-ch09-sc206",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 14,
+    "insert_after_paragraph_id": "part-p14",
+    "source_paragraph_ids": [
+      "part-p13",
+      "part-p14"
+    ],
+    "source_anchor_text": "The two dolphins chattered to each other for a moment. They nodded at Jack and Annie and swam gracefully away.",
+    "source_excerpt": "Sam nodded and made clicking sounds like laughter. Then he turned to Sukie.\n\nThe two dolphins chattered to each other for a moment. They nodded at Jack and Annie and swam gracefully away.",
+    "action": "The two dolphins chattered to each other for a moment. They nodded at Jack and Annie and swam gracefully away.",
+    "status": "planned",
+    "description": "The two dolphins chattered to each other for a moment. They nodded at Jack and Annie and swam gracefully away.",
+    "sequence": 91014
+  },
+  {
+    "id": "mth09-ch09-sc207",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 17,
+    "insert_after_paragraph_id": "part-p17",
+    "source_paragraph_ids": [
+      "part-p15",
+      "part-p16",
+      "part-p17"
+    ],
+    "source_anchor_text": "The dolphins leapt high into the air. Then they dove back into the water with a SPLASH!",
+    "source_excerpt": "“Bye, Sukie! Bye, Sam!” Annie shouted.\n\n“Thanks!” Jack shouted.\n\nThe dolphins leapt high into the air. Then they dove back into the water with a SPLASH!",
+    "action": "The dolphins leapt high into the air. Then they dove back into the water with a SPLASH!",
+    "status": "planned",
+    "description": "The dolphins leapt high into the air. Then they dove back into the water with a SPLASH!",
+    "sequence": 91017
+  },
+  {
+    "id": "mth09-ch09-sc208",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 19,
+    "insert_after_paragraph_id": "part-p19",
+    "source_paragraph_ids": [
+      "part-p18",
+      "part-p19"
+    ],
+    "source_anchor_text": "Jack and Annie watched the dolphins until they disappeared.",
+    "source_excerpt": "Jack and Annie laughed. “I wish we could swim like that,” said Jack.\n\nJack and Annie watched the dolphins until they disappeared.",
+    "action": "Jack and Annie watched the dolphins until they disappeared.",
+    "status": "planned",
+    "description": "Jack and Annie watched the dolphins until they disappeared.",
+    "sequence": 91019
+  },
+  {
+    "id": "mth09-ch09-sc209",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 21,
+    "insert_after_paragraph_id": "part-p21",
+    "source_paragraph_ids": [
+      "part-p20",
+      "part-p21"
+    ],
+    "source_anchor_text": "“Me too,” said Jack.",
+    "source_excerpt": "“I miss them already,” Annie said softly.\n\n“Me too,” said Jack.",
+    "action": "“Me too,” said Jack.",
+    "status": "planned",
+    "description": "“Me too,” said Jack.",
+    "sequence": 91021
+  },
+  {
+    "id": "mth09-ch09-sc210",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 24,
+    "insert_after_paragraph_id": "part-p24",
+    "source_paragraph_ids": [
+      "part-p22",
+      "part-p23",
+      "part-p24"
+    ],
+    "source_anchor_text": "Annie sat beside him.",
+    "source_excerpt": "He sat down in the shallow water.\n\n“I’m really tired,” he said.\n\nAnnie sat beside him.",
+    "action": "Annie sat beside him.",
+    "status": "planned",
+    "description": "Annie sat beside him.",
+    "sequence": 91024
+  },
+  {
+    "id": "mth09-ch09-sc211",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 26,
+    "insert_after_paragraph_id": "part-p26",
+    "source_paragraph_ids": [
+      "part-p25",
+      "part-p26"
+    ],
+    "source_anchor_text": "The warm water lapped around their shorts and T-shirts.",
+    "source_excerpt": "“Me too,” she said.\n\nThe warm water lapped around their shorts and T-shirts.",
+    "action": "The warm water lapped around their shorts and T-shirts.",
+    "status": "planned",
+    "description": "The warm water lapped around their shorts and T-shirts.",
+    "sequence": 91026
+  },
+  {
+    "id": "mth09-ch09-sc212",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 27,
+    "insert_after_paragraph_id": "part-p27",
+    "source_paragraph_ids": [
+      "part-p27"
+    ],
+    "source_anchor_text": "Jack pulled off his pack. He took out his glasses and put them on. They were blurry with water.",
+    "source_excerpt": "Jack pulled off his pack. He took out his glasses and put them on. They were blurry with water.",
+    "action": "Jack pulled off his pack. He took out his glasses and put them on. They were blurry with water.",
+    "status": "planned",
+    "description": "Jack pulled off his pack. He took out his glasses and put them on. They were blurry with water.",
+    "sequence": 91027
+  },
+  {
+    "id": "mth09-ch09-sc213",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 30,
+    "insert_after_paragraph_id": "part-p30",
+    "source_paragraph_ids": [
+      "part-p28",
+      "part-p29",
+      "part-p30"
+    ],
+    "source_anchor_text": "“I saw the shark when we were swimming,” Annie said. “But I didn’t tell you. I wanted you to stay calm.”",
+    "source_excerpt": "“Guess what,” said Annie.\n\n“What?” said Jack.\n\n“I saw the shark when we were swimming,” Annie said. “But I didn’t tell you. I wanted you to stay calm.”",
+    "action": "“I saw the shark when we were swimming,” Annie said. “But I didn’t tell you. I wanted you to stay calm.”",
+    "status": "planned",
+    "description": "“I saw the shark when we were swimming,” Annie said. “But I didn’t tell you. I wanted you to stay calm.”",
+    "sequence": 91030
+  },
+  {
+    "id": "mth09-ch09-sc214",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 31,
+    "insert_after_paragraph_id": "part-p31",
+    "source_paragraph_ids": [
+      "part-p31"
+    ],
+    "source_anchor_text": "Jack stared at her. “I saw it, too. I just swam faster so you would swim faster.”",
+    "source_excerpt": "Jack stared at her. “I saw it, too. I just swam faster so you would swim faster.”",
+    "action": "Jack stared at her. “I saw it, too. I just swam faster so you would swim faster.”",
+    "status": "planned",
+    "description": "Jack stared at her. “I saw it, too. I just swam faster so you would swim faster.”",
+    "sequence": 91031
+  },
+  {
+    "id": "mth09-ch09-sc215",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 33,
+    "insert_after_paragraph_id": "part-p33",
+    "source_paragraph_ids": [
+      "part-p32",
+      "part-p33"
+    ],
+    "source_anchor_text": "“I guess we swam double-fast then,” Jack said. He shook his head with wonder.",
+    "source_excerpt": "“And I swam faster so you would swim faster,” said Annie.\n\n“I guess we swam double-fast then,” Jack said. He shook his head with wonder.",
+    "action": "“I guess we swam double-fast then,” Jack said. He shook his head with wonder.",
+    "status": "planned",
+    "description": "“I guess we swam double-fast then,” Jack said. He shook his head with wonder.",
+    "sequence": 91033
+  },
+  {
+    "id": "mth09-ch09-sc216",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 35,
+    "insert_after_paragraph_id": "part-p35",
+    "source_paragraph_ids": [
+      "part-p34",
+      "part-p35"
+    ],
+    "source_anchor_text": "“We go home,” said Jack.",
+    "source_excerpt": "“What now?” said Annie.\n\n“We go home,” said Jack.",
+    "action": "“We go home,” said Jack.",
+    "status": "planned",
+    "description": "“We go home,” said Jack.",
+    "sequence": 91035
+  },
+  {
+    "id": "mth09-ch09-sc217",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 37,
+    "insert_after_paragraph_id": "part-p37",
+    "source_paragraph_ids": [
+      "part-p36",
+      "part-p37"
+    ],
+    "source_anchor_text": "Jack sighed.",
+    "source_excerpt": "“But we haven’t solved Morgan’s riddle yet,” said Annie.\n\nJack sighed.",
+    "action": "Jack sighed.",
+    "status": "planned",
+    "description": "Jack sighed.",
+    "sequence": 91037
+  },
+  {
+    "id": "mth09-ch09-sc218",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 39,
+    "insert_after_paragraph_id": "part-p39",
+    "source_paragraph_ids": [
+      "part-p38",
+      "part-p39"
+    ],
+    "source_anchor_text": "He pulled out the ocean book. It was soaked, too.",
+    "source_excerpt": "He pulled his notebook out of his pack. It was soaked.\n\nHe pulled out the ocean book. It was soaked, too.",
+    "action": "He pulled out the ocean book. It was soaked, too.",
+    "status": "planned",
+    "description": "He pulled out the ocean book. It was soaked, too.",
+    "sequence": 91039
+  },
+  {
+    "id": "mth09-ch09-sc219",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 40,
+    "insert_after_paragraph_id": "part-p40",
+    "source_paragraph_ids": [
+      "part-p40"
+    ],
+    "source_anchor_text": "“We’ve failed,” he said. “My research is all wet. We’ll never be Master Librarians now.”",
+    "source_excerpt": "“We’ve failed,” he said. “My research is all wet. We’ll never be Master Librarians now.”",
+    "action": "“We’ve failed,” he said. “My research is all wet. We’ll never be Master Librarians now.”",
+    "status": "planned",
+    "description": "“We’ve failed,” he said. “My research is all wet. We’ll never be Master Librarians now.”",
+    "sequence": 91040
+  },
+  {
+    "id": "mth09-ch09-sc220",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 42,
+    "insert_after_paragraph_id": "part-p42",
+    "source_paragraph_ids": [
+      "part-p41",
+      "part-p42"
+    ],
+    "source_anchor_text": "He stood up. Then he started across the pink reef toward the tree house. Annie followed him.",
+    "source_excerpt": "Jack put everything away. “Let’s go,” he said sadly.\n\nHe stood up. Then he started across the pink reef toward the tree house. Annie followed him.",
+    "action": "He stood up. Then he started across the pink reef toward the tree house. Annie followed him.",
+    "status": "planned",
+    "description": "He stood up. Then he started across the pink reef toward the tree house. Annie followed him.",
+    "sequence": 91042
+  },
+  {
+    "id": "mth09-ch09-sc221",
+    "chapter": 9,
+    "part": 1,
+    "paragraph": 44,
+    "insert_after_paragraph_id": "part-p44",
+    "source_paragraph_ids": [
+      "part-p43",
+      "part-p44"
+    ],
+    "source_anchor_text": "“What’s wrong?” Jack looked back.",
+    "source_excerpt": "“Ouch!” Annie said.\n\n“What’s wrong?” Jack looked back.",
+    "action": "“What’s wrong?” Jack looked back.",
+    "status": "planned",
+    "description": "“What’s wrong?” Jack looked back.",
+    "sequence": 91044
+  },
+  {
+    "id": "mth09-ch09-sc222",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 2,
+    "insert_after_paragraph_id": "part-p2",
+    "source_paragraph_ids": [
+      "part-p1",
+      "part-p2"
+    ],
+    "source_anchor_text": "“What?” said Jack. “A shell?”",
+    "source_excerpt": "“I stepped on something.” Annie bent down to rub her foot.\n\n“What?” said Jack. “A shell?”",
+    "action": "“What?” said Jack. “A shell?”",
+    "status": "planned",
+    "description": "“What?” said Jack. “A shell?”",
+    "sequence": 92002
+  },
+  {
+    "id": "mth09-ch09-sc223",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 4,
+    "insert_after_paragraph_id": "part-p4",
+    "source_paragraph_ids": [
+      "part-p3",
+      "part-p4"
+    ],
+    "source_anchor_text": "“And plain as plain can be!” whispered Jack. They had found the answer.",
+    "source_excerpt": "“Yeah, this … ” She picked up a large gray shell. “Boy, is it rough. Rough and gray as a rock—”\n\n“And plain as plain can be!” whispered Jack. They had found the answer.",
+    "action": "“And plain as plain can be!” whispered Jack. They had found the answer.",
+    "status": "planned",
+    "description": "“And plain as plain can be!” whispered Jack. They had found the answer.",
+    "sequence": 92004
+  },
+  {
+    "id": "mth09-ch09-sc224",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 6,
+    "insert_after_paragraph_id": "part-p6",
+    "source_paragraph_ids": [
+      "part-p5",
+      "part-p6"
+    ],
+    "source_anchor_text": "“How could this ugly shell be the answer to the riddle?” said Annie. “What about the part that says, ‘There’s great beauty in me’?”",
+    "source_excerpt": "The shell looked like a clamshell—only bigger and with more ridges.\n\n“How could this ugly shell be the answer to the riddle?” said Annie. “What about the part that says, ‘There’s great beauty in me’?”",
+    "action": "“How could this ugly shell be the answer to the riddle?” said Annie. “What about the part that says, ‘There’s great beauty in me’?”",
+    "status": "planned",
+    "description": "“How could this ugly shell be the answer to the riddle?” said Annie. “What about the part that says, ‘There’s great beauty in me’?”",
+    "sequence": 92006
+  },
+  {
+    "id": "mth09-ch09-sc225",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 8,
+    "insert_after_paragraph_id": "part-p8",
+    "source_paragraph_ids": [
+      "part-p7",
+      "part-p8"
+    ],
+    "source_anchor_text": "The pages were stuck together. But he was able to turn a few.",
+    "source_excerpt": "“Wait—research,” said Jack. He opened the soaked ocean book.\n\nThe pages were stuck together. But he was able to turn a few.",
+    "action": "The pages were stuck together. But he was able to turn a few.",
+    "status": "planned",
+    "description": "The pages were stuck together. But he was able to turn a few.",
+    "sequence": 92008
+  },
+  {
+    "id": "mth09-ch09-sc226",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 10,
+    "insert_after_paragraph_id": "part-p10",
+    "source_paragraph_ids": [
+      "part-p9",
+      "part-p10"
+    ],
+    "source_anchor_text": "Divers search for oysters in deep water. But sometimes oysters wash up on reefs or beaches. Inside some oysters you can find a pearl. The pearl’s natural beauty makes it a treasure.",
+    "source_excerpt": "He found a picture of the gray shell. He read:\n\nDivers search for oysters in deep water. But sometimes oysters wash up on reefs or beaches. Inside some oysters you can find a pearl. The pearl’s natural beauty makes it a treasure.",
+    "action": "Divers search for oysters in deep water. But sometimes oysters wash up on reefs or beaches. Inside some oysters you can find a pearl. The pearl’s natural beauty makes it a treasure.",
+    "status": "planned",
+    "description": "Divers search for oysters in deep water. But sometimes oysters wash up on reefs or beaches. Inside some oysters you can find a pearl. The pearl’s natural beauty makes it a treasure.",
+    "sequence": 92010
+  },
+  {
+    "id": "mth09-ch09-sc227",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 12,
+    "insert_after_paragraph_id": "part-p12",
+    "source_paragraph_ids": [
+      "part-p11",
+      "part-p12"
+    ],
+    "source_anchor_text": "Annie peered into the crack between the two halves of the shell. “I can’t see anything,” she said. “How does a pearl get in there, anyway?”",
+    "source_excerpt": "“It must have a pearl inside it!” said Jack.\n\nAnnie peered into the crack between the two halves of the shell. “I can’t see anything,” she said. “How does a pearl get in there, anyway?”",
+    "action": "Annie peered into the crack between the two halves of the shell. “I can’t see anything,” she said. “How does a pearl get in there, anyway?”",
+    "status": "planned",
+    "description": "Annie peered into the crack between the two halves of the shell. “I can’t see anything,” she said. “How does a pearl get in there, anyway?”",
+    "sequence": 92012
+  },
+  {
+    "id": "mth09-ch09-sc228",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 14,
+    "insert_after_paragraph_id": "part-p14",
+    "source_paragraph_ids": [
+      "part-p13",
+      "part-p14"
+    ],
+    "source_anchor_text": "Sometimes a grain of sand will get between the oyster’s shell and its skin. This irritates the oyster. So it makes a pearly material to surround the grain of sand. In this way, over a few years, a pearl is formed.",
+    "source_excerpt": "Jack read aloud from the wet page:\n\nSometimes a grain of sand will get between the oyster’s shell and its skin. This irritates the oyster. So it makes a pearly material to surround the grain of sand. In this way, over a few years, a pearl is formed.",
+    "action": "Sometimes a grain of sand will get between the oyster’s shell and its skin. This irritates the oyster. So it makes a pearly material to surround the grain of sand. In this way, over a few years, a pearl is formed.",
+    "status": "planned",
+    "description": "Sometimes a grain of sand will get between the oyster’s shell and its skin. This irritates the oyster. So it makes a pearly material to surround the grain of sand. In this way, over a few years, a pearl is formed.",
+    "sequence": 92014
+  },
+  {
+    "id": "mth09-ch09-sc229",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 15,
+    "insert_after_paragraph_id": "part-p15",
+    "source_paragraph_ids": [
+      "part-p15"
+    ],
+    "source_anchor_text": "“I can’t tell if there’s a pearl in there or not,” said Annie.",
+    "source_excerpt": "“I can’t tell if there’s a pearl in there or not,” said Annie.",
+    "action": "“I can’t tell if there’s a pearl in there or not,” said Annie.",
+    "status": "planned",
+    "description": "“I can’t tell if there’s a pearl in there or not,” said Annie.",
+    "sequence": 92015
+  },
+  {
+    "id": "mth09-ch09-sc230",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 18,
+    "insert_after_paragraph_id": "part-p18",
+    "source_paragraph_ids": [
+      "part-p16",
+      "part-p17",
+      "part-p18"
+    ],
+    "source_anchor_text": "“Yeah.”",
+    "source_excerpt": "“Maybe we should bang it against a rock,” said Jack.\n\n“Now that would really irritate the oyster,” said Annie.\n\n“Yeah.”",
+    "action": "“Yeah.”",
+    "status": "planned",
+    "description": "“Yeah.”",
+    "sequence": 92018
+  },
+  {
+    "id": "mth09-ch09-sc231",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 20,
+    "insert_after_paragraph_id": "part-p20",
+    "source_paragraph_ids": [
+      "part-p19",
+      "part-p20"
+    ],
+    "source_anchor_text": "She gently put the oyster back in the water.",
+    "source_excerpt": "“Maybe we should just leave it alone,” said Annie.\n\nShe gently put the oyster back in the water.",
+    "action": "She gently put the oyster back in the water.",
+    "status": "planned",
+    "description": "She gently put the oyster back in the water.",
+    "sequence": 92020
+  },
+  {
+    "id": "mth09-ch09-sc232",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 22,
+    "insert_after_paragraph_id": "part-p22",
+    "source_paragraph_ids": [
+      "part-p21",
+      "part-p22"
+    ],
+    "source_anchor_text": "“Morgan said we’ll know,” said Annie. “Come on.”",
+    "source_excerpt": "“But how will we know if oyster is the right answer to the riddle?” said Jack.\n\n“Morgan said we’ll know,” said Annie. “Come on.”",
+    "action": "“Morgan said we’ll know,” said Annie. “Come on.”",
+    "status": "planned",
+    "description": "“Morgan said we’ll know,” said Annie. “Come on.”",
+    "sequence": 92022
+  },
+  {
+    "id": "mth09-ch09-sc233",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 23,
+    "insert_after_paragraph_id": "part-p23",
+    "source_paragraph_ids": [
+      "part-p23"
+    ],
+    "source_anchor_text": "Jack pushed his glasses into place. Then he and Annie picked up their shoes and socks.",
+    "source_excerpt": "Jack pushed his glasses into place. Then he and Annie picked up their shoes and socks.",
+    "action": "Jack pushed his glasses into place. Then he and Annie picked up their shoes and socks.",
+    "status": "planned",
+    "description": "Jack pushed his glasses into place. Then he and Annie picked up their shoes and socks.",
+    "sequence": 92023
+  },
+  {
+    "id": "mth09-ch09-sc234",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 24,
+    "insert_after_paragraph_id": "part-p24",
+    "source_paragraph_ids": [
+      "part-p24"
+    ],
+    "source_anchor_text": "They climbed through the window of the tree house.",
+    "source_excerpt": "They climbed through the window of the tree house.",
+    "action": "They climbed through the window of the tree house.",
+    "status": "planned",
+    "description": "They climbed through the window of the tree house.",
+    "sequence": 92024
+  },
+  {
+    "id": "mth09-ch09-sc235",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 26,
+    "insert_after_paragraph_id": "part-p26",
+    "source_paragraph_ids": [
+      "part-p25",
+      "part-p26"
+    ],
+    "source_anchor_text": "It was open.",
+    "source_excerpt": "Morgan’s scroll was lying on the floor.\n\nIt was open.",
+    "action": "It was open.",
+    "status": "planned",
+    "description": "It was open.",
+    "sequence": 92026
+  },
+  {
+    "id": "mth09-ch09-sc236",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 28,
+    "insert_after_paragraph_id": "part-p28",
+    "source_paragraph_ids": [
+      "part-p27",
+      "part-p28"
+    ],
+    "source_anchor_text": "She and Jack stared at the scroll. The riddle had faded away.",
+    "source_excerpt": "“Look!” said Annie.\n\nShe and Jack stared at the scroll. The riddle had faded away.",
+    "action": "She and Jack stared at the scroll. The riddle had faded away.",
+    "status": "planned",
+    "description": "She and Jack stared at the scroll. The riddle had faded away.",
+    "sequence": 92028
+  },
+  {
+    "id": "mth09-ch09-sc237",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 30,
+    "insert_after_paragraph_id": "part-p30",
+    "source_paragraph_ids": [
+      "part-p29",
+      "part-p30"
+    ],
+    "source_anchor_text": "OYSTER",
+    "source_excerpt": "In its place was one shimmering silver word:\n\nOYSTER",
+    "action": "OYSTER",
+    "status": "planned",
+    "description": "OYSTER",
+    "sequence": 92030
+  },
+  {
+    "id": "mth09-ch09-sc238",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 32,
+    "insert_after_paragraph_id": "part-p32",
+    "source_paragraph_ids": [
+      "part-p31",
+      "part-p32"
+    ],
+    "source_anchor_text": "Jack let out a huge sigh. “We got it right,” he said.",
+    "source_excerpt": "“Morgan’s magic,” whispered Annie.\n\nJack let out a huge sigh. “We got it right,” he said.",
+    "action": "Jack let out a huge sigh. “We got it right,” he said.",
+    "status": "planned",
+    "description": "Jack let out a huge sigh. “We got it right,” he said.",
+    "sequence": 92032
+  },
+  {
+    "id": "mth09-ch09-sc239",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 34,
+    "insert_after_paragraph_id": "part-p34",
+    "source_paragraph_ids": [
+      "part-p33",
+      "part-p34"
+    ],
+    "source_anchor_text": "She opened the book. She pointed to a picture of the Frog Creek woods.",
+    "source_excerpt": "“And here’s the Pennsylvania book,” said Annie. “Let’s go home.”\n\nShe opened the book. She pointed to a picture of the Frog Creek woods.",
+    "action": "She opened the book. She pointed to a picture of the Frog Creek woods.",
+    "status": "planned",
+    "description": "She opened the book. She pointed to a picture of the Frog Creek woods.",
+    "sequence": 92034
+  },
+  {
+    "id": "mth09-ch09-sc240",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 35,
+    "insert_after_paragraph_id": "part-p35",
+    "source_paragraph_ids": [
+      "part-p35"
+    ],
+    "source_anchor_text": "“I wish we could go there!” she said.",
+    "source_excerpt": "“I wish we could go there!” she said.",
+    "action": "“I wish we could go there!” she said.",
+    "status": "planned",
+    "description": "“I wish we could go there!” she said.",
+    "sequence": 92035
+  },
+  {
+    "id": "mth09-ch09-sc241",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 38,
+    "insert_after_paragraph_id": "part-p38",
+    "source_paragraph_ids": [
+      "part-p36",
+      "part-p37",
+      "part-p38"
+    ],
+    "source_anchor_text": "The wind blew harder and harder.",
+    "source_excerpt": "The wind started to blow.\n\nThe tree house started to spin.\n\nThe wind blew harder and harder.",
+    "action": "The wind blew harder and harder.",
+    "status": "planned",
+    "description": "The wind blew harder and harder.",
+    "sequence": 92038
+  },
+  {
+    "id": "mth09-ch09-sc242",
+    "chapter": 9,
+    "part": 2,
+    "paragraph": 40,
+    "insert_after_paragraph_id": "part-p40",
+    "source_paragraph_ids": [
+      "part-p39",
+      "part-p40"
+    ],
+    "source_anchor_text": "Absolutely still.",
+    "source_excerpt": "Then everything was still.\n\nAbsolutely still.",
+    "action": "Absolutely still.",
+    "status": "planned",
+    "description": "Absolutely still.",
+    "sequence": 92040
+  },
+  {
+    "id": "mth09-ch10-sc243",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 2,
+    "insert_after_paragraph_id": "part-p2",
+    "source_paragraph_ids": [
+      "part-p1",
+      "part-p2"
+    ],
+    "source_anchor_text": "No time at all had passed since they’d left. Day was breaking.",
+    "source_excerpt": "Dawn light slanted into the tree house.\n\nNo time at all had passed since they’d left. Day was breaking.",
+    "action": "No time at all had passed since they’d left. Day was breaking.",
+    "status": "planned",
+    "description": "No time at all had passed since they’d left. Day was breaking.",
+    "sequence": 101002
+  },
+  {
+    "id": "mth09-ch10-sc244",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 4,
+    "insert_after_paragraph_id": "part-p4",
+    "source_paragraph_ids": [
+      "part-p3",
+      "part-p4"
+    ],
+    "source_anchor_text": "“We solved the first riddle,” he said. “Three more to go.”",
+    "source_excerpt": "Jack rolled up the ancient scroll. He tucked it into the corner.\n\n“We solved the first riddle,” he said. “Three more to go.”",
+    "action": "“We solved the first riddle,” he said. “Three more to go.”",
+    "status": "planned",
+    "description": "“We solved the first riddle,” he said. “Three more to go.”",
+    "sequence": 101004
+  },
+  {
+    "id": "mth09-ch10-sc245",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 6,
+    "insert_after_paragraph_id": "part-p6",
+    "source_paragraph_ids": [
+      "part-p5",
+      "part-p6"
+    ],
+    "source_anchor_text": "“That’s okay,” said Jack. “I think I need to rest—and dry out.”",
+    "source_excerpt": "“I don’t see another scroll,” said Annie. “Maybe tomorrow we’ll get the next riddle.”\n\n“That’s okay,” said Jack. “I think I need to rest—and dry out.”",
+    "action": "“That’s okay,” said Jack. “I think I need to rest—and dry out.”",
+    "status": "planned",
+    "description": "“That’s okay,” said Jack. “I think I need to rest—and dry out.”",
+    "sequence": 101006
+  },
+  {
+    "id": "mth09-ch10-sc246",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 7,
+    "insert_after_paragraph_id": "part-p7",
+    "source_paragraph_ids": [
+      "part-p7"
+    ],
+    "source_anchor_text": "His T-shirt and shorts were still soaked. His backpack, too. Only his shoes and socks were dry.",
+    "source_excerpt": "His T-shirt and shorts were still soaked. His backpack, too. Only his shoes and socks were dry.",
+    "action": "His T-shirt and shorts were still soaked. His backpack, too. Only his shoes and socks were dry.",
+    "status": "planned",
+    "description": "His T-shirt and shorts were still soaked. His backpack, too. Only his shoes and socks were dry.",
+    "sequence": 101007
+  },
+  {
+    "id": "mth09-ch10-sc247",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 8,
+    "insert_after_paragraph_id": "part-p8",
+    "source_paragraph_ids": [
+      "part-p8"
+    ],
+    "source_anchor_text": "“And this needs to dry out, too,” said Annie. She put the wet ocean book in a patch of sunlight.",
+    "source_excerpt": "“And this needs to dry out, too,” said Annie. She put the wet ocean book in a patch of sunlight.",
+    "action": "“And this needs to dry out, too,” said Annie. She put the wet ocean book in a patch of sunlight.",
+    "status": "planned",
+    "description": "“And this needs to dry out, too,” said Annie. She put the wet ocean book in a patch of sunlight.",
+    "sequence": 101008
+  },
+  {
+    "id": "mth09-ch10-sc248",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 9,
+    "insert_after_paragraph_id": "part-p9",
+    "source_paragraph_ids": [
+      "part-p9"
+    ],
+    "source_anchor_text": "Then Jack and Annie climbed down the ladder.",
+    "source_excerpt": "Then Jack and Annie climbed down the ladder.",
+    "action": "Then Jack and Annie climbed down the ladder.",
+    "status": "planned",
+    "description": "Then Jack and Annie climbed down the ladder.",
+    "sequence": 101009
+  },
+  {
+    "id": "mth09-ch10-sc249",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 11,
+    "insert_after_paragraph_id": "part-p11",
+    "source_paragraph_ids": [
+      "part-p10",
+      "part-p11"
+    ],
+    "source_anchor_text": "They left the woods and started down their street.",
+    "source_excerpt": "They walked through the woods, through leafy shadows and golden light.\n\nThey left the woods and started down their street.",
+    "action": "They left the woods and started down their street.",
+    "status": "planned",
+    "description": "They left the woods and started down their street.",
+    "sequence": 101011
+  },
+  {
+    "id": "mth09-ch10-sc250",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 13,
+    "insert_after_paragraph_id": "part-p13",
+    "source_paragraph_ids": [
+      "part-p12",
+      "part-p13"
+    ],
+    "source_anchor_text": "“I know, but we wouldn’t have had so much fun,” said Annie.",
+    "source_excerpt": "“You know, we should have found the answer to the riddle right away,” said Jack. “The oyster was on the reef all along.”\n\n“I know, but we wouldn’t have had so much fun,” said Annie.",
+    "action": "“I know, but we wouldn’t have had so much fun,” said Annie.",
+    "status": "planned",
+    "description": "“I know, but we wouldn’t have had so much fun,” said Annie.",
+    "sequence": 101013
+  },
+  {
+    "id": "mth09-ch10-sc251",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 15,
+    "insert_after_paragraph_id": "part-p15",
+    "source_paragraph_ids": [
+      "part-p14",
+      "part-p15"
+    ],
+    "source_anchor_text": "“Don’t forget the dolphins,” Annie said simply.",
+    "source_excerpt": "“Fun?” said Jack. “You call being squeezed by an octopus and chased by a shark fun?”\n\n“Don’t forget the dolphins,” Annie said simply.",
+    "action": "“Don’t forget the dolphins,” Annie said simply.",
+    "status": "planned",
+    "description": "“Don’t forget the dolphins,” Annie said simply.",
+    "sequence": 101015
+  },
+  {
+    "id": "mth09-ch10-sc252",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 16,
+    "insert_after_paragraph_id": "part-p16",
+    "source_paragraph_ids": [
+      "part-p16"
+    ],
+    "source_anchor_text": "Jack smiled. “Right,” he said. The dolphins made up for everything. They were fun.",
+    "source_excerpt": "Jack smiled. “Right,” he said. The dolphins made up for everything. They were fun.",
+    "action": "Jack smiled. “Right,” he said. The dolphins made up for everything. They were fun.",
+    "status": "planned",
+    "description": "Jack smiled. “Right,” he said. The dolphins made up for everything. They were fun.",
+    "sequence": 101016
+  },
+  {
+    "id": "mth09-ch10-sc253",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 19,
+    "insert_after_paragraph_id": "part-p19",
+    "source_paragraph_ids": [
+      "part-p17",
+      "part-p18",
+      "part-p19"
+    ],
+    "source_anchor_text": "“Sam?” Annie grinned at him. “You’re nuts,” she said.",
+    "source_excerpt": "“I guess they were the true pearl in the oyster,” said Annie.\n\n“Yep … ” said Jack. “I wonder what Sam is doing right now.”\n\n“Sam?” Annie grinned at him. “You’re nuts,” she said.",
+    "action": "“Sam?” Annie grinned at him. “You’re nuts,” she said.",
+    "status": "planned",
+    "description": "“Sam?” Annie grinned at him. “You’re nuts,” she said.",
+    "sequence": 101019
+  },
+  {
+    "id": "mth09-ch10-sc254",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 21,
+    "insert_after_paragraph_id": "part-p21",
+    "source_paragraph_ids": [
+      "part-p20",
+      "part-p21"
+    ],
+    "source_anchor_text": "“We’re back!” Annie shouted.",
+    "source_excerpt": "They climbed their steps and went into their house.\n\n“We’re back!” Annie shouted.",
+    "action": "“We’re back!” Annie shouted.",
+    "status": "planned",
+    "description": "“We’re back!” Annie shouted.",
+    "sequence": 101021
+  },
+  {
+    "id": "mth09-ch10-sc255",
+    "chapter": 10,
+    "part": 1,
+    "paragraph": 23,
+    "insert_after_paragraph_id": "part-p23",
+    "source_paragraph_ids": [
+      "part-p22",
+      "part-p23"
+    ],
+    "source_anchor_text": "“Not one bit,” called Jack. Then he and Annie slipped up the stairs to change their clothes.",
+    "source_excerpt": "“Did you get your shoes wet?” their mom called.\n\n“Not one bit,” called Jack. Then he and Annie slipped up the stairs to change their clothes.",
+    "action": "“Not one bit,” called Jack. Then he and Annie slipped up the stairs to change their clothes.",
+    "status": "planned",
+    "description": "“Not one bit,” called Jack. Then he and Annie slipped up the stairs to change their clothes.",
+    "sequence": 101023
   }
 ]
