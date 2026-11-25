@@ -1,0 +1,162 @@
+{
+  "reef": {
+    "ko": "산호초",
+    "definition": "A ridge in the sea made of coral or rock."
+  },
+  "librarians": {
+    "ko": "도서관 사서들",
+    "definition": "People who look after books and help readers in a library."
+  },
+  "dawn": {
+    "ko": "새벽",
+    "definition": "The time when daylight first appears."
+  },
+  "daybreak": {
+    "ko": "동틀 무렵",
+    "definition": "The time when the sun begins to light the sky."
+  },
+  "mini-sub": {
+    "ko": "소형 잠수정",
+    "definition": "A small vehicle that travels underwater."
+  },
+  "coral": {
+    "ko": "산호",
+    "definition": "A small sea animal that helps form hard, colorful reefs."
+  },
+  "octopus": {
+    "ko": "문어",
+    "definition": "A sea animal with a soft body and eight arms."
+  },
+  "hammerhead": {
+    "ko": "귀상어",
+    "definition": "A shark with a wide head shaped like a hammer."
+  },
+  "dolphins": {
+    "ko": "돌고래들",
+    "definition": "Sea mammals that breathe air and swim using flippers and a tail."
+  },
+  "dolphin": {
+    "ko": "돌고래",
+    "definition": "A sea mammal that breathes air and has a curved mouth."
+  },
+  "surface": {
+    "ko": "수면",
+    "definition": "The top layer of the water."
+  },
+  "backpack": {
+    "ko": "배낭",
+    "definition": "A bag carried on your back."
+  },
+  "research": {
+    "ko": "조사한 내용",
+    "definition": "Information collected by studying a subject."
+  },
+  "soaked": {
+    "ko": "흠뻑 젖은",
+    "definition": "Completely wet."
+  },
+  "pearl": {
+    "ko": "진주",
+    "definition": "A smooth, round object formed inside some shellfish."
+  },
+  "calm": {
+    "ko": "침착한 상태",
+    "definition": "A peaceful state without panic or strong excitement."
+  },
+  "climbed": {
+    "ko": "기어 올라갔다",
+    "definition": "Moved upward using hands and feet."
+  },
+  "whispered": {
+    "ko": "속삭였다",
+    "definition": "Spoke very quietly."
+  },
+  "stared": {
+    "ko": "빤히 바라보았다",
+    "definition": "Looked at something for a long time."
+  },
+  "exclaimed": {
+    "ko": "외쳤다",
+    "definition": "Said something suddenly with strong feeling."
+  },
+  "ladder": {
+    "ko": "사다리",
+    "definition": "A frame with steps used for climbing."
+  },
+  "rope": {
+    "ko": "밧줄",
+    "definition": "A thick, strong cord."
+  },
+  "magical": {
+    "ko": "마법의",
+    "definition": "Having or seeming to have special powers."
+  },
+  "creatures": {
+    "ko": "생물들",
+    "definition": "Living animals or beings."
+  },
+  "ocean": {
+    "ko": "바다",
+    "definition": "A very large area of salt water."
+  },
+  "breath": {
+    "ko": "숨",
+    "definition": "The air taken into or sent out of your lungs."
+  },
+  "fins": {
+    "ko": "지느러미들",
+    "definition": "Flat body parts that help a fish swim."
+  },
+  "tentacles": {
+    "ko": "촉수들",
+    "definition": "Long, flexible body parts used to feel or hold things."
+  },
+  "suckers": {
+    "ko": "빨판들",
+    "definition": "Small cup-shaped parts that grip a surface."
+  },
+  "crack": {
+    "ko": "금, 갈라진 틈",
+    "definition": "A narrow break in a hard surface."
+  },
+  "leak": {
+    "ko": "물이 새는 곳",
+    "definition": "An opening that lets liquid pass through."
+  },
+  "hatch": {
+    "ko": "출입구 덮개",
+    "definition": "A small door or opening in a vehicle."
+  },
+  "controls": {
+    "ko": "조작 장치",
+    "definition": "Parts used to operate a machine."
+  },
+  "button": {
+    "ko": "버튼",
+    "definition": "A small part pressed to make a machine work."
+  },
+  "failed": {
+    "ko": "실패했다",
+    "definition": "Did not succeed in doing something."
+  },
+  "riddle": {
+    "ko": "수수께끼",
+    "definition": "A puzzling question with a hidden answer."
+  },
+  "notebook": {
+    "ko": "공책",
+    "definition": "A book of blank pages used for writing notes."
+  },
+  "pointed": {
+    "ko": "가리켰다",
+    "definition": "Showed a direction with a finger or another object."
+  },
+  "floated": {
+    "ko": "물에 떠 있었다",
+    "definition": "Stayed on or moved gently through water without sinking."
+  },
+  "grabbed": {
+    "ko": "재빨리 붙잡았다",
+    "definition": "Took hold of something quickly."
+  }
+}
