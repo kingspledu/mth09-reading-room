@@ -1,0 +1,101 @@
+{
+  "book": 9,
+  "title": "Dolphins at Daybreak",
+  "priority": [
+    "book9 original_text and original illustrations",
+    "approved book9 sheets",
+    "book4 faces and style"
+  ],
+  "characters": [
+    {
+      "id": "MTH-JACK",
+      "name": "Jack",
+      "shared_traits": "brown tousled hair; round glasses; slightly taller than Annie",
+      "source_wardrobe": "T-shirt and shorts",
+      "production_palette": "red short sleeve tee, blue shorts, tan backpack, brown sneakers, white socks",
+      "glasses": "worn until chapter7 escape; stored for swimming through chapter9 dolphin farewell; put on again at chapter9 shallow water rest"
+    },
+    {
+      "id": "MTH-ANNIE",
+      "name": "Annie",
+      "shared_traits": "blonde chin-length bob; shorter than Jack",
+      "source_wardrobe": "T-shirt and shorts",
+      "production_palette": "lavender short sleeve tee, denim shorts, red sneakers, white socks"
+    },
+    {
+      "id": "MTH-MORGAN",
+      "name": "Morgan le Fay",
+      "source_traits": "lovely older woman, long white hair, red velvet robe",
+      "visible_chapters": [
+        1
+      ],
+      "absent_after_departure": true
+    },
+    {
+      "id": "MTH09-SUKIE",
+      "name": "Sukie",
+      "source_traits": "female dolphin; rescues Annie",
+      "production_traits": "slightly smaller, lighter gray forehead"
+    },
+    {
+      "id": "MTH09-SAM",
+      "name": "Sam",
+      "source_traits": "male dolphin; rescues Jack",
+      "production_traits": "slightly larger, darker gray back"
+    },
+    {
+      "id": "MTH09-OCTOPUS",
+      "source_traits": "eight arms; two rows of suckers on each arm; huge human-like eyes; releases black ink",
+      "production_color": "reddish brown",
+      "visible_chapters": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "MTH09-HAMMERHEAD",
+      "source_traits": "wide hammer-shaped head; larger than dolphins; fin during swim",
+      "visible_chapters": [
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "other_life": [
+    "starfish",
+    "pink jellyfish",
+    "blue seahorse",
+    "stingray",
+    "giant clam",
+    "closed rough gray oyster",
+    "coral",
+    "reef fish",
+    "sea gulls"
+  ],
+  "mentioned_not_staged": [
+    "Merlin",
+    "parents when only calling offscreen",
+    "Morgan after chapter1 departure",
+    "dolphins during chapter10 recollection"
+  ],
+  "state_locks": {
+    "shoes": "removed chapter2 part2; stay dry near treehouse; recovered chapter9 part2; dry chapter10",
+    "wetness": "clothes and backpack soaked after swimming; notebook and Ocean Guide wet; shoes and socks dry",
+    "oyster": "never broken or opened in narrative; returned to water",
+    "sub": "white rounded hull, broad front window, two seats, side hatch; preexisting hull defect; ceiling cracks chapter6; powered off flooded chapter7",
+    "controls": "ON power, starfish descent, arrows steering, book log, waves ascent; detailed layout production choice"
+  },
+  "sheet_manifest": [
+    {
+      "id": "people",
+      "image": "assets/mth09-people-sheet-v1.webp",
+      "status": "approved_with_text_state_overrides"
+    },
+    {
+      "id": "marine",
+      "image": "assets/mth09-marine-sheet-v1.webp",
+      "status": "approved_with_text_state_overrides"
+    }
+  ]
+}

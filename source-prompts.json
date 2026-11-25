@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen",
+  "sheets": [
+    {
+      "id": "people",
+      "image": "assets/mth09-people-sheet-v1.webp",
+      "prompt_summary": "Preserve Book4 faces; create Book9 short-sleeve shirts and shorts, barefoot wet states, Morgan red velvet robe.",
+      "review": "Inspected actual generated sheet; exact narrative state table overrides reference pose and prop availability."
+    },
+    {
+      "id": "marine",
+      "image": "assets/mth09-marine-sheet-v1.webp",
+      "prompt_summary": "Two distinct gray dolphins Sukie and Sam; eight-armed octopus with two sucker rows, hammerhead, reef life and closed oyster.",
+      "review": "Inspected actual generated sheet; exact narrative state table overrides reference pose and prop availability."
+    }
+  ]
+}
