@@ -3025,9 +3025,17 @@
     "source_anchor_text": "Jack looked up. The water wasn’t dripping now—it was spurting.",
     "source_excerpt": "“Even more water’s coming in,” said Annie, “lots more!”\n\nJack looked up. The water wasn’t dripping now—it was spurting.",
     "action": "Jack looked up. The water wasn’t dripping now—it was spurting.",
-    "status": "planned",
+    "status": "review_required",
     "description": "Jack looked up. The water wasn’t dripping now—it was spurting.",
-    "sequence": 71007
+    "sequence": 71007,
+    "asset": "assets/mth09-ch07-sc164-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Leak drawn through transparent roof rather than cracked opaque ceiling"
   },
   {
     "id": "mth09-ch07-sc165",
@@ -3042,9 +3050,16 @@
     "source_anchor_text": "Suddenly, the mini-sub burst out of the water. It bobbed on the waves like a cork. The ocean sparkled all around it.",
     "source_excerpt": "“A few seconds, a few seconds,” said Jack.\n\nSuddenly, the mini-sub burst out of the water. It bobbed on the waves like a cork. The ocean sparkled all around it.",
     "action": "Suddenly, the mini-sub burst out of the water. It bobbed on the waves like a cork. The ocean sparkled all around it.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Suddenly, the mini-sub burst out of the water. It bobbed on the waves like a cork. The ocean sparkled all around it.",
-    "sequence": 71009
+    "sequence": 71009,
+    "asset": "assets/mth09-ch07-sc165-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc166",
@@ -3058,9 +3073,16 @@
     "source_anchor_text": "“Safe!” shouted Annie.",
     "source_excerpt": "“Safe!” shouted Annie.",
     "action": "“Safe!” shouted Annie.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Safe!” shouted Annie.",
-    "sequence": 71010
+    "sequence": 71010,
+    "asset": "assets/mth09-ch07-sc166-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc167",
@@ -3075,9 +3097,16 @@
     "source_anchor_text": "“Uh—not really … ” he said.",
     "source_excerpt": "Jack felt the water rising around his bare feet.\n\n“Uh—not really … ” he said.",
     "action": "“Uh—not really … ” he said.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Uh—not really … ” he said.",
-    "sequence": 71012
+    "sequence": 71012,
+    "asset": "assets/mth09-ch07-sc167-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc168",
@@ -3092,9 +3121,16 @@
     "source_anchor_text": "The water was up to their ankles now.",
     "source_excerpt": "“Oops,” said Annie. “The octopus must have made cracks in the bottom, too.”\n\nThe water was up to their ankles now.",
     "action": "The water was up to their ankles now.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The water was up to their ankles now.",
-    "sequence": 71014
+    "sequence": 71014,
+    "asset": "assets/mth09-ch07-sc168-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc169",
@@ -3109,9 +3145,17 @@
     "source_anchor_text": "“The sub can make it. It doesn’t look that far,” he said.",
     "source_excerpt": "Jack looked out. He saw the reef in the distance.\n\n“The sub can make it. It doesn’t look that far,” he said.",
     "action": "“The sub can make it. It doesn’t look that far,” he said.",
-    "status": "planned",
+    "status": "review_required",
     "description": "“The sub can make it. It doesn’t look that far,” he said.",
-    "sequence": 71016
+    "sequence": 71016,
+    "asset": "assets/mth09-ch07-sc169-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Reef house incorrectly in tree above ground"
   },
   {
     "id": "mth09-ch07-sc170",
@@ -3126,9 +3170,16 @@
     "source_anchor_text": "She pressed one of the steering keys.",
     "source_excerpt": "“Go, go, go,” said Annie.\n\nShe pressed one of the steering keys.",
     "action": "She pressed one of the steering keys.",
-    "status": "planned",
+    "status": "integrated",
     "description": "She pressed one of the steering keys.",
-    "sequence": 71018
+    "sequence": 71018,
+    "asset": "assets/mth09-ch07-sc170-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc171",
@@ -3142,9 +3193,16 @@
     "source_anchor_text": "Suddenly, the screen went blank.",
     "source_excerpt": "Suddenly, the screen went blank.",
     "action": "Suddenly, the screen went blank.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Suddenly, the screen went blank.",
-    "sequence": 71019
+    "sequence": 71019,
+    "asset": "assets/mth09-ch07-sc171-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc172",
@@ -3159,9 +3217,16 @@
     "source_anchor_text": "Annie pressed the key again. Then Jack pressed the other pictures. Nothing happened.",
     "source_excerpt": "“What’s happening?” said Jack.\n\nAnnie pressed the key again. Then Jack pressed the other pictures. Nothing happened.",
     "action": "Annie pressed the key again. Then Jack pressed the other pictures. Nothing happened.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Annie pressed the key again. Then Jack pressed the other pictures. Nothing happened.",
-    "sequence": 71021
+    "sequence": 71021,
+    "asset": "assets/mth09-ch07-sc172-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc173",
@@ -3176,9 +3241,16 @@
     "source_anchor_text": "“Oh, great,” said Jack.",
     "source_excerpt": "“It’s dead,” said Annie.\n\n“Oh, great,” said Jack.",
     "action": "“Oh, great,” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Oh, great,” said Jack.",
-    "sequence": 71023
+    "sequence": 71023,
+    "asset": "assets/mth09-ch07-sc173-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc174",
@@ -3192,9 +3264,16 @@
     "source_anchor_text": "Now the water was up to their knees.",
     "source_excerpt": "Now the water was up to their knees.",
     "action": "Now the water was up to their knees.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Now the water was up to their knees.",
-    "sequence": 71024
+    "sequence": 71024,
+    "asset": "assets/mth09-ch07-sc174-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc175",
@@ -3210,9 +3289,17 @@
     "source_anchor_text": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
     "source_excerpt": "“I guess we’ll have to swim,” said Jack. He took a deep breath.\n\n“Right,” said Annie. “It’s a good thing we had swimming lessons this summer.”\n\n“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
     "action": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
-    "status": "planned",
+    "status": "review_required",
     "description": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
-    "sequence": 71027
+    "sequence": 71027,
+    "asset": "assets/mth09-ch07-sc175-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Jack glasses absent before storage"
   },
   {
     "id": "mth09-ch07-sc176",
@@ -3228,9 +3315,16 @@
     "source_anchor_text": "If you ever see a shark in the water, don’t splash. Swim calmly away.",
     "source_excerpt": "Jack quickly found the picture of the shark in the book.\n\nHe read aloud:\n\nIf you ever see a shark in the water, don’t splash. Swim calmly away.",
     "action": "If you ever see a shark in the water, don’t splash. Swim calmly away.",
-    "status": "planned",
+    "status": "integrated",
     "description": "If you ever see a shark in the water, don’t splash. Swim calmly away.",
-    "sequence": 71030
+    "sequence": 71030,
+    "asset": "assets/mth09-ch07-sc176-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc177",
@@ -3245,9 +3339,17 @@
     "source_anchor_text": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
     "source_excerpt": "Jack closed the book.\n\n“We better do the breast stroke,” said Annie. “So we won’t splash.”",
     "action": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
-    "status": "planned",
+    "status": "review_required",
     "description": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
-    "sequence": 71032
+    "sequence": 71032,
+    "asset": "assets/mth09-ch07-sc177-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Jack glasses absent before storage"
   },
   {
     "id": "mth09-ch07-sc178",
@@ -3262,9 +3364,16 @@
     "source_anchor_text": "“Very close,” said Annie. Her eyes were wide. But she seemed very calm.",
     "source_excerpt": "“Yep, and stay close,” said Jack.\n\n“Very close,” said Annie. Her eyes were wide. But she seemed very calm.",
     "action": "“Very close,” said Annie. Her eyes were wide. But she seemed very calm.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Very close,” said Annie. Her eyes were wide. But she seemed very calm.",
-    "sequence": 71034
+    "sequence": 71034,
+    "asset": "assets/mth09-ch07-sc178-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc179",
@@ -3278,9 +3387,16 @@
     "source_anchor_text": "Jack took a deep breath. He tried to be calm, too. He calmly took off his glasses. He calmly put them and the book into his pack. He calmly put his pack on his back.",
     "source_excerpt": "Jack took a deep breath. He tried to be calm, too. He calmly took off his glasses. He calmly put them and the book into his pack. He calmly put his pack on his back.",
     "action": "Jack took a deep breath. He tried to be calm, too. He calmly took off his glasses. He calmly put them and the book into his pack. He calmly put his pack on his back.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack took a deep breath. He tried to be calm, too. He calmly took off his glasses. He calmly put them and the book into his pack. He calmly put his pack on his back.",
-    "sequence": 71035
+    "sequence": 71035,
+    "asset": "assets/mth09-ch07-sc179-b12.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc180",
