@@ -3028,14 +3028,18 @@
     "status": "review_required",
     "description": "Jack looked up. The water wasn’t dripping now—it was spurting.",
     "sequence": 71007,
-    "asset": "assets/mth09-ch07-sc164-b12.webp",
+    "asset": "assets/mth09-ch07-sc164-b13.webp",
     "revisions": [
       {
         "asset": null,
         "reason": "source correction"
+      },
+      {
+        "asset": "assets/mth09-ch07-sc164-b12.webp",
+        "reason": "Leak drawn through transparent roof rather than cracked opaque ceiling"
       }
     ],
-    "review_reason": "Leak drawn through transparent roof rather than cracked opaque ceiling"
+    "review_reason": "Yellow submarine appears; vehicle must remain white"
   },
   {
     "id": "mth09-ch07-sc165",
@@ -3145,14 +3149,18 @@
     "source_anchor_text": "“The sub can make it. It doesn’t look that far,” he said.",
     "source_excerpt": "Jack looked out. He saw the reef in the distance.\n\n“The sub can make it. It doesn’t look that far,” he said.",
     "action": "“The sub can make it. It doesn’t look that far,” he said.",
-    "status": "review_required",
+    "status": "integrated",
     "description": "“The sub can make it. It doesn’t look that far,” he said.",
     "sequence": 71016,
-    "asset": "assets/mth09-ch07-sc169-b12.webp",
+    "asset": "assets/mth09-ch07-sc169-b13.webp",
     "revisions": [
       {
         "asset": null,
         "reason": "source correction"
+      },
+      {
+        "asset": "assets/mth09-ch07-sc169-b12.webp",
+        "reason": "Reef house incorrectly in tree above ground"
       }
     ],
     "review_reason": "Reef house incorrectly in tree above ground"
@@ -3289,14 +3297,18 @@
     "source_anchor_text": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
     "source_excerpt": "“I guess we’ll have to swim,” said Jack. He took a deep breath.\n\n“Right,” said Annie. “It’s a good thing we had swimming lessons this summer.”\n\n“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
     "action": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
-    "status": "review_required",
+    "status": "integrated",
     "description": "“Right,” said Jack. “And it’s a bad thing we just saw a shark.”",
     "sequence": 71027,
-    "asset": "assets/mth09-ch07-sc175-b12.webp",
+    "asset": "assets/mth09-ch07-sc175-b13.webp",
     "revisions": [
       {
         "asset": null,
         "reason": "source correction"
+      },
+      {
+        "asset": "assets/mth09-ch07-sc175-b12.webp",
+        "reason": "Jack glasses absent before storage"
       }
     ],
     "review_reason": "Jack glasses absent before storage"
@@ -3339,14 +3351,18 @@
     "source_anchor_text": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
     "source_excerpt": "Jack closed the book.\n\n“We better do the breast stroke,” said Annie. “So we won’t splash.”",
     "action": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
-    "status": "review_required",
+    "status": "integrated",
     "description": "“We better do the breast stroke,” said Annie. “So we won’t splash.”",
     "sequence": 71032,
-    "asset": "assets/mth09-ch07-sc177-b12.webp",
+    "asset": "assets/mth09-ch07-sc177-b13.webp",
     "revisions": [
       {
         "asset": null,
         "reason": "source correction"
+      },
+      {
+        "asset": "assets/mth09-ch07-sc177-b12.webp",
+        "reason": "Jack glasses absent before storage"
       }
     ],
     "review_reason": "Jack glasses absent before storage"
@@ -3410,9 +3426,16 @@
     "source_anchor_text": "Annie opened the hatch.",
     "source_excerpt": "Annie opened the hatch.",
     "action": "Annie opened the hatch.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Annie opened the hatch.",
-    "sequence": 71036
+    "sequence": 71036,
+    "asset": "assets/mth09-ch07-sc180-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc181",
@@ -3426,9 +3449,16 @@
     "source_anchor_text": "“Be calm,” Annie said. She slipped out of the mini-sub.",
     "source_excerpt": "“Be calm,” Annie said. She slipped out of the mini-sub.",
     "action": "“Be calm,” Annie said. She slipped out of the mini-sub.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Be calm,” Annie said. She slipped out of the mini-sub.",
-    "sequence": 71037
+    "sequence": 71037,
+    "asset": "assets/mth09-ch07-sc181-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch07-sc182",
@@ -3443,9 +3473,16 @@
     "source_anchor_text": "Then he calmly lowered himself into the ocean.",
     "source_excerpt": "“Help,” Jack said calmly. He held his nose.\n\nThen he calmly lowered himself into the ocean.",
     "action": "Then he calmly lowered himself into the ocean.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Then he calmly lowered himself into the ocean.",
-    "sequence": 71039
+    "sequence": 71039,
+    "asset": "assets/mth09-ch07-sc182-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch08-sc183",
@@ -3459,9 +3496,16 @@
     "source_anchor_text": "Jack moved his arms slowly. He moved his legs slowly. He gently pushed the water out of his way as he did the breast stroke.",
     "source_excerpt": "Jack moved his arms slowly. He moved his legs slowly. He gently pushed the water out of his way as he did the breast stroke.",
     "action": "Jack moved his arms slowly. He moved his legs slowly. He gently pushed the water out of his way as he did the breast stroke.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack moved his arms slowly. He moved his legs slowly. He gently pushed the water out of his way as he did the breast stroke.",
-    "sequence": 81001
+    "sequence": 81001,
+    "asset": "assets/mth09-ch08-sc183-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch08-sc184",
@@ -3477,9 +3521,16 @@
     "source_anchor_text": "All was calm.",
     "source_excerpt": "Calm, calm, he told himself.\n\nAnnie swam beside him. They headed for the reef.\n\nAll was calm.",
     "action": "All was calm.",
-    "status": "planned",
+    "status": "integrated",
     "description": "All was calm.",
-    "sequence": 81004
+    "sequence": 81004,
+    "asset": "assets/mth09-ch08-sc184-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch08-sc185",
@@ -3494,9 +3545,16 @@
     "source_anchor_text": "A dark fin was zigzagging through the water. It was heading toward them.",
     "source_excerpt": "Then Jack saw something out of the corner of his eye.\n\nA dark fin was zigzagging through the water. It was heading toward them.",
     "action": "A dark fin was zigzagging through the water. It was heading toward them.",
-    "status": "planned",
+    "status": "integrated",
     "description": "A dark fin was zigzagging through the water. It was heading toward them.",
-    "sequence": 81006
+    "sequence": 81006,
+    "asset": "assets/mth09-ch08-sc185-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch08-sc186",
@@ -3511,9 +3569,16 @@
     "source_anchor_text": "I better not tell Annie, he thought. She’ll stay calmer if she doesn’t know.",
     "source_excerpt": "Jack wanted to splash. He wanted to yell. But he remembered: calm.\n\nI better not tell Annie, he thought. She’ll stay calmer if she doesn’t know.",
     "action": "I better not tell Annie, he thought. She’ll stay calmer if she doesn’t know.",
-    "status": "planned",
+    "status": "integrated",
     "description": "I better not tell Annie, he thought. She’ll stay calmer if she doesn’t know.",
-    "sequence": 81008
+    "sequence": 81008,
+    "asset": "assets/mth09-ch08-sc186-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch08-sc187",
@@ -3528,9 +3593,16 @@
     "source_anchor_text": "They both swam as fast, and as calmly, as they could.",
     "source_excerpt": "He began to swim faster—then faster. Annie went faster, too.\n\nThey both swam as fast, and as calmly, as they could.",
     "action": "They both swam as fast, and as calmly, as they could.",
-    "status": "planned",
+    "status": "integrated",
     "description": "They both swam as fast, and as calmly, as they could.",
-    "sequence": 81010
+    "sequence": 81010,
+    "asset": "assets/mth09-ch08-sc187-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch08-sc188",
@@ -3545,9 +3617,16 @@
     "source_anchor_text": "Jack was so scared that he wasn’t tired at all. He was swimming for his life—and for Annie’s life, too.",
     "source_excerpt": "Sometimes Annie went even faster than Jack, which made him swim faster. And faster.\n\nJack was so scared that he wasn’t tired at all. He was swimming for his life—and for Annie’s life, too.",
     "action": "Jack was so scared that he wasn’t tired at all. He was swimming for his life—and for Annie’s life, too.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack was so scared that he wasn’t tired at all. He was swimming for his life—and for Annie’s life, too.",
-    "sequence": 81012
+    "sequence": 81012,
+    "asset": "assets/mth09-ch08-sc188-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch08-sc189",
@@ -3562,9 +3641,17 @@
     "source_anchor_text": "He just kept his eye on the tree house in the distance. And he kept swimming.",
     "source_excerpt": "He didn’t look back to see if the shark was still there. He didn’t want to know.\n\nHe just kept his eye on the tree house in the distance. And he kept swimming.",
     "action": "He just kept his eye on the tree house in the distance. And he kept swimming.",
-    "status": "planned",
+    "status": "review_required",
     "description": "He just kept his eye on the tree house in the distance. And he kept swimming.",
-    "sequence": 81014
+    "sequence": 81014,
+    "asset": "assets/mth09-ch08-sc189-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Ground-level reef treehouse rendered elevated on stilts"
   },
   {
     "id": "mth09-ch08-sc190",
@@ -3580,9 +3667,17 @@
     "source_anchor_text": "Jack realized the reef was farther away than he had thought.",
     "source_excerpt": "Jack and Annie swam and swam and swam.\n\nIt took forever for the tree house to get just a little closer.\n\nJack realized the reef was farther away than he had thought.",
     "action": "Jack realized the reef was farther away than he had thought.",
-    "status": "planned",
+    "status": "review_required",
     "description": "Jack realized the reef was farther away than he had thought.",
-    "sequence": 81017
+    "sequence": 81017,
+    "asset": "assets/mth09-ch08-sc190-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Ground-level reef treehouse rendered elevated on stilts"
   },
   {
     "id": "mth09-ch08-sc191",
@@ -3597,9 +3692,17 @@
     "source_anchor_text": "Annie was struggling, too.",
     "source_excerpt": "He kept swimming, but his arms and legs felt heavy.\n\nAnnie was struggling, too.",
     "action": "Annie was struggling, too.",
-    "status": "planned",
+    "status": "review_required",
     "description": "Annie was struggling, too.",
-    "sequence": 81019
+    "sequence": 81019,
+    "asset": "assets/mth09-ch08-sc191-b13.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ],
+    "review_reason": "Ground-level reef treehouse rendered elevated on stilts"
   },
   {
     "id": "mth09-ch08-sc192",
