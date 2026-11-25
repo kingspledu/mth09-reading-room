@@ -4031,9 +4031,16 @@
     "source_anchor_text": "“You’re nuts,” said Jack.",
     "source_excerpt": "“Kiss Sam now!” Annie said to Jack.\n\n“You’re nuts,” said Jack.",
     "action": "“You’re nuts,” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“You’re nuts,” said Jack.",
-    "sequence": 91010
+    "sequence": 91010,
+    "asset": "assets/mth09-ch09-sc204-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc205",
@@ -4048,9 +4055,16 @@
     "source_anchor_text": "Jack couldn’t resist. He threw his arms around the dolphin and gave him a quick kiss.",
     "source_excerpt": "But Sam nuzzled Jack’s head. Then he put his flippers around Jack’s neck.\n\nJack couldn’t resist. He threw his arms around the dolphin and gave him a quick kiss.",
     "action": "Jack couldn’t resist. He threw his arms around the dolphin and gave him a quick kiss.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack couldn’t resist. He threw his arms around the dolphin and gave him a quick kiss.",
-    "sequence": 91012
+    "sequence": 91012,
+    "asset": "assets/mth09-ch09-sc205-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc206",
@@ -4065,9 +4079,16 @@
     "source_anchor_text": "The two dolphins chattered to each other for a moment. They nodded at Jack and Annie and swam gracefully away.",
     "source_excerpt": "Sam nodded and made clicking sounds like laughter. Then he turned to Sukie.\n\nThe two dolphins chattered to each other for a moment. They nodded at Jack and Annie and swam gracefully away.",
     "action": "The two dolphins chattered to each other for a moment. They nodded at Jack and Annie and swam gracefully away.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The two dolphins chattered to each other for a moment. They nodded at Jack and Annie and swam gracefully away.",
-    "sequence": 91014
+    "sequence": 91014,
+    "asset": "assets/mth09-ch09-sc206-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc207",
@@ -4083,9 +4104,16 @@
     "source_anchor_text": "The dolphins leapt high into the air. Then they dove back into the water with a SPLASH!",
     "source_excerpt": "“Bye, Sukie! Bye, Sam!” Annie shouted.\n\n“Thanks!” Jack shouted.\n\nThe dolphins leapt high into the air. Then they dove back into the water with a SPLASH!",
     "action": "The dolphins leapt high into the air. Then they dove back into the water with a SPLASH!",
-    "status": "planned",
+    "status": "integrated",
     "description": "The dolphins leapt high into the air. Then they dove back into the water with a SPLASH!",
-    "sequence": 91017
+    "sequence": 91017,
+    "asset": "assets/mth09-ch09-sc207-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc208",
@@ -4100,9 +4128,16 @@
     "source_anchor_text": "Jack and Annie watched the dolphins until they disappeared.",
     "source_excerpt": "Jack and Annie laughed. “I wish we could swim like that,” said Jack.\n\nJack and Annie watched the dolphins until they disappeared.",
     "action": "Jack and Annie watched the dolphins until they disappeared.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack and Annie watched the dolphins until they disappeared.",
-    "sequence": 91019
+    "sequence": 91019,
+    "asset": "assets/mth09-ch09-sc208-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc209",
@@ -4117,9 +4152,16 @@
     "source_anchor_text": "“Me too,” said Jack.",
     "source_excerpt": "“I miss them already,” Annie said softly.\n\n“Me too,” said Jack.",
     "action": "“Me too,” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Me too,” said Jack.",
-    "sequence": 91021
+    "sequence": 91021,
+    "asset": "assets/mth09-ch09-sc209-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc210",
@@ -4135,9 +4177,16 @@
     "source_anchor_text": "Annie sat beside him.",
     "source_excerpt": "He sat down in the shallow water.\n\n“I’m really tired,” he said.\n\nAnnie sat beside him.",
     "action": "Annie sat beside him.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Annie sat beside him.",
-    "sequence": 91024
+    "sequence": 91024,
+    "asset": "assets/mth09-ch09-sc210-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc211",
@@ -4152,9 +4201,16 @@
     "source_anchor_text": "The warm water lapped around their shorts and T-shirts.",
     "source_excerpt": "“Me too,” she said.\n\nThe warm water lapped around their shorts and T-shirts.",
     "action": "The warm water lapped around their shorts and T-shirts.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The warm water lapped around their shorts and T-shirts.",
-    "sequence": 91026
+    "sequence": 91026,
+    "asset": "assets/mth09-ch09-sc211-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc212",
@@ -4168,9 +4224,16 @@
     "source_anchor_text": "Jack pulled off his pack. He took out his glasses and put them on. They were blurry with water.",
     "source_excerpt": "Jack pulled off his pack. He took out his glasses and put them on. They were blurry with water.",
     "action": "Jack pulled off his pack. He took out his glasses and put them on. They were blurry with water.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack pulled off his pack. He took out his glasses and put them on. They were blurry with water.",
-    "sequence": 91027
+    "sequence": 91027,
+    "asset": "assets/mth09-ch09-sc212-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc213",
@@ -4186,9 +4249,16 @@
     "source_anchor_text": "“I saw the shark when we were swimming,” Annie said. “But I didn’t tell you. I wanted you to stay calm.”",
     "source_excerpt": "“Guess what,” said Annie.\n\n“What?” said Jack.\n\n“I saw the shark when we were swimming,” Annie said. “But I didn’t tell you. I wanted you to stay calm.”",
     "action": "“I saw the shark when we were swimming,” Annie said. “But I didn’t tell you. I wanted you to stay calm.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I saw the shark when we were swimming,” Annie said. “But I didn’t tell you. I wanted you to stay calm.”",
-    "sequence": 91030
+    "sequence": 91030,
+    "asset": "assets/mth09-ch09-sc213-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc214",
@@ -4202,9 +4272,16 @@
     "source_anchor_text": "Jack stared at her. “I saw it, too. I just swam faster so you would swim faster.”",
     "source_excerpt": "Jack stared at her. “I saw it, too. I just swam faster so you would swim faster.”",
     "action": "Jack stared at her. “I saw it, too. I just swam faster so you would swim faster.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack stared at her. “I saw it, too. I just swam faster so you would swim faster.”",
-    "sequence": 91031
+    "sequence": 91031,
+    "asset": "assets/mth09-ch09-sc214-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc215",
@@ -4219,9 +4296,16 @@
     "source_anchor_text": "“I guess we swam double-fast then,” Jack said. He shook his head with wonder.",
     "source_excerpt": "“And I swam faster so you would swim faster,” said Annie.\n\n“I guess we swam double-fast then,” Jack said. He shook his head with wonder.",
     "action": "“I guess we swam double-fast then,” Jack said. He shook his head with wonder.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I guess we swam double-fast then,” Jack said. He shook his head with wonder.",
-    "sequence": 91033
+    "sequence": 91033,
+    "asset": "assets/mth09-ch09-sc215-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc216",
@@ -4236,9 +4320,16 @@
     "source_anchor_text": "“We go home,” said Jack.",
     "source_excerpt": "“What now?” said Annie.\n\n“We go home,” said Jack.",
     "action": "“We go home,” said Jack.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“We go home,” said Jack.",
-    "sequence": 91035
+    "sequence": 91035,
+    "asset": "assets/mth09-ch09-sc216-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc217",
@@ -4253,9 +4344,16 @@
     "source_anchor_text": "Jack sighed.",
     "source_excerpt": "“But we haven’t solved Morgan’s riddle yet,” said Annie.\n\nJack sighed.",
     "action": "Jack sighed.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack sighed.",
-    "sequence": 91037
+    "sequence": 91037,
+    "asset": "assets/mth09-ch09-sc217-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc218",
@@ -4270,9 +4368,16 @@
     "source_anchor_text": "He pulled out the ocean book. It was soaked, too.",
     "source_excerpt": "He pulled his notebook out of his pack. It was soaked.\n\nHe pulled out the ocean book. It was soaked, too.",
     "action": "He pulled out the ocean book. It was soaked, too.",
-    "status": "planned",
+    "status": "integrated",
     "description": "He pulled out the ocean book. It was soaked, too.",
-    "sequence": 91039
+    "sequence": 91039,
+    "asset": "assets/mth09-ch09-sc218-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc219",
@@ -4286,9 +4391,16 @@
     "source_anchor_text": "“We’ve failed,” he said. “My research is all wet. We’ll never be Master Librarians now.”",
     "source_excerpt": "“We’ve failed,” he said. “My research is all wet. We’ll never be Master Librarians now.”",
     "action": "“We’ve failed,” he said. “My research is all wet. We’ll never be Master Librarians now.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“We’ve failed,” he said. “My research is all wet. We’ll never be Master Librarians now.”",
-    "sequence": 91040
+    "sequence": 91040,
+    "asset": "assets/mth09-ch09-sc219-b15.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch09-sc220",
