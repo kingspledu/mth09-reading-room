@@ -12,6 +12,13 @@
       "image": "assets/mth09-marine-sheet-v1.webp",
       "prompt_summary": "Two distinct gray dolphins Sukie and Sam; eight-armed octopus with two sucker rows, hammerhead, reef life and closed oyster.",
       "review": "Inspected actual generated sheet; exact narrative state table overrides reference pose and prop availability."
+    },
+    {
+      "id": "sub",
+      "image": "assets/mth09-sub-sheet-v1.webp",
+      "prompt_summary": "Preserve original white bubble hull, two seats, side oval hatch, window and skids. Draw turnarounds, cutaway, controls and damage states.",
+      "revision_prompt": "Replace three ON buttons with one ON button in both console views. Replace cracked window state with interior opaque ceiling crack and drips. Preserve all other geometry.",
+      "review": "Original rejected; revised image visually checked: one ON per console, ceiling crack corrected."
     }
   ]
 }

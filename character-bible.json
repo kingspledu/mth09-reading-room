@@ -96,6 +96,12 @@
       "id": "marine",
       "image": "assets/mth09-marine-sheet-v1.webp",
       "status": "approved_with_text_state_overrides"
+    },
+    {
+      "id": "sub",
+      "image": "assets/mth09-sub-sheet-v1.webp",
+      "status": "approved_after_revision",
+      "review": "One ON button; ceiling cracks on opaque interior ceiling; observation glass intact."
     }
   ]
 }
