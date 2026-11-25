@@ -19,6 +19,13 @@
       "prompt_summary": "Preserve original white bubble hull, two seats, side oval hatch, window and skids. Draw turnarounds, cutaway, controls and damage states.",
       "revision_prompt": "Replace three ON buttons with one ON button in both console views. Replace cracked window state with interior opaque ceiling crack and drips. Preserve all other geometry.",
       "review": "Original rejected; revised image visually checked: one ON per console, ceiling crack corrected."
+    },
+    {
+      "id": "world",
+      "image": "assets/mth09-world-sheet-v1.webp",
+      "prompt_summary": "Six panels: dawn forest, ground-level pink reef house, underwater habitat, dry shoes and props, swimming Jack without glasses and Annie, wet return props with closed oyster.",
+      "revision_prompt": "Change only pink reef panel: remove stilts, veranda and ladder; house rests directly on flat pink coral ground. All other panels unchanged.",
+      "review": "Ground-level house corrected and visually checked. Dry-shoes panel is a prop inventory, not a scene asserting the backpack was left behind."
     }
   ]
 }

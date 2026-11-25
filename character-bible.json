@@ -102,6 +102,12 @@
       "image": "assets/mth09-sub-sheet-v1.webp",
       "status": "approved_after_revision",
       "review": "One ON button; ceiling cracks on opaque interior ceiling; observation glass intact."
+    },
+    {
+      "id": "world",
+      "image": "assets/mth09-world-sheet-v1.webp",
+      "status": "approved_after_revision",
+      "review": "Pink reef house corrected to ground level; no glasses on swimming Jack; closed oyster; dry shoes separate from wet book."
     }
   ]
 }
