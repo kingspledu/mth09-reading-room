@@ -5302,8 +5302,15 @@
     "source_anchor_text": "“Not one bit,” called Jack. Then he and Annie slipped up the stairs to change their clothes.",
     "source_excerpt": "“Did you get your shoes wet?” their mom called.\n\n“Not one bit,” called Jack. Then he and Annie slipped up the stairs to change their clothes.",
     "action": "“Not one bit,” called Jack. Then he and Annie slipped up the stairs to change their clothes.",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Not one bit,” called Jack. Then he and Annie slipped up the stairs to change their clothes.",
-    "sequence": 101023
+    "sequence": 101023,
+    "asset": "assets/mth09-ch10-sc255-b19.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   }
 ]
