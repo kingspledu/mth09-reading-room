@@ -2266,9 +2266,16 @@
     "source_anchor_text": "Two eyes were staring out from behind a giant sea plant. They looked human—except they were as big as golf balls.",
     "source_excerpt": "“Oh!” gasped Annie.\n\nJack gasped, too.\n\nTwo eyes were staring out from behind a giant sea plant. They looked human—except they were as big as golf balls.",
     "action": "Two eyes were staring out from behind a giant sea plant. They looked human—except they were as big as golf balls.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Two eyes were staring out from behind a giant sea plant. They looked human—except they were as big as golf balls.",
-    "sequence": 51040
+    "sequence": 51040,
+    "asset": "assets/mth09-ch05-sc132-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc133",
@@ -2282,9 +2289,16 @@
     "source_anchor_text": "The sub moved past the giant plant. Jack breathed a sigh of relief.",
     "source_excerpt": "The sub moved past the giant plant. Jack breathed a sigh of relief.",
     "action": "The sub moved past the giant plant. Jack breathed a sigh of relief.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The sub moved past the giant plant. Jack breathed a sigh of relief.",
-    "sequence": 51041
+    "sequence": 51041,
+    "asset": "assets/mth09-ch05-sc133-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc134",
@@ -2300,9 +2314,16 @@
     "source_anchor_text": "They stared back at the plant.",
     "source_excerpt": "“What—? Whose—?” sputtered Annie.\n\n“Don’t ask,” said Jack.\n\nThey stared back at the plant.",
     "action": "They stared back at the plant.",
-    "status": "planned",
+    "status": "integrated",
     "description": "They stared back at the plant.",
-    "sequence": 51044
+    "sequence": 51044,
+    "asset": "assets/mth09-ch05-sc134-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc135",
@@ -2318,9 +2339,16 @@
     "source_anchor_text": "Then another—and another—and another—and another—and another—and another!",
     "source_excerpt": "Just then, a long arm came out from behind it.\n\nThen another arm came out.\n\nThen another—and another—and another—and another—and another—and another!",
     "action": "Then another—and another—and another—and another—and another—and another!",
-    "status": "planned",
+    "status": "integrated",
     "description": "Then another—and another—and another—and another—and another—and another!",
-    "sequence": 51047
+    "sequence": 51047,
+    "asset": "assets/mth09-ch05-sc135-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc136",
@@ -2334,9 +2362,16 @@
     "source_anchor_text": "Jack and Annie stared in horror at a giant octopus.",
     "source_excerpt": "Jack and Annie stared in horror at a giant octopus.",
     "action": "Jack and Annie stared in horror at a giant octopus.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Jack and Annie stared in horror at a giant octopus.",
-    "sequence": 51048
+    "sequence": 51048,
+    "asset": "assets/mth09-ch05-sc136-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch05-sc137",
@@ -2351,9 +2386,16 @@
     "source_anchor_text": "Slowly, the octopus crept through the water. Its eight arms reached for the mini-sub.",
     "source_excerpt": "“It’s coming after us,” said Annie.\n\nSlowly, the octopus crept through the water. Its eight arms reached for the mini-sub.",
     "action": "Slowly, the octopus crept through the water. Its eight arms reached for the mini-sub.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Slowly, the octopus crept through the water. Its eight arms reached for the mini-sub.",
-    "sequence": 51050
+    "sequence": 51050,
+    "asset": "assets/mth09-ch05-sc137-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc138",
@@ -2367,9 +2409,16 @@
     "source_anchor_text": "The octopus hugged the mini-sub. Each of its eight arms had two rows of suckers. The suckers stuck to the window.",
     "source_excerpt": "The octopus hugged the mini-sub. Each of its eight arms had two rows of suckers. The suckers stuck to the window.",
     "action": "The octopus hugged the mini-sub. Each of its eight arms had two rows of suckers. The suckers stuck to the window.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The octopus hugged the mini-sub. Each of its eight arms had two rows of suckers. The suckers stuck to the window.",
-    "sequence": 61001
+    "sequence": 61001,
+    "asset": "assets/mth09-ch06-sc138-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc139",
@@ -2384,9 +2433,16 @@
     "source_anchor_text": "The octopus stared at Jack and Annie with huge, human-like eyes.",
     "source_excerpt": "The mini-sub stopped.\n\nThe octopus stared at Jack and Annie with huge, human-like eyes.",
     "action": "The octopus stared at Jack and Annie with huge, human-like eyes.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The octopus stared at Jack and Annie with huge, human-like eyes.",
-    "sequence": 61003
+    "sequence": 61003,
+    "asset": "assets/mth09-ch06-sc139-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc140",
@@ -2400,9 +2456,16 @@
     "source_anchor_text": "“I don’t think it wants to hurt us,” whispered Annie. “It’s just curious.”",
     "source_excerpt": "“I don’t think it wants to hurt us,” whispered Annie. “It’s just curious.”",
     "action": "“I don’t think it wants to hurt us,” whispered Annie. “It’s just curious.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“I don’t think it wants to hurt us,” whispered Annie. “It’s just curious.”",
-    "sequence": 61004
+    "sequence": 61004,
+    "asset": "assets/mth09-ch06-sc140-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc141",
@@ -2417,9 +2480,16 @@
     "source_anchor_text": "His hands shook as he flipped through the pages of the ocean book.",
     "source_excerpt": "“I—I’m going to research it,” said Jack.\n\nHis hands shook as he flipped through the pages of the ocean book.",
     "action": "His hands shook as he flipped through the pages of the ocean book.",
-    "status": "planned",
+    "status": "integrated",
     "description": "His hands shook as he flipped through the pages of the ocean book.",
-    "sequence": 61006
+    "sequence": 61006,
+    "asset": "assets/mth09-ch06-sc141-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc142",
@@ -2434,9 +2504,16 @@
     "source_anchor_text": "The octopus tends to be a gentle, shy creature. Sometimes, though, curiosity gets the best of it and it comes out of hiding.",
     "source_excerpt": "He found a picture of an octopus and read aloud:\n\nThe octopus tends to be a gentle, shy creature. Sometimes, though, curiosity gets the best of it and it comes out of hiding.",
     "action": "The octopus tends to be a gentle, shy creature. Sometimes, though, curiosity gets the best of it and it comes out of hiding.",
-    "status": "planned",
+    "status": "integrated",
     "description": "The octopus tends to be a gentle, shy creature. Sometimes, though, curiosity gets the best of it and it comes out of hiding.",
-    "sequence": 61008
+    "sequence": 61008,
+    "asset": "assets/mth09-ch06-sc142-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc143",
@@ -2450,9 +2527,16 @@
     "source_anchor_text": "“Aw. See, I told you, he’s shy,” said Annie. She yelled to the octopus, “Hi! I’m Annie! He’s Jack!”",
     "source_excerpt": "“Aw. See, I told you, he’s shy,” said Annie. She yelled to the octopus, “Hi! I’m Annie! He’s Jack!”",
     "action": "“Aw. See, I told you, he’s shy,” said Annie. She yelled to the octopus, “Hi! I’m Annie! He’s Jack!”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Aw. See, I told you, he’s shy,” said Annie. She yelled to the octopus, “Hi! I’m Annie! He’s Jack!”",
-    "sequence": 61009
+    "sequence": 61009,
+    "asset": "assets/mth09-ch06-sc143-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc144",
@@ -2467,9 +2551,16 @@
     "source_anchor_text": "But the octopus has huge strength. Each of its arms, or tentacles, has many suckers, which act like rubber suction cups. It is nearly impossible to free an object from their grasp.",
     "source_excerpt": "“Oh, brother,” moaned Jack. He read further:\n\nBut the octopus has huge strength. Each of its arms, or tentacles, has many suckers, which act like rubber suction cups. It is nearly impossible to free an object from their grasp.",
     "action": "But the octopus has huge strength. Each of its arms, or tentacles, has many suckers, which act like rubber suction cups. It is nearly impossible to free an object from their grasp.",
-    "status": "planned",
+    "status": "integrated",
     "description": "But the octopus has huge strength. Each of its arms, or tentacles, has many suckers, which act like rubber suction cups. It is nearly impossible to free an object from their grasp.",
-    "sequence": 61011
+    "sequence": 61011,
+    "asset": "assets/mth09-ch06-sc144-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc145",
@@ -2483,9 +2574,16 @@
     "source_anchor_text": "“Oh, great,” said Jack. “We’ll never get rid of this thing.”",
     "source_excerpt": "“Oh, great,” said Jack. “We’ll never get rid of this thing.”",
     "action": "“Oh, great,” said Jack. “We’ll never get rid of this thing.”",
-    "status": "planned",
+    "status": "integrated",
     "description": "“Oh, great,” said Jack. “We’ll never get rid of this thing.”",
-    "sequence": 61012
+    "sequence": 61012,
+    "asset": "assets/mth09-ch06-sc145-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc146",
@@ -2499,9 +2597,16 @@
     "source_anchor_text": "Just then, Jack felt a drop hit his arm. Water. He looked up at the ceiling.",
     "source_excerpt": "Just then, Jack felt a drop hit his arm. Water. He looked up at the ceiling.",
     "action": "Just then, Jack felt a drop hit his arm. Water. He looked up at the ceiling.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Just then, Jack felt a drop hit his arm. Water. He looked up at the ceiling.",
-    "sequence": 61013
+    "sequence": 61013,
+    "asset": "assets/mth09-ch06-sc146-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc147",
@@ -2517,9 +2622,16 @@
     "source_anchor_text": "Water dripped from the cracks.",
     "source_excerpt": "“Uh-oh,” said Annie.\n\nA thin crack ran along the ceiling. Smaller cracks branched out from it.\n\nWater dripped from the cracks.",
     "action": "Water dripped from the cracks.",
-    "status": "planned",
+    "status": "integrated",
     "description": "Water dripped from the cracks.",
-    "sequence": 61016
+    "sequence": 61016,
+    "asset": "assets/mth09-ch06-sc147-b10.webp",
+    "revisions": [
+      {
+        "asset": null,
+        "reason": "source correction"
+      }
+    ]
   },
   {
     "id": "mth09-ch06-sc148",
